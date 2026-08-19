@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer,City,Region,Category,Product,Quantity,Unit_Price,Discount_Percent,Total_Sales,Rating,Payment_Method
+1001,2026-02-27,Kabir Ali,Hyderabad,South,Electronics,Wireless Headphones,3,1499,0,4497.0,3.8,Cash on Delivery
+1002,2026-01-24,Aditya Verma,Jammu,North,Sports,Running Shoes,1,2799,0,2799.0,4.1,Cash on Delivery
+1003,2026-04-18,Sara Ahmed,Chennai,South,Electronics,Power Bank,2,1199,15,2038.3,4.6,Cash on Delivery
+1004,2026-03-13,Kabir Ali,Lucknow,North,Electronics,Mechanical Keyboard,4,2499,5,9496.2,4.1,Debit Card
+1005,2026-03-30,Priya Menon,Jammu,North,Electronics,Smart Watch,1,3299,5,3134.05,4.2,UPI
+1006,2026-01-21,Manya Rao,Kochi,South,Books,The Alchemist,1,499,10,449.1,4.2,Cash on Delivery
+1007,2026-01-12,Alina Shah,Jaipur,North,Home & Kitchen,Water Bottle,2,699,0,1398.0,4.1,Debit Card
+1008,2026-04-27,Aman Kumar,Jammu,North,Clothing,Hoodie,4,1599,5,6076.2,4.3,Credit Card
+1009,2026-06-05,Aman Kumar,Mumbai,West,Home & Kitchen,Electric Kettle,3,1499,0,4497.0,4.0,Cash on Delivery
+1010,2026-03-11,Aman Kumar,Kochi,South,Clothing,Jacket,4,2499,10,8996.4,4.7,Credit Card
+1011,2026-03-22,Rahul Das,Hyderabad,South,Home & Kitchen,Coffee Maker,2,3499,0,6998.0,4.2,UPI
+1012,2026-04-12,Aman Kumar,Chandigarh,North,Sports,Cricket Bat,2,2499,10,4498.2,4.6,Credit Card
+1013,2026-03-09,Maryam Khan,Lucknow,North,Clothing,Jacket,5,2499,15,10620.75,4.8,Net Banking
+1014,2026-02-05,Dev Patel,Jaipur,North,Sports,Running Shoes,3,2799,0,8397.0,4.6,UPI
+1015,2026-06-24,Sana Malik,Kolkata,East,Electronics,Wireless Headphones,2,1499,0,2998.0,4.8,UPI
+1016,2026-03-06,Manya Rao,Pune,West,Books,The Alchemist,4,499,15,1696.6,3.5,UPI
+1017,2026-03-17,Sana Malik,Hyderabad,South,Sports,Cricket Bat,3,2499,0,7497.0,4.0,Net Banking
+1018,2026-01-28,Aman Kumar,Srinagar,North,Home & Kitchen,Water Bottle,2,699,15,1188.3,4.2,Cash on Delivery
+1019,2026-05-19,Reyansh Jain,Chennai,South,Clothing,Jacket,3,2499,0,7497.0,4.7,UPI
+1020,2026-04-03,Mehak Bhat,Chennai,South,Home & Kitchen,Mixer Grinder,1,2999,0,2999.0,4.1,UPI
+1021,2026-01-18,Reyansh Jain,Chandigarh,North,Sports,Yoga Mat,1,899,10,809.1,4.7,Credit Card
+1022,2026-05-16,Priya Menon,Delhi,North,Books,The Alchemist,2,499,5,948.1,4.5,Credit Card
+1023,2026-06-21,Aman Kumar,Jaipur,North,Sports,Football,3,799,10,2157.3,4.3,Net Banking
+1024,2026-02-27,Rohan Mehta,Jaipur,North,Sports,Running Shoes,1,2799,0,2799.0,4.3,UPI
+1025,2026-01-02,Rohan Mehta,Chennai,South,Sports,Football,5,799,0,3995.0,5.0,UPI
+1026,2026-05-12,Sara Ahmed,Chandigarh,North,Electronics,Wireless Headphones,3,1499,0,4497.0,4.2,Net Banking
+1027,2026-05-02,Sara Ahmed,Chandigarh,North,Sports,Football,5,799,15,3395.75,4.6,Net Banking
+1028,2026-04-19,Sana Malik,Chandigarh,North,Electronics,Wireless Headphones,4,1499,5,5696.2,4.6,UPI
+1029,2026-01-28,Sara Ahmed,Hyderabad,South,Electronics,Wireless Headphones,4,1499,5,5696.2,4.1,Credit Card
+1030,2026-03-13,Karan Joshi,Bengaluru,South,Books,Python Programming,4,749,0,2996.0,4.1,UPI
+1031,2026-01-04,Rohan Mehta,Ahmedabad,West,Sports,Yoga Mat,1,899,15,764.15,4.1,Credit Card
+1032,2026-01-16,Ishita Gupta,Pune,West,Books,Atomic Habits,2,599,10,1078.2,4.5,UPI
+1033,2026-06-28,Maryam Khan,Pune,West,Home & Kitchen,Mixer Grinder,3,2999,10,8097.3,4.7,Net Banking
+1034,2026-05-29,Maryam Khan,Delhi,North,Clothing,T-Shirt,2,799,0,1598.0,4.7,UPI
+1035,2026-05-03,Dev Patel,Kochi,South,Home & Kitchen,Coffee Maker,1,3499,15,2974.15,4.7,Credit Card
+1036,2026-06-02,Rohan Mehta,Srinagar,North,Sports,Yoga Mat,2,899,0,1798.0,5.0,Credit Card
+1037,2026-06-02,Zoya Khan,Pune,West,Electronics,Power Bank,2,1199,15,2038.3,4.8,UPI
+1038,2026-03-08,Aditya Verma,Pune,West,Sports,Dumbbell Set,5,1999,5,9495.25,5.0,Debit Card
+1039,2026-04-28,Vivaan Kapoor,Chandigarh,North,Home & Kitchen,Mixer Grinder,2,2999,5,5698.1,3.8,UPI
+1040,2026-05-18,Aditya Verma,Ahmedabad,West,Sports,Dumbbell Set,1,1999,0,1999.0,4.7,Debit Card
+1041,2026-03-14,Ishita Gupta,Delhi,North,Home & Kitchen,Coffee Maker,2,3499,5,6648.1,4.6,Cash on Delivery
+1042,2026-06-20,Manya Rao,Kochi,South,Home & Kitchen,Water Bottle,5,699,0,3495.0,4.2,UPI
+1043,2026-05-22,Kabir Ali,Jaipur,North,Clothing,T-Shirt,1,799,0,799.0,4.2,Debit Card
+1044,2026-05-10,Hiba Sheikh,Chennai,South,Clothing,T-Shirt,2,799,5,1518.1,4.2,UPI
+1045,2026-03-27,Reyansh Jain,Jammu,North,Books,Machine Learning Basics,1,999,0,999.0,4.0,Debit Card
+1046,2026-01-03,Ananya Singh,Delhi,North,Books,The Alchemist,4,499,15,1696.6,3.8,Credit Card
+1047,2026-02-07,Sana Malik,Bengaluru,South,Electronics,Wireless Mouse,5,899,15,3820.75,4.0,UPI
+1048,2026-06-24,Sara Ahmed,Lucknow,North,Home & Kitchen,Coffee Maker,3,3499,0,10497.0,5.0,UPI
+1049,2026-03-02,Ishita Gupta,Mumbai,West,Sports,Running Shoes,5,2799,0,13995.0,4.0,Net Banking
+1050,2026-03-10,Ishita Gupta,Srinagar,North,Clothing,T-Shirt,4,799,0,3196.0,3.8,Net Banking
+1051,2026-04-28,Aisha Mir,Bhubaneswar,East,Electronics,Smart Watch,2,3299,0,6598.0,4.2,Credit Card
+1052,2026-03-13,Rohan Mehta,Chandigarh,North,Electronics,Mechanical Keyboard,4,2499,5,9496.2,4.2,Debit Card
+1053,2026-01-08,Ananya Singh,Hyderabad,South,Sports,Running Shoes,5,2799,5,13295.25,4.2,Credit Card
+1054,2026-04-22,Aisha Mir,Chennai,South,Home & Kitchen,Coffee Maker,1,3499,15,2974.15,4.3,Net Banking
+1055,2026-02-18,Arjun Nair,Chennai,South,Sports,Yoga Mat,4,899,15,3056.6,3.5,Net Banking
+1056,2026-04-21,Rohan Mehta,Srinagar,North,Sports,Dumbbell Set,2,1999,5,3798.1,5.0,Debit Card
+1057,2026-03-21,Alina Shah,Chennai,South,Home & Kitchen,Coffee Maker,3,3499,15,8922.45,4.5,Debit Card
+1058,2026-04-18,Alina Shah,Pune,West,Home & Kitchen,Water Bottle,2,699,0,1398.0,4.5,Credit Card
+1059,2026-01-01,Mehak Bhat,Chennai,South,Sports,Cricket Bat,4,2499,15,8496.6,4.2,Credit Card
+1060,2026-04-24,Karan Joshi,Pune,West,Sports,Dumbbell Set,3,1999,10,5397.3,5.0,Credit Card
+1061,2026-05-12,Alina Shah,Bengaluru,South,Books,Python Programming,1,749,5,711.55,5.0,Cash on Delivery
+1062,2026-02-20,Kabir Ali,Mumbai,West,Electronics,Mechanical Keyboard,3,2499,0,7497.0,3.5,UPI
+1063,2026-04-17,Aman Kumar,Chandigarh,North,Books,The Alchemist,1,499,10,449.1,4.8,Credit Card
+1064,2026-02-07,Aman Kumar,Kochi,South,Books,Atomic Habits,4,599,0,2396.0,3.5,UPI
+1065,2026-04-29,Zoya Khan,Kolkata,East,Books,Python Programming,2,749,15,1273.3,4.7,Credit Card
+1066,2026-06-20,Dev Patel,Jaipur,North,Electronics,Smart Watch,2,3299,10,5938.2,4.7,Cash on Delivery
+1067,2026-05-21,Karan Joshi,Mumbai,West,Books,The Alchemist,5,499,10,2245.5,4.0,Net Banking
+1068,2026-05-05,Aman Kumar,Ahmedabad,West,Home & Kitchen,Electric Kettle,3,1499,15,3822.45,4.1,Debit Card
+1069,2026-03-27,Vivaan Kapoor,Ahmedabad,West,Electronics,Wireless Mouse,2,899,5,1708.1,4.7,UPI
+1070,2026-06-30,Aditya Verma,Delhi,North,Clothing,Jacket,4,2499,0,9996.0,3.8,Net Banking
+1071,2026-01-16,Aditya Verma,Pune,West,Home & Kitchen,Water Bottle,4,699,10,2516.4,4.5,Net Banking
+1072,2026-05-03,Aarav Sharma,Jaipur,North,Sports,Yoga Mat,5,899,10,4045.5,4.3,Debit Card
+1073,2026-06-04,Sara Ahmed,Kolkata,East,Books,Atomic Habits,5,599,15,2545.75,4.6,Credit Card
+1074,2026-03-28,Alina Shah,Lucknow,North,Books,Atomic Habits,1,599,10,539.1,5.0,Net Banking
+1075,2026-05-17,Aarav Sharma,Kochi,South,Clothing,Jeans,2,1899,15,3228.3,4.5,Cash on Delivery
+1076,2026-04-29,Ishita Gupta,Chennai,South,Electronics,Wireless Headphones,4,1499,0,5996.0,3.5,Debit Card
+1077,2026-03-28,Reyansh Jain,Pune,West,Home & Kitchen,Electric Kettle,4,1499,5,5696.2,4.5,Debit Card
+1078,2026-01-05,Maryam Khan,Kolkata,East,Books,Machine Learning Basics,1,999,10,899.1,4.7,UPI
+1079,2026-03-05,Aditya Verma,Mumbai,West,Clothing,Hoodie,1,1599,0,1599.0,3.5,Cash on Delivery
+1080,2026-05-25,Aditya Verma,Delhi,North,Clothing,Jacket,4,2499,0,9996.0,4.6,Debit Card
+1081,2026-01-30,Reyansh Jain,Kolkata,East,Home & Kitchen,Electric Kettle,5,1499,15,6370.75,4.0,Debit Card
+1082,2026-06-23,Rahul Das,Jammu,North,Sports,Yoga Mat,3,899,15,2292.45,4.5,Credit Card
+1083,2026-06-25,Priya Menon,Jammu,North,Sports,Football,1,799,5,759.05,3.8,Cash on Delivery
+1084,2026-06-19,Aisha Mir,Kolkata,East,Electronics,Wireless Mouse,5,899,10,4045.5,3.8,Cash on Delivery
+1085,2026-01-28,Sana Malik,Hyderabad,South,Home & Kitchen,Coffee Maker,4,3499,10,12596.4,4.3,Net Banking
+1086,2026-06-16,Arjun Nair,Kochi,South,Clothing,Jeans,2,1899,15,3228.3,4.8,Cash on Delivery
+1087,2026-03-10,Vivaan Kapoor,Kolkata,East,Books,Atomic Habits,4,599,15,2036.6,4.1,UPI
+1088,2026-06-06,Alina Shah,Lucknow,North,Books,Python Programming,4,749,15,2546.6,4.5,Debit Card
+1089,2026-02-24,Aisha Mir,Srinagar,North,Books,Machine Learning Basics,2,999,10,1798.2,4.2,Debit Card
+1090,2026-05-13,Aditya Verma,Lucknow,North,Sports,Cricket Bat,5,2499,0,12495.0,3.8,Credit Card
+1091,2026-06-26,Hiba Sheikh,Kochi,South,Books,Atomic Habits,5,599,0,2995.0,5.0,Net Banking
+1092,2026-04-14,Nikhil Sood,Ahmedabad,West,Electronics,Wireless Headphones,3,1499,0,4497.0,4.1,Debit Card
+1093,2026-05-16,Aisha Mir,Hyderabad,South,Sports,Cricket Bat,4,2499,15,8496.6,4.5,Cash on Delivery
+1094,2026-03-06,Sara Ahmed,Mumbai,West,Home & Kitchen,Mixer Grinder,3,2999,5,8547.15,3.8,Credit Card
+1095,2026-02-25,Maryam Khan,Mumbai,West,Electronics,Power Bank,2,1199,0,2398.0,4.6,Debit Card
+1096,2026-01-26,Aditya Verma,Kochi,South,Sports,Dumbbell Set,5,1999,5,9495.25,4.2,Credit Card
+1097,2026-02-02,Arjun Nair,Mumbai,West,Clothing,T-Shirt,1,799,15,679.15,3.5,UPI
+1098,2026-01-04,Yusuf Dar,Bengaluru,South,Home & Kitchen,Electric Kettle,4,1499,0,5996.0,4.2,Net Banking
+1099,2026-03-06,Hiba Sheikh,Ahmedabad,West,Books,Machine Learning Basics,2,999,0,1998.0,3.8,UPI
+1100,2026-02-08,Kabir Ali,Pune,West,Books,Data Science Handbook,5,899,0,4495.0,4.8,Debit Card
