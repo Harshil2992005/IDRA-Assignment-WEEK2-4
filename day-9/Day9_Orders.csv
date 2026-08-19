@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Customer_ID,Product_ID,Quantity,Payment_Method,Order_Status
+O0001,2026-02-19,C027,P019,2,Credit Card,Delivered
+O0002,2026-01-25,C006,P003,2,Debit Card,Delivered
+O0003,2026-02-26,C015,P004,1,Cash on Delivery,Delivered
+O0004,2026-03-04,C024,P015,3,Net Banking,Delivered
+O0005,2026-03-29,C025,P009,5,Credit Card,Delivered
+O0006,2026-02-09,C003,P018,3,UPI,Delivered
+O0007,2026-02-10,C011,P003,3,UPI,Delivered
+O0008,2026-03-27,C020,P005,4,Debit Card,Delivered
+O0009,2026-03-13,C024,P009,2,UPI,Cancelled
+O0010,2026-03-05,C026,P005,2,Debit Card,Shipped
+O0011,2026-01-26,C022,P020,2,Net Banking,Cancelled
+O0012,2026-02-03,C017,P008,5,Credit Card,Delivered
+O0013,2026-03-22,C005,P009,3,Cash on Delivery,Delivered
+O0014,2026-02-20,C007,P010,4,UPI,Shipped
+O0015,2026-02-16,C027,P011,3,Credit Card,Cancelled
+O0016,2026-02-25,C011,P008,3,UPI,Delivered
+O0017,2026-02-27,C023,P011,4,Net Banking,Delivered
+O0018,2026-01-05,C003,P011,4,Net Banking,Cancelled
+O0019,2026-03-05,C019,P017,4,Net Banking,Delivered
+O0020,2026-02-06,C010,P012,3,Credit Card,Delivered
+O0021,2026-01-09,C026,P019,1,Debit Card,Cancelled
+O0022,2026-01-02,C023,P014,4,Net Banking,Delivered
+O0023,2026-02-04,C015,P013,3,Debit Card,Delivered
+O0024,2026-02-20,C030,P001,4,Net Banking,Delivered
+O0025,2026-01-22,C026,P008,2,Cash on Delivery,Cancelled
+O0026,2026-01-28,C015,P005,2,UPI,Delivered
+O0027,2026-01-11,C002,P008,1,Cash on Delivery,Shipped
+O0028,2026-01-07,C006,P011,3,UPI,Delivered
+O0029,2026-01-15,C005,P017,1,Cash on Delivery,Cancelled
+O0030,2026-03-05,C017,P010,3,Net Banking,Shipped
+O0031,2026-03-24,C013,P014,2,Debit Card,Delivered
+O0032,2026-01-25,C017,P005,2,Credit Card,Shipped
+O0033,2026-02-13,C010,P008,5,Credit Card,Delivered
+O0034,2026-01-13,C010,P020,5,Credit Card,Delivered
+O0035,2026-03-01,C003,P007,2,Net Banking,Cancelled
+O0036,2026-03-14,C026,P016,5,Debit Card,Shipped
+O0037,2026-03-30,C028,P005,1,Credit Card,Delivered
+O0038,2026-01-25,C024,P008,1,Credit Card,Delivered
+O0039,2026-02-09,C016,P020,5,Credit Card,Delivered
+O0040,2026-02-03,C008,P010,4,Cash on Delivery,Delivered
+O0041,2026-01-04,C008,P012,5,Cash on Delivery,Delivered
+O0042,2026-01-29,C012,P008,5,Net Banking,Delivered
+O0043,2026-01-10,C003,P012,4,Net Banking,Delivered
+O0044,2026-02-27,C016,P019,4,Credit Card,Delivered
+O0045,2026-01-14,C006,P017,1,Debit Card,Cancelled
+O0046,2026-01-09,C019,P012,2,Cash on Delivery,Delivered
+O0047,2026-02-15,C005,P004,5,Credit Card,Cancelled
+O0048,2026-02-02,C020,P012,2,Debit Card,Cancelled
+O0049,2026-02-27,C010,P006,3,Cash on Delivery,Delivered
+O0050,2026-02-18,C020,P001,1,Credit Card,Shipped
+O0051,2026-01-01,C008,P017,4,Net Banking,Delivered
+O0052,2026-03-10,C024,P008,5,Debit Card,Delivered
+O0053,2026-03-19,C021,P004,3,Credit Card,Cancelled
+O0054,2026-01-30,C019,P007,3,Credit Card,Cancelled
+O0055,2026-02-23,C008,P009,4,Net Banking,Cancelled
+O0056,2026-01-08,C015,P018,3,Debit Card,Delivered
+O0057,2026-03-02,C027,P008,2,Cash on Delivery,Delivered
+O0058,2026-02-05,C029,P005,5,UPI,Cancelled
+O0059,2026-03-09,C017,P020,2,Net Banking,Delivered
+O0060,2026-03-15,C007,P006,1,Debit Card,Cancelled
+O0061,2026-03-02,C020,P002,2,Credit Card,Delivered
+O0062,2026-03-25,C009,P014,2,UPI,Delivered
+O0063,2026-02-25,C030,P020,3,Credit Card,Shipped
+O0064,2026-01-30,C007,P009,4,Credit Card,Cancelled
+O0065,2026-03-14,C024,P020,2,Cash on Delivery,Delivered
+O0066,2026-02-05,C004,P001,2,Debit Card,Cancelled
+O0067,2026-02-22,C005,P017,1,Debit Card,Delivered
+O0068,2026-02-22,C018,P010,2,Debit Card,Delivered
+O0069,2026-01-27,C028,P004,4,Debit Card,Delivered
+O0070,2026-03-18,C011,P004,2,Net Banking,Delivered
+O0071,2026-01-21,C020,P016,1,UPI,Delivered
+O0072,2026-03-21,C029,P009,4,Net Banking,Cancelled
+O0073,2026-03-02,C029,P004,3,Debit Card,Cancelled
+O0074,2026-03-19,C014,P013,4,Credit Card,Delivered
+O0075,2026-02-08,C027,P004,4,UPI,Delivered
+O0076,2026-01-03,C019,P015,1,Debit Card,Delivered
+O0077,2026-03-27,C006,P020,3,Net Banking,Delivered
+O0078,2026-02-17,C029,P004,5,Cash on Delivery,Delivered
+O0079,2026-01-16,C021,P012,5,Debit Card,Delivered
+O0080,2026-03-29,C026,P019,5,Debit Card,Delivered
+O0081,2026-01-19,C022,P018,2,Credit Card,Delivered
+O0082,2026-01-30,C014,P013,4,Cash on Delivery,Delivered
+O0083,2026-02-24,C009,P013,1,Debit Card,Shipped
+O0084,2026-01-27,C013,P004,3,Credit Card,Delivered
+O0085,2026-03-01,C028,P011,2,Cash on Delivery,Delivered
+O0086,2026-01-28,C024,P006,5,Debit Card,Delivered
+O0087,2026-03-28,C006,P004,5,Cash on Delivery,Cancelled
+O0088,2026-01-30,C022,P008,2,Debit Card,Cancelled
+O0089,2026-03-14,C015,P008,4,Credit Card,Shipped
+O0090,2026-02-07,C022,P019,2,Cash on Delivery,Shipped
+O0091,2026-01-01,C002,P011,2,Credit Card,Delivered
+O0092,2026-02-21,C027,P006,2,Debit Card,Delivered
+O0093,2026-02-08,C012,P016,3,Debit Card,Delivered
+O0094,2026-01-17,C011,P002,4,Net Banking,Cancelled
+O0095,2026-02-25,C015,P011,2,Cash on Delivery,Delivered
+O0096,2026-02-07,C002,P013,1,Net Banking,Shipped
+O0097,2026-02-24,C004,P006,2,Cash on Delivery,Delivered
+O0098,2026-02-03,C009,P006,1,Credit Card,Delivered
+O0099,2026-01-17,C010,P001,2,UPI,Shipped
+O0100,2026-03-19,C003,P008,4,Credit Card,Delivered
+O0101,2026-02-24,C009,P012,1,UPI,Delivered
+O0102,2026-01-20,C021,P012,3,Credit Card,Shipped
+O0103,2026-03-03,C022,P005,1,Debit Card,Delivered
+O0104,2026-01-05,C011,P006,3,Debit Card,Shipped
+O0105,2026-01-22,C020,P016,4,UPI,Delivered
+O0106,2026-01-02,C001,P009,1,Net Banking,Delivered
+O0107,2026-01-26,C021,P003,2,Cash on Delivery,Delivered
+O0108,2026-01-04,C006,P020,1,Net Banking,Delivered
+O0109,2026-03-17,C023,P019,5,Debit Card,Cancelled
+O0110,2026-01-05,C007,P005,1,UPI,Delivered
+O0111,2026-03-14,C001,P001,4,Debit Card,Delivered
+O0112,2026-01-15,C012,P006,4,UPI,Delivered
+O0113,2026-03-22,C008,P014,1,UPI,Delivered
+O0114,2026-02-12,C019,P011,5,Credit Card,Delivered
+O0115,2026-01-23,C014,P007,2,Credit Card,Delivered
+O0116,2026-02-19,C025,P010,1,Net Banking,Delivered
+O0117,2026-02-21,C019,P015,3,Cash on Delivery,Shipped
+O0118,2026-03-09,C025,P016,4,Credit Card,Delivered
+O0119,2026-02-03,C015,P019,2,Debit Card,Delivered
+O0120,2026-01-21,C013,P020,1,Cash on Delivery,Cancelled

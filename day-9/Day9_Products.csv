@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Unit_Price,Brand
+P001,Wireless Headphones,Electronics,1499,SoundMax
+P002,Mechanical Keyboard,Electronics,2499,KeyPro
+P003,Wireless Mouse,Electronics,899,TechGear
+P004,Smart Watch,Electronics,3299,FitTech
+P005,Power Bank,Electronics,1199,VoltPlus
+P006,Hoodie,Clothing,1599,UrbanWear
+P007,Jacket,Clothing,2499,NorthStyle
+P008,Sneakers,Clothing,2999,StepUp
+P009,Coffee Maker,Home & Kitchen,3499,HomeBrew
+P010,Electric Kettle,Home & Kitchen,1499,KitchenPro
+P011,Air Fryer,Home & Kitchen,4999,CookSmart
+P012,Water Bottle,Home & Kitchen,699,HydroLife
+P013,Python Programming,Books,749,TechBooks
+P014,Data Science Handbook,Books,899,DataPress
+P015,Machine Learning Basics,Books,999,AIPress
+P016,Atomic Habits,Books,599,MindReads
+P017,Yoga Mat,Sports,899,FitLife
+P018,Football,Sports,799,SportZone
+P019,Cricket Bat,Sports,2499,BatPro
+P020,Dumbbell Set,Sports,1999,StrongFit
