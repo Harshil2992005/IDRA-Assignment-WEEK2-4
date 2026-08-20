@@ -1,0 +1,181 @@
+Flight_ID,Flight_Date,Airline,Origin,Destination,Aircraft,Travel_Class,Passengers,Seat_Capacity,Average_Ticket_Price,Delay_Minutes,Flight_Status,Weather,Booking_Channel,Avg_Baggage_Kg,Meal_Preference,Passenger_Satisfaction
+FL0001,2026-03-23,SpiceJet,Mumbai,Bengaluru,Airbus A319,Economy,210,180,6894,50.0,Delayed,Storm,Online Travel Portal,23,No Meal,3
+FL0002,2026-06-07,Akasa Air,Delhi,Mumbai,Boeing 737,Economy,70,210,4468,0.0,On Time,Fog,Travel Agency,16,Vegan,5
+FL0003,2026-05-12,Air India,Kochi,Delhi,Boeing 737,Economy,67,220,4713,5.0,On Time,Rain,Travel Agency,19,No Meal,2
+FL0004,2026-05-30,Akasa Air,Srinagar,Delhi,Airbus A319,Economy,153,220,3791,35.0,Delayed,Storm,Travel Agency,18,No Meal,2
+FL0005,2026-02-27,Air India,Pune,Delhi,Airbus A319,Premium Economy,178,180,6505,20.0,Delayed,Cloudy,Airline Website,25,No Meal,5
+FL0006,2026-05-20,Akasa Air,Kochi,Delhi,Airbus A319,Economy,123,220,5636,35.0,Delayed,Cloudy,Travel Agency,13,Vegetarian,2
+FL0007,2026-06-17,Air India Express,Delhi,Srinagar,Airbus A319,Premium Economy,178,210,9430,0.0,On Time,Storm,Online Travel Portal,18,Vegetarian,4
+FL0008,2026-04-28,Air India,Delhi,Chennai,Airbus A319,Business,157,220,14173,0.0,On Time,Fog,Airline Website,25,Vegan,5
+FL0009,2026-01-25,Akasa Air,Delhi,Chennai,Airbus A320,Economy,82,210,5893,75.0,Delayed,Cloudy,Mobile App,8,Vegetarian,4
+FL0010,2026-06-12,Akasa Air,Ahmedabad,Bengaluru,Airbus A321,Economy,125,220,2500,12.0,On Time,Cloudy,Online Travel Portal,23,Non-Vegetarian,4
+FL0011,2026-04-17,Air India,Mumbai,Bengaluru,Airbus A321,Economy,195,189,3393,5.0,On Time,Clear,Airline Website,17,Vegetarian,2
+FL0012,2026-03-30,Akasa Air,Lucknow,Delhi,Boeing 737,Economy,51,220,3046,5.0,On Time,Clear,Online Travel Portal,19,Non-Vegetarian,3
+FL0013,2026-05-14,SpiceJet,Pune,Delhi,Airbus A319,Economy,162,220,4689,0.0,On Time,Cloudy,Mobile App,6,Vegetarian,5
+FL0014,2026-06-14,Air India,Lucknow,Delhi,Airbus A321,Economy,78,220,2744,0.0,On Time,Cloudy,Online Travel Portal,13,No Meal,5
+FL0015,2026-01-21,Akasa Air,Lucknow,Delhi,Boeing 737,Economy,133,186,3911,0.0,On Time,Cloudy,Travel Agency,21,No Meal,5
+FL0016,2026-05-15,Akasa Air,Mumbai,Bengaluru,Boeing 737,Premium Economy,69,186,7860,0.0,On Time,Storm,Mobile App,5,Vegan,3
+FL0017,2026-05-24,SpiceJet,Delhi,Chennai,Airbus A321,Economy,73,220,4256,20.0,Delayed,Rain,Travel Agency,22,Non-Vegetarian,2
+FL0018,2026-03-09,Air India Express,Jaipur,Mumbai,Airbus A321,Economy,88,180,6133,20.0,Delayed,Clear,Travel Agency,13,Vegetarian,4
+FL0019,2026-03-22,Vistara,Bengaluru,Kochi,Airbus A319,Economy,61,180,4986,0.0,On Time,Clear,Airline Website,8,Non-Vegetarian,2
+FL0020,2026-02-01,SpiceJet,Mumbai,Kolkata,Airbus A320,Economy,125,210,5715,12.0,On Time,Fog,Travel Agency,24,Non-Vegetarian,5
+FL0021,2026-06-23,Vistara,Srinagar,Delhi,Airbus A320,Premium Economy,173,189,9018,0.0,On Time,Fog,Airline Website,14,Vegan,4
+FL0022,2026-02-01,Vistara,Kochi,Delhi,Airbus A321,Economy,126,220,5887,75.0,Delayed,Clear,Airline Website,10,Vegetarian,2
+FL0023,2026-02-02,Akasa Air,Delhi,Mumbai,Airbus A319,Economy,52,210,4620,12.0,On Time,Fog,Mobile App,9,Non-Vegetarian,2
+FL0024,2026-05-19,SpiceJet,Ahmedabad,Bengaluru,Airbus A319,Economy,110,186,5578,,Cancelled,Rain,Travel Agency,9,Vegetarian,3
+FL0025,2026-01-10,Vistara,Chennai,Mumbai,Airbus A320,Economy,112,189,6784,12.0,On Time,Clear,Mobile App,20,Vegetarian,3
+FL0026,2026-05-11,Air India,Ahmedabad,Bengaluru,Boeing 737,Premium Economy,137,186,8836,12.0,On Time,Fog,Online Travel Portal,22,No Meal,4
+FL0027,2026-02-10,SpiceJet,Bengaluru,Hyderabad,Airbus A319,Economy,169,180,3973,110.0,Delayed,Clear,Mobile App,7,Vegan,4
+FL0028,2026-03-09,SpiceJet,Chennai,Mumbai,Boeing 737,Economy,49,220,3311,0.0,On Time,Clear,Online Travel Portal,17,Non-Vegetarian,2
+FL0029,2026-02-06,Air India Express,Mumbai,Bengaluru,Airbus A321,Premium Economy,185,189,8098,0.0,On Time,Rain,Travel Agency,22,Vegan,4
+FL0030,2026-04-10,SpiceJet,Delhi,Srinagar,Airbus A321,Economy,200,210,2716,75.0,Delayed,Storm,Airline Website,10,Vegan,3
+FL0031,2026-01-08,Vistara,Delhi,Srinagar,Airbus A321,Premium Economy,209,180,9962,50.0,Delayed,Cloudy,Mobile App,9,Vegetarian,4
+FL0032,2026-01-28,Vistara,Hyderabad,Kolkata,Airbus A319,Premium Economy,142,189,6730,12.0,On Time,Fog,Airline Website,22,Non-Vegetarian,4
+FL0033,2026-04-27,Akasa Air,Ahmedabad,Bengaluru,Boeing 737,Business,66,180,17625,35.0,Delayed,Cloudy,Mobile App,15,No Meal,4
+FL0034,2026-06-18,Air India Express,Delhi,Chennai,Boeing 737,Premium Economy,125,186,9278,0.0,On Time,Rain,Online Travel Portal,23,No Meal,3
+FL0035,2026-04-24,Vistara,Delhi,Srinagar,Boeing 737,Premium Economy,77,210,11441,0.0,On Time,Fog,Travel Agency,9,Vegan,3
+FL0036,2026-02-06,Akasa Air,Delhi,Chennai,Airbus A320,Economy,113,189,3471,12.0,On Time,Rain,Online Travel Portal,15,Vegetarian,5
+FL0037,2026-06-23,Vistara,Bengaluru,Kochi,Airbus A320,Premium Economy,184,220,11614,0.0,On Time,Fog,Mobile App,5,Vegan,4
+FL0038,2026-03-27,Air India,Delhi,Srinagar,Airbus A320,Economy,166,210,5972,,Cancelled,Rain,Travel Agency,5,Non-Vegetarian,5
+FL0039,2026-03-12,IndiGo,Chennai,Mumbai,Airbus A320,Economy,65,220,5085,20.0,Delayed,Rain,Mobile App,19,Non-Vegetarian,3
+FL0040,2026-03-21,Vistara,Kochi,Delhi,Airbus A319,Economy,178,220,5361,12.0,On Time,Cloudy,Mobile App,20,Vegan,4
+FL0041,2026-03-23,Akasa Air,Delhi,Chennai,Airbus A321,Economy,170,189,4013,,Cancelled,Fog,Travel Agency,13,No Meal,3
+FL0042,2026-03-12,IndiGo,Delhi,Chennai,Boeing 737,Economy,122,186,5670,12.0,On Time,Storm,Airline Website,21,Vegan,5
+FL0043,2026-06-19,Vistara,Delhi,Chennai,Airbus A319,Economy,64,220,4029,50.0,Delayed,Clear,Mobile App,5,No Meal,3
+FL0044,2026-04-20,Air India Express,Bengaluru,Hyderabad,Airbus A319,Economy,176,186,3075,35.0,Delayed,Storm,Travel Agency,16,No Meal,3
+FL0045,2026-06-05,SpiceJet,Delhi,Srinagar,Airbus A320,Economy,81,186,3975,35.0,Delayed,Clear,Travel Agency,14,Non-Vegetarian,3
+FL0046,2026-05-19,Air India,Mumbai,Kolkata,Airbus A321,Economy,162,186,3371,0.0,On Time,Storm,Online Travel Portal,22,Vegetarian,4
+FL0047,2026-05-12,Air India Express,Bengaluru,Hyderabad,Airbus A320,Economy,164,210,3135,0.0,On Time,Clear,Airline Website,8,Vegan,4
+FL0048,2026-01-08,Air India,Delhi,Chennai,Airbus A321,Economy,68,210,3697,20.0,Delayed,Fog,Mobile App,16,Non-Vegetarian,5
+FL0049,2026-04-19,SpiceJet,Kochi,Delhi,Airbus A319,Economy,98,189,4968,12.0,On Time,Cloudy,Mobile App,8,Vegetarian,4
+FL0050,2026-06-23,Akasa Air,Kochi,Delhi,Airbus A320,Economy,74,186,3754,0.0,On Time,Cloudy,Travel Agency,14,Vegan,5
+FL0051,2026-05-03,Air India,Delhi,Mumbai,Airbus A321,Economy,135,210,5129,110.0,Delayed,Rain,Online Travel Portal,17,Vegetarian,4
+FL0052,2026-03-07,SpiceJet,Jaipur,Mumbai,Airbus A320,Business,163,210,13824,0.0,On Time,Rain,Travel Agency,6,Vegetarian,2
+FL0053,2026-05-16,Akasa Air,Mumbai,Bengaluru,Airbus A319,Business,72,210,21499,35.0,Delayed,Clear,Mobile App,15,Non-Vegetarian,2
+FL0054,2026-04-11,SpiceJet,Mumbai,Bengaluru,Airbus A320,Economy,49,180,4738,20.0,Delayed,Rain,Mobile App,14,No Meal,3
+FL0055,2026-04-30,IndiGo,Delhi,Chennai,Airbus A319,Economy,106,220,5432,50.0,Delayed,Storm,Mobile App,19,Non-Vegetarian,2
+FL0056,2026-05-02,Air India Express,Pune,Delhi,Airbus A320,Economy,180,180,6397,5.0,On Time,Fog,Mobile App,14,Non-Vegetarian,4
+FL0057,2026-04-21,SpiceJet,Mumbai,Kolkata,Airbus A320,Premium Economy,51,189,10530,12.0,On Time,Rain,Mobile App,23,Vegetarian,3
+FL0058,2026-04-14,IndiGo,Hyderabad,Kolkata,Boeing 737,Premium Economy,151,210,6834,110.0,Delayed,Cloudy,Travel Agency,16,Vegetarian,4
+FL0059,2026-01-10,Air India Express,Delhi,Srinagar,Airbus A319,Economy,159,220,3708,20.0,Delayed,Storm,Airline Website,11,No Meal,2
+FL0060,2026-01-24,IndiGo,Mumbai,Kolkata,Airbus A319,Economy,116,186,3382,0.0,On Time,Rain,Airline Website,22,Non-Vegetarian,3
+FL0061,2026-01-14,IndiGo,Hyderabad,Kolkata,Airbus A319,Economy,182,210,4165,5.0,On Time,Storm,Airline Website,19,Non-Vegetarian,3
+FL0062,2026-02-12,Air India,Bengaluru,Hyderabad,Airbus A319,Economy,131,210,6129,0.0,On Time,Clear,Travel Agency,7,Non-Vegetarian,3
+FL0063,2026-05-02,IndiGo,Lucknow,Delhi,Airbus A319,Premium Economy,127,186,6511,5.0,On Time,Fog,Online Travel Portal,23,Vegan,4
+FL0064,2026-06-24,Vistara,Mumbai,Bengaluru,Airbus A321,Economy,105,180,4280,0.0,On Time,Storm,Airline Website,5,Vegan,3
+FL0065,2026-04-28,Air India Express,Kochi,Delhi,Airbus A319,Economy,165,186,4002,12.0,On Time,Clear,Mobile App,5,Vegan,3
+FL0066,2026-03-06,SpiceJet,Srinagar,Delhi,Airbus A320,Economy,83,210,4418,,Cancelled,Cloudy,Travel Agency,19,Vegetarian,5
+FL0067,2026-04-23,Vistara,Mumbai,Kolkata,Boeing 737,Premium Economy,109,210,8473,20.0,Delayed,Cloudy,Airline Website,24,Vegetarian,3
+FL0068,2026-06-28,Akasa Air,Bengaluru,Hyderabad,Airbus A321,Economy,102,189,5819,0.0,On Time,Rain,Online Travel Portal,11,Vegan,5
+FL0069,2026-03-09,SpiceJet,Kochi,Delhi,Airbus A321,Economy,107,186,5911,,Cancelled,Cloudy,Online Travel Portal,23,Non-Vegetarian,5
+FL0070,2026-06-12,SpiceJet,Srinagar,Delhi,Boeing 737,Economy,201,189,2959,20.0,Delayed,Rain,Online Travel Portal,12,Vegan,4
+FL0071,2026-03-31,SpiceJet,Lucknow,Delhi,Boeing 737,Premium Economy,101,180,10380,5.0,On Time,Cloudy,Online Travel Portal,16,Vegetarian,2
+FL0072,2026-02-25,IndiGo,Bengaluru,Hyderabad,Airbus A320,Economy,166,186,5227,5.0,On Time,Clear,Mobile App,17,Vegetarian,5
+FL0073,2026-03-30,IndiGo,Pune,Delhi,Airbus A320,Economy,151,186,3486,0.0,On Time,Rain,Mobile App,19,No Meal,2
+FL0074,2026-01-28,IndiGo,Ahmedabad,Bengaluru,Boeing 737,Premium Economy,186,210,7004,0.0,On Time,Cloudy,Online Travel Portal,19,Vegetarian,5
+FL0075,2026-02-03,Akasa Air,Jaipur,Mumbai,Boeing 737,Economy,153,180,6464,5.0,On Time,Clear,Airline Website,18,Non-Vegetarian,5
+FL0076,2026-01-18,IndiGo,Ahmedabad,Bengaluru,Airbus A321,Economy,108,210,6808,0.0,On Time,Storm,Travel Agency,13,No Meal,2
+FL0077,2026-02-27,Vistara,Kochi,Delhi,Airbus A319,Economy,150,180,3399,12.0,On Time,Storm,Travel Agency,12,Non-Vegetarian,5
+FL0078,2026-01-09,Vistara,Mumbai,Kolkata,Airbus A321,Economy,179,210,4686,0.0,On Time,Storm,Online Travel Portal,10,Vegan,4
+FL0079,2026-03-21,Vistara,Mumbai,Kolkata,Airbus A320,Economy,45,186,4597,12.0,On Time,Rain,Online Travel Portal,25,No Meal,5
+FL0080,2026-04-07,Vistara,Pune,Delhi,Airbus A320,Economy,155,210,5730,12.0,On Time,Rain,Online Travel Portal,16,Vegan,5
+FL0081,2026-04-03,SpiceJet,Delhi,Mumbai,Airbus A320,Economy,199,180,2378,50.0,Delayed,Rain,Online Travel Portal,13,No Meal,4
+FL0082,2026-03-07,Vistara,Bengaluru,Kochi,Airbus A319,Economy,59,180,3793,0.0,On Time,Storm,Airline Website,14,Non-Vegetarian,2
+FL0083,2026-04-18,Air India Express,Lucknow,Delhi,Airbus A319,Economy,71,180,2484,110.0,Delayed,Cloudy,Online Travel Portal,22,Vegetarian,4
+FL0084,2026-04-05,Air India Express,Srinagar,Delhi,Airbus A321,Economy,93,180,6135,0.0,On Time,Fog,Airline Website,7,No Meal,5
+FL0085,2026-05-03,Air India,Lucknow,Delhi,Airbus A319,Economy,45,189,3299,35.0,Delayed,Rain,Online Travel Portal,21,Non-Vegetarian,3
+FL0086,2026-02-10,Vistara,Delhi,Chennai,Airbus A319,Premium Economy,52,180,8607,0.0,On Time,Clear,Airline Website,16,Vegetarian,4
+FL0087,2026-02-26,SpiceJet,Chennai,Mumbai,Airbus A320,Economy,68,189,4704,5.0,On Time,Cloudy,Online Travel Portal,22,Vegan,3
+FL0088,2026-02-08,Vistara,Delhi,Srinagar,Airbus A321,Economy,75,210,4156,0.0,On Time,Cloudy,Travel Agency,20,Vegetarian,3
+FL0089,2026-03-15,Air India Express,Pune,Delhi,Boeing 737,Premium Economy,57,220,10062,0.0,On Time,Clear,Travel Agency,9,Vegan,5
+FL0090,2026-01-27,Vistara,Srinagar,Delhi,Airbus A321,Economy,111,210,3906,0.0,On Time,Clear,Airline Website,14,No Meal,2
+FL0091,2026-02-21,Vistara,Bengaluru,Kochi,Airbus A320,Economy,52,189,2251,0.0,On Time,Fog,Online Travel Portal,15,Non-Vegetarian,2
+FL0092,2026-06-23,Vistara,Delhi,Chennai,Airbus A321,Economy,170,210,6486,0.0,On Time,Rain,Travel Agency,17,Vegetarian,2
+FL0093,2026-04-30,Air India Express,Srinagar,Delhi,Airbus A319,Business,209,220,12970,0.0,On Time,Clear,Travel Agency,8,Vegan,2
+FL0094,2026-04-19,IndiGo,Bengaluru,Hyderabad,Airbus A320,Economy,116,186,4357,5.0,On Time,Storm,Online Travel Portal,16,Non-Vegetarian,5
+FL0095,2026-06-14,Vistara,Bengaluru,Kochi,Airbus A319,Economy,199,189,4369,0.0,On Time,Fog,Online Travel Portal,11,Vegetarian,5
+FL0096,2026-04-05,Akasa Air,Srinagar,Delhi,Boeing 737,Premium Economy,184,220,10970,12.0,On Time,Rain,Mobile App,15,Vegetarian,3
+FL0097,2026-03-10,Vistara,Kochi,Delhi,Airbus A319,Economy,90,186,6145,20.0,Delayed,Fog,Airline Website,13,Vegan,2
+FL0098,2026-01-12,SpiceJet,Ahmedabad,Bengaluru,Airbus A319,Economy,131,180,6466,35.0,Delayed,Rain,Online Travel Portal,7,Vegetarian,4
+FL0099,2026-01-15,Air India,Mumbai,Bengaluru,Boeing 737,Economy,108,189,3588,35.0,Delayed,Rain,Airline Website,14,Non-Vegetarian,4
+FL0100,2026-05-04,Akasa Air,Jaipur,Mumbai,Airbus A320,Economy,64,220,6324,0.0,On Time,Fog,Airline Website,24,Vegan,5
+FL0101,2026-05-24,IndiGo,Jaipur,Mumbai,Boeing 737,Economy,62,180,2552,50.0,Delayed,Cloudy,Airline Website,5,No Meal,2
+FL0102,2026-01-05,Air India,Jaipur,Mumbai,Airbus A319,Economy,158,180,2991,0.0,On Time,Cloudy,Airline Website,16,No Meal,2
+FL0103,2026-01-10,IndiGo,Bengaluru,Hyderabad,Airbus A319,Economy,167,210,7014,20.0,Delayed,Fog,Airline Website,8,Vegan,5
+FL0104,2026-04-02,IndiGo,Bengaluru,Hyderabad,Airbus A320,Economy,92,180,2811,0.0,On Time,Rain,Airline Website,25,Non-Vegetarian,2
+FL0105,2026-03-21,Vistara,Delhi,Mumbai,Boeing 737,Economy,158,180,3694,50.0,Delayed,Storm,Mobile App,6,Vegetarian,3
+FL0106,2026-04-23,IndiGo,Srinagar,Delhi,Boeing 737,Economy,83,220,3471,50.0,Delayed,Fog,Mobile App,23,Non-Vegetarian,3
+FL0107,2026-05-11,Akasa Air,Pune,Delhi,Airbus A320,Economy,95,210,3982,0.0,On Time,Fog,Airline Website,16,Vegetarian,3
+FL0108,2026-05-30,IndiGo,Lucknow,Delhi,Airbus A319,Premium Economy,198,180,10551,75.0,Delayed,Rain,Travel Agency,13,Vegan,2
+FL0109,2026-04-12,SpiceJet,Srinagar,Delhi,Airbus A321,Business,129,180,16390,0.0,On Time,Rain,Online Travel Portal,11,Vegan,2
+FL0110,2026-03-10,Akasa Air,Delhi,Srinagar,Airbus A319,Economy,141,189,4046,0.0,On Time,Cloudy,Mobile App,23,Vegetarian,3
+FL0111,2026-05-16,Vistara,Delhi,Mumbai,Airbus A321,Premium Economy,124,186,6711,,Cancelled,Cloudy,Mobile App,19,Vegetarian,4
+FL0112,2026-04-08,IndiGo,Delhi,Mumbai,Boeing 737,Economy,183,220,3008,12.0,On Time,Rain,Airline Website,19,Vegetarian,2
+FL0113,2026-03-01,Air India Express,Bengaluru,Hyderabad,Airbus A319,Premium Economy,132,186,7119,0.0,On Time,Cloudy,Online Travel Portal,21,Non-Vegetarian,5
+FL0114,2026-06-27,Air India Express,Srinagar,Delhi,Airbus A320,Economy,79,180,6268,20.0,Delayed,Clear,Mobile App,21,Vegan,5
+FL0115,2026-04-27,Air India Express,Delhi,Mumbai,Airbus A319,Economy,77,186,3878,12.0,On Time,Rain,Mobile App,13,Non-Vegetarian,3
+FL0116,2026-03-17,Air India Express,Hyderabad,Kolkata,Boeing 737,Premium Economy,127,180,7931,0.0,On Time,Clear,Airline Website,18,Non-Vegetarian,5
+FL0117,2026-05-02,IndiGo,Mumbai,Bengaluru,Airbus A319,Economy,88,189,3261,0.0,On Time,Storm,Travel Agency,6,No Meal,2
+FL0118,2026-01-27,Air India Express,Jaipur,Mumbai,Airbus A320,Economy,72,210,3831,0.0,On Time,Cloudy,Travel Agency,5,Non-Vegetarian,2
+FL0119,2026-02-10,Air India Express,Delhi,Chennai,Boeing 737,Economy,66,189,3705,5.0,On Time,Clear,Mobile App,14,Vegetarian,2
+FL0120,2026-05-16,Air India,Lucknow,Delhi,Boeing 737,Economy,175,210,4472,20.0,Delayed,Cloudy,Airline Website,9,Non-Vegetarian,3
+FL0121,2026-06-29,SpiceJet,Bengaluru,Hyderabad,Airbus A319,Premium Economy,141,186,9974,5.0,On Time,Fog,Airline Website,14,Vegetarian,4
+FL0122,2026-02-13,Air India,Mumbai,Kolkata,Airbus A319,Economy,178,189,5514,0.0,On Time,Rain,Airline Website,25,Non-Vegetarian,5
+FL0123,2026-03-07,Air India Express,Mumbai,Kolkata,Airbus A319,Premium Economy,148,210,8932,0.0,On Time,Cloudy,Mobile App,17,Vegetarian,4
+FL0124,2026-01-06,Vistara,Delhi,Chennai,Airbus A319,Economy,138,210,5399,0.0,On Time,Cloudy,Mobile App,11,No Meal,3
+FL0125,2026-05-20,Akasa Air,Srinagar,Delhi,Boeing 737,Premium Economy,72,180,9266,12.0,On Time,Rain,Online Travel Portal,24,Vegan,2
+FL0126,2026-03-04,Air India,Bengaluru,Kochi,Airbus A319,Economy,125,210,2516,5.0,On Time,Clear,Online Travel Portal,15,No Meal,5
+FL0127,2026-01-21,IndiGo,Delhi,Chennai,Airbus A321,Economy,184,180,4960,5.0,On Time,Fog,Mobile App,10,Vegetarian,5
+FL0128,2026-05-27,SpiceJet,Srinagar,Delhi,Airbus A319,Economy,67,180,6394,0.0,On Time,Clear,Airline Website,10,Non-Vegetarian,3
+FL0129,2026-01-04,SpiceJet,Lucknow,Delhi,Boeing 737,Premium Economy,67,210,5657,110.0,Delayed,Cloudy,Online Travel Portal,21,Non-Vegetarian,2
+FL0130,2026-04-08,Akasa Air,Kochi,Delhi,Boeing 737,Premium Economy,115,189,6890,0.0,On Time,Fog,Travel Agency,11,Non-Vegetarian,3
+FL0131,2026-04-21,Air India Express,Mumbai,Bengaluru,Boeing 737,Economy,159,220,6354,0.0,On Time,Cloudy,Travel Agency,14,No Meal,5
+FL0132,2026-02-04,Air India,Hyderabad,Kolkata,Airbus A321,Economy,61,220,3483,75.0,Delayed,Clear,Mobile App,18,No Meal,5
+FL0133,2026-02-10,IndiGo,Pune,Delhi,Airbus A321,Business,164,180,15324,0.0,On Time,Storm,Travel Agency,20,Vegetarian,4
+FL0134,2026-01-08,IndiGo,Ahmedabad,Bengaluru,Airbus A319,Premium Economy,77,220,10989,0.0,On Time,Cloudy,Travel Agency,17,Vegan,5
+FL0135,2026-05-09,Akasa Air,Pune,Delhi,Airbus A320,Economy,169,210,3422,0.0,On Time,Fog,Travel Agency,15,Vegetarian,2
+FL0136,2026-03-16,Vistara,Mumbai,Bengaluru,Boeing 737,Economy,150,180,4587,35.0,Delayed,Clear,Airline Website,19,Vegan,4
+FL0137,2026-03-14,Vistara,Mumbai,Bengaluru,Airbus A319,Economy,73,186,1949,35.0,Delayed,Rain,Airline Website,22,Non-Vegetarian,5
+FL0138,2026-01-19,Air India Express,Chennai,Mumbai,Boeing 737,Economy,61,180,6077,0.0,On Time,Rain,Travel Agency,14,No Meal,2
+FL0139,2026-01-27,Air India Express,Delhi,Chennai,Airbus A321,Business,169,189,27832,20.0,Delayed,Clear,Airline Website,10,Vegan,4
+FL0140,2026-01-10,Air India Express,Pune,Delhi,Airbus A320,Premium Economy,87,180,10489,12.0,On Time,Storm,Travel Agency,12,Vegetarian,4
+FL0141,2026-02-26,SpiceJet,Delhi,Srinagar,Boeing 737,Economy,100,210,4660,12.0,On Time,Clear,Online Travel Portal,21,Vegan,4
+FL0142,2026-03-10,SpiceJet,Delhi,Srinagar,Airbus A320,Economy,175,180,4825,0.0,On Time,Fog,Travel Agency,16,Vegan,5
+FL0143,2026-02-05,IndiGo,Kochi,Delhi,Airbus A319,Premium Economy,181,189,7406,0.0,On Time,Cloudy,Travel Agency,5,Vegan,5
+FL0144,2026-02-25,Akasa Air,Mumbai,Bengaluru,Airbus A319,Economy,50,210,5522,12.0,On Time,Storm,Airline Website,25,Vegan,3
+FL0145,2026-01-20,Akasa Air,Bengaluru,Hyderabad,Airbus A319,Economy,114,186,3022,20.0,Delayed,Fog,Mobile App,22,No Meal,2
+FL0146,2026-01-03,Air India,Chennai,Mumbai,Boeing 737,Economy,64,220,4171,5.0,On Time,Fog,Travel Agency,18,Non-Vegetarian,2
+FL0147,2026-02-18,IndiGo,Mumbai,Kolkata,Airbus A319,Premium Economy,115,210,9106,110.0,Delayed,Rain,Online Travel Portal,19,Vegetarian,5
+FL0148,2026-06-26,IndiGo,Delhi,Srinagar,Airbus A321,Economy,147,189,5589,0.0,On Time,Rain,Travel Agency,9,Vegan,2
+FL0149,2026-02-10,Akasa Air,Jaipur,Mumbai,Airbus A319,Economy,202,210,6239,5.0,On Time,Rain,Online Travel Portal,8,No Meal,5
+FL0150,2026-06-15,Vistara,Chennai,Mumbai,Boeing 737,Economy,131,210,6572,5.0,On Time,Storm,Mobile App,25,No Meal,5
+FL0151,2026-05-19,Air India,Delhi,Mumbai,Boeing 737,Economy,173,189,6741,0.0,On Time,Rain,Online Travel Portal,7,No Meal,5
+FL0152,2026-05-14,IndiGo,Mumbai,Kolkata,Airbus A320,Premium Economy,149,189,7412,0.0,On Time,Clear,Online Travel Portal,10,Non-Vegetarian,2
+FL0153,2026-03-25,Akasa Air,Bengaluru,Hyderabad,Boeing 737,Economy,125,220,2866,0.0,On Time,Rain,Travel Agency,20,Vegetarian,2
+FL0154,2026-04-09,Air India,Mumbai,Bengaluru,Airbus A321,Economy,201,186,3823,20.0,Delayed,Clear,Online Travel Portal,13,Vegan,2
+FL0155,2026-03-12,SpiceJet,Kochi,Delhi,Airbus A319,Economy,75,189,3070,12.0,On Time,Fog,Online Travel Portal,20,Vegan,5
+FL0156,2026-03-20,Vistara,Mumbai,Bengaluru,Boeing 737,Business,80,186,15040,0.0,On Time,Storm,Online Travel Portal,20,Vegetarian,3
+FL0157,2026-04-25,Akasa Air,Delhi,Srinagar,Boeing 737,Economy,120,186,2188,35.0,Delayed,Storm,Mobile App,14,Non-Vegetarian,2
+FL0158,2026-02-24,Vistara,Mumbai,Kolkata,Boeing 737,Economy,176,186,3479,75.0,Delayed,Fog,Travel Agency,14,Vegetarian,4
+FL0159,2026-04-08,IndiGo,Chennai,Mumbai,Boeing 737,Economy,64,186,6411,0.0,On Time,Cloudy,Online Travel Portal,16,Vegetarian,2
+FL0160,2026-06-23,Vistara,Lucknow,Delhi,Airbus A321,Economy,91,210,5443,75.0,Delayed,Storm,Airline Website,10,No Meal,2
+FL0161,2026-04-03,Vistara,Delhi,Mumbai,Airbus A320,Economy,135,220,6154,,Cancelled,Storm,Mobile App,6,Vegetarian,2
+FL0162,2026-01-18,Air India,Hyderabad,Kolkata,Airbus A321,Economy,128,189,5263,110.0,Delayed,Rain,Mobile App,6,Non-Vegetarian,3
+FL0163,2026-03-29,SpiceJet,Srinagar,Delhi,Boeing 737,Economy,177,220,2385,5.0,On Time,Clear,Travel Agency,23,Vegetarian,5
+FL0164,2026-06-07,SpiceJet,Mumbai,Bengaluru,Airbus A321,Economy,139,189,6327,0.0,On Time,Rain,Travel Agency,20,Vegan,4
+FL0165,2026-03-31,Air India,Ahmedabad,Bengaluru,Airbus A320,Economy,137,220,4992,12.0,On Time,Clear,Mobile App,18,Vegetarian,3
+FL0166,2026-05-23,Akasa Air,Kochi,Delhi,Airbus A320,Economy,108,210,2314,0.0,On Time,Fog,Online Travel Portal,6,Vegan,2
+FL0167,2026-06-15,SpiceJet,Ahmedabad,Bengaluru,Airbus A321,Economy,148,180,6593,0.0,On Time,Rain,Online Travel Portal,15,Non-Vegetarian,5
+FL0168,2026-05-01,Air India,Delhi,Mumbai,Airbus A319,Economy,47,220,6479,0.0,On Time,Cloudy,Mobile App,18,Vegan,4
+FL0169,2026-02-10,IndiGo,Delhi,Chennai,Airbus A320,Economy,152,220,4051,35.0,Delayed,Clear,Online Travel Portal,10,No Meal,2
+FL0170,2026-06-25,IndiGo,Mumbai,Kolkata,Airbus A319,Economy,130,180,3938,110.0,Delayed,Rain,Online Travel Portal,17,No Meal,4
+FL0171,2026-02-09,SpiceJet,Ahmedabad,Bengaluru,Boeing 737,Business,138,220,12597,20.0,Delayed,Storm,Mobile App,21,Non-Vegetarian,3
+FL0172,2026-06-02,IndiGo,Pune,Delhi,Airbus A319,Premium Economy,166,180,9210,12.0,On Time,Fog,Airline Website,17,Vegetarian,2
+FL0173,2026-06-02,SpiceJet,Srinagar,Delhi,Airbus A319,Economy,143,189,6817,75.0,Delayed,Storm,Mobile App,20,No Meal,2
+FL0174,2026-04-27,Vistara,Hyderabad,Kolkata,Airbus A319,Economy,93,189,3392,50.0,Delayed,Fog,Airline Website,10,No Meal,3
+FL0175,2026-04-23,Akasa Air,Bengaluru,Kochi,Airbus A321,Economy,116,180,5883,0.0,On Time,Cloudy,Online Travel Portal,14,Non-Vegetarian,5
+FL0176,2026-04-10,IndiGo,Ahmedabad,Bengaluru,Airbus A320,Economy,48,189,4298,0.0,On Time,Storm,Mobile App,11,Vegetarian,5
+FL0177,2026-02-17,Vistara,Chennai,Mumbai,Airbus A320,Business,124,180,17306,20.0,Delayed,Cloudy,Mobile App,8,No Meal,5
+FL0178,2026-04-30,IndiGo,Delhi,Mumbai,Airbus A319,Economy,112,186,4490,110.0,Delayed,Fog,Online Travel Portal,16,Vegetarian,3
+FL0179,2026-05-08,Vistara,Bengaluru,Kochi,Airbus A320,Economy,134,189,5413,20.0,Delayed,Rain,Online Travel Portal,9,No Meal,2
+FL0180,2026-01-22,Akasa Air,Delhi,Mumbai,Airbus A321,Economy,144,210,3767,75.0,Delayed,Fog,Online Travel Portal,17,No Meal,5
