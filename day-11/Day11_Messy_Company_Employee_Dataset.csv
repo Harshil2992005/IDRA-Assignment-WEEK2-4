@@ -1,0 +1,158 @@
+Employee_ID,Employee_Name,Department,Job_Title,Age,Gender,Annual_Salary,Experience_Years,Joining_Date,City,Performance_Score,Work_Mode
+EMP0098,Ananya Nair,,Data Scientist,48.0,Other,108371.0,13.2,2017-06-13,Pune,5.0,Office
+EMP0046,Faizan Khan,Marketing,Marketing Manager,31.0,Female,108824.0,12.1,2021-09-15,Mumbai,2.0,Office
+EMP0017,Saira Malik,Human Resources,HR Manager,28.0,Female,119400.0,13.2,2021-02-05,Bengaluru,3.0,Remote
+EMP0105,Neha Menon,Engineering,Software Engineer,30.0,Female,111847.0,,2018-08-05,Jaipur,4.0,Hybrid
+EMP0143,Hiba Menon,Sales,Sales Manager,25.0,Female,78677.0,10.9,2018-07-24,Hyderabad,4.0,Hybrid
+EMP0117,Zoya Kapoor,Finance,Finance Manager,42.0,Male,128567.0,15.4,2017-08-02,Chennai,4.0,Hybrid
+EMP0081,Maryam Mir,Marketing,Content Strategist,37.0,Male,58878.0,1.8,2024-01-18,Pune,2.0,Office
+EMP0026,Omar Das,Engineering,QA Engineer,38.0,Male,112276.0,12.0,2019-05-14,Chandigarh,4.0,Hybrid
+EMP0129,Dev Ahmed,Data & Analytics,Data Scientist,45.0,Male,135730.0,14.1,2021-01-27,Srinagar,2.0,Remote
+EMP0121,Karan Patel,Data & Analytics,BI Analyst,40.0,Female,101886.0,8.5,2020-06-28,Chennai,4.0,Remote
+EMP0110,Nikhil Malik,Marketing,Marketing Executive,25.0,Female,72583.0,5.9,2020-11-09,Srinagar,3.0,
+EMP0075,Manya Joshi,Sales,Sales Manager,29.0,Male,92623.0,11.9,2025-08-17,Jaipur,4.0,Hybrid
+EMP0064,Saira Sood,Sales,Sales Executive,50.0,Female,60363,5.0,2019-05-06,Kolkata,4.0,Remote
+EMP0063,Vivaan Patel,Data & Analytics,Data Scientist,33.0,Female,99159.0,9.7,2024-07-06,Kolkata,3.0,Hybrid
+EMP0119,Simran Gupta,Data & Analytics,Data Scientist,22.0,,92500.0,4.0,2018-02-11,Hyderabad,2.0,Remote
+EMP0016,Riya Patel,Sales,Business Development Executive,24.0,,57054.0,3.7,2017-09-07,Hyderabad,3.0,Hybrid
+EMP0082,Mehak Mehta,Marketing,Marketing Manager,47.0,Male,85936.0,13.7,2021-03-15,Mumbai,5.0,Remote
+EMP0136,Dev Jain,Customer Success,Customer Success Manager,39.0,Female,91695.0,9.4,2018-06-25,Pune,5.0,Remote
+EMP0147,Kashish Sood,Data & Analytics,BI Analyst,50.0,Male,71086,2.7,2018-12-18,Chandigarh,4.0,Remote
+EMP0140,Hiba Malik,Customer Success,Support Specialist,39.0,Female,65282.0,3.4,2018-12-15,Hyderabad,2.0,Hybrid
+EMP0040,Omar Ahmed,Marketing,Marketing Executive,35.0,Male,126534.0,16.5,2025-09-04,Chennai,3.0,Office
+EMP0002,Kashish Jain,Marketing,Marketing Manager,46.0,Male,53058.0,2.8,2019-03-18,Pune,4.0,Hybrid
+EMP0092,Nikhil Dar,Human Resources,Recruiter,41.0,Female,69289.0,4.3,2022-11-12,Bengaluru,4.0,REMOTE
+EMP0005,Dev Patel,Sales,Sales Manager,47.0,Female,95023.0,8.2,2020-01-28,delhi,4.0,Hybrid
+EMP0111,Dev Verma,Marketing,Marketing Executive,21.0,Male,107495.0,12.6,2017-01-04,Bengaluru,5.0,Remote
+EMP0097,Zoya Shah,Finance,Financial Analyst,41.0,Male,81531.0,4.1,2023-06-05,Mumbai,4.0,Office
+EMP0001,Omar Gupta,Human Resources,HR Manager,26.0,Male,115423.0,13.8,2022-02-04,Jaipur,3.0,Office
+EMP0107,Maryam Joshi,Engineering,Senior Software Engineer,27.0,Female,115240.0,14.2,2022-11-14,Kolkata,5.0,Office
+EMP0031,Vikram Verma,Data & Analytics,Data Scientist,42.0,Male,116319.0,15.6,2018-12-05,Hyderabad,3.0,Remote
+EMP0070,Mehak Ahmed,Customer Success,Customer Success Manager,28.0,Female,116367.0,17.2,2025-06-03,Kolkata,3.0,Office
+EMP0141,Manav Mehta,Customer Success,Support Specialist,52.0,Female,91902.0,10.7,2020-07-31,Chennai,2.0,Hybrid
+EMP0056,Sara Ali,Marketing,Content Strategist,45.0,Male,101987.0,14.6,2018-03-26,N/A,3.0,Office
+EMP0035,Fatima Mir,Engineering,Senior Software Engineer,,Other,62350.0,0.9,2024-12-27,Srinagar,4.0,Office
+EMP0135,Fatima Gupta,Data & Analytics,Data Scientist,46.0,Female,162942.0,17.3,2021-01-03,Pune,2.0,Remote
+EMP0028,Zoya Rao,Operations,Operations Executive,21.0,Female,94253.0,12.2,2025-09-01,Hyderabad,4.0,Office
+EMP0142,Diya Das,Marketing,Marketing Manager,43.0,Male,,1.2,2021-03-02,Bengaluru,5.0,Hybrid
+EMP0055,Aman Joshi,Finance,Finance Manager,34.0,Male,76793.0,8.2,2021-03-02,Delhi,4.0,Office
+EMP0013,Aisha Malik,Data & Analytics,Data Scientist,51.0,Male,76267.0,0.6,2023-09-02,Jaipur,3.0,Remote
+EMP0131,Nikhil Bhat,Engineering,Senior Software Engineer,52.0,Male,122581.0,14.6,2018-12-29,Delhi,2.0,Remote
+EMP0051,Vikram Malik,Human Resources,HR Executive,41.0,Other,93260.0,10.6,2025-02-07,Bengaluru,4.0,Hybrid
+EMP0123,Omar Nair,Sales,Business Development Executive,36.0,Male,68009.0,7.9,2022-06-05,Srinagar,4.0,Office
+EMP0091,Aisha Patel,Engineering,QA Engineer,21.0,Male,83564.0,7.5,2020-08-28,Kolkata,3.0,Office
+EMP0069,Aman Mehta,Engineering,QA Engineer,22.0,Male,89482.0,6.4,2023-08-21,Chandigarh,4.0,Office
+EMP0126,Hiba Menon,Marketing,Content Strategist,32.0,Female,100493.0,14.5,2017-10-04,Chennai,4.0,Hybrid
+EMP0047,Sameer Menon,Data & Analytics,Data Scientist,51.0,Male,127374.0,16.8,2021-03-23,Bengaluru,3.0,Office
+EMP0059,Aman Sood,Engineering,QA Engineer,27.0,Male,85458.0,3.8,2023-08-05,Hyderabad,3.0,Remote
+EMP0071,Dev Menon,Engineering,Software Engineer,23.0,Female,109378.0,13.6,2023-03-23,Kolkata,5.0,Remote
+EMP0133,Vikram Verma,Operations,Process Analyst,43.0,Male,94905.0,11.4,2022-11-21,Mumbai,4.0,Hybrid
+EMP0049,Vikram Nair,Customer Success,Support Specialist,41.0,Female,66824.0,5.4,2024-04-30,Jaipur,3.0,Hybrid
+EMP0116,Vikram Gupta,Finance,Accountant,38.0,Male,103725.0,11.6,2018-10-19,Jaipur,,Remote
+EMP0146,Nikhil Das,Engineering,Senior Software Engineer,28.0,Female,97175.0,10.4,2023-07-28,Pune,2.0,Hybrid
+EMP0007,Rohan Menon,Engineering,Senior Software Engineer,24.0,Female,79669.0,4.2,2017-02-17,Delhi,4.0,Remote
+EMP0042,Ananya Sharma,Human Resources,HR Manager,41.0,Female,103994.0,16.5,2023-06-04,Kolkata,4.0,Remote
+EMP0115,Aarav Dar,Human Resources,HR Manager,41.0,Female,56368.0,2.1,2021-10-19,Chandigarh,3.0,Office
+EMP0003,Omar Gupta,Operations,Operations Manager,38.0,Female,64199.0,4.6,2019-05-04,Delhi,4.0,Office
+EMP0097,Zoya Shah,Finance,Financial Analyst,41.0,Male,81531.0,4.1,2023-06-05,Mumbai,4.0,Office
+EMP0043,Ananya Nair,Human Resources,HR Executive,48.0,Male,118603.0,12.1,2020-09-05,Pune,4.0,Remote
+EMP0134,Ishita Sheikh,,Business Development Executive,39.0,Female,93894.0,14.9,2019-03-09,Kolkata,3.0,Office
+EMP0052,Priya Kapoor,Marketing,Content Strategist,45.0,Male,130332.0,17.4,2025-03-25,Delhi,3.0,
+EMP0034,Nikhil Das,Engineering,Senior Software Engineer,42.0,Female,93413.0,10.6,2020-05-30,Mumbai,3.0,Hybrid
+EMP0087,Neha Menon,Customer Success,Customer Success Manager,32.0,Female,115457.0,13.4,2024-01-21,Chandigarh,4.0,Hybrid
+EMP0075,Manya Joshi,Sales,Sales Manager,29.0,Male,92623.0,11.9,2025-08-17,Jaipur,4.0,Hybrid
+EMP0024,Omar Rao,Data & Analytics,Data Scientist,39.0,Female,112016.0,7.4,2022-03-03,Chandigarh,4.0,Hybrid
+EMP0093,Priya Mir,Operations,Operations Executive,46.0,Male,,7.1,2017-02-15,Mumbai,4.0,Remote
+EMP0104,Reyansh Bhat,Operations,Operations Executive,47.0,Male,67401.0,3.5,2021-01-01,Bengaluru,4.0,Hybrid
+EMP0010,Reyansh Sood,Sales,Sales Executive,47.0,Male,81520.0,11.2,2020-11-14,Mumbai,4.0,Hybrid
+EMP0130,Riya Gupta,Engineering,Senior Software Engineer,43.0,Male,84979.0,4.3,2019-11-19,Chandigarh,3.0,Hybrid
+EMP0106,Sara Rao,Customer Success,Customer Success Executive,44.0,Male,70586.0,6.9,2020-06-05,Srinagar,4.0,Remote
+EMP0080,Sana Mehta,Human Resources,HR Manager,30.0,Female,85894.0,10.8,2020-09-22,Bengaluru,5.0,Remote
+EMP0019,Ishita Verma,Finance,Financial Analyst,26.0,Female,74726,4.3,2018-04-20,Hyderabad,3.0,Remote
+EMP0021,Riya Khan,Operations,Operations Executive,49.0,Female,71549.0,4.6,2024-09-20,Chandigarh,3.0,Hybrid
+EMP0022,Kashish Gupta,Finance,Financial Analyst,41.0,Female,80756.0,2.9,2020-07-13,Chandigarh,3.0,Hybrid
+EMP0102,Karan Kapoor,N/A,Operations Manager,39.0,Female,86826.0,8.4,2025-06-17,Chandigarh,5.0,Hybrid
+EMP0033,Sameer Kumar,Engineering,Software Engineer,36.0,Male,75463.0,4.3,2020-09-18,Chandigarh,5.0,Office
+EMP0011,Ishita Ahmed,Data & Analytics,BI Analyst,33.0,Male,72626.0,2.0,2025-12-21,Srinagar,3.0,Remote
+EMP0109,Kabir Jain,Customer Success,Customer Success Executive,22.0,Other,108344.0,13.1,2025-01-01,Bengaluru,4.0,Hybrid
+EMP0015,Mehak Singh,Operations,Operations Executive,31.0,Male,84899.0,12.7,2017-08-10,Jaipur,3.0,Office
+EMP0101,Priya Shah,Sales,Sales Manager,32.0,Male,113107.0,16.1,2018-05-16,Hyderabad,2.0,Office
+EMP0048,Nikhil Dar,Finance,Financial Analyst,27.0,Female,,10.1,2020-06-18,Chandigarh,2.0,Office
+EMP0088,Priya Dar,Sales,Sales Manager,24.0,Female,61179.0,2.1,2025-03-30,Delhi,5.0,Office
+EMP0029,Priya Khan,Customer Success,Support Specialist,51.0,Female,58202.0,,2023-09-20,Chennai,2.0,Hybrid
+EMP0083,Kashish Sood,Finance,Financial Analyst,34.0,Female,77259.0,4.4,2018-01-15,Srinagar,2.0,Office
+EMP0125,Aman Nair,Customer Success,Support Specialist,28.0,Male,59417.0,1.9,2024-11-21,Mumbai,2.0,Hybrid
+EMP0084,Tanish Ali,Customer Success,Support Specialist,49.0,Female,107213.0,13.3,2024-08-25,Pune,,Remote
+EMP0137,Reyansh Sheikh,Sales,Sales Manager,42.0,Male,69829.0,6.0,2026-01-06,Mumbai,3.0,Remote
+EMP0139,Simran Sharma,Finance,Accountant,32.0,Female,110617.0,10.3,2021-08-03,Mumbai,3.0,Office
+EMP0149,Manav Mehta,Sales,Business Development Executive,43.0,Male,90640.0,8.8,2025-07-24,Jaipur,4.0,Remote
+EMP0096,Karan Shah,Data & Analytics,Data Scientist,30.0,Male,141452.0,13.9,2019-04-09,Mumbai,2.0,Hybrid
+EMP0144,Tanish Shah,Engineering,Senior Software Engineer,44.0,N/A,90807.0,5.4,2018-12-21,Chandigarh,4.0,Hybrid
+EMP0060,Hiba Singh,ENGINEERING,Marketing Executive,32.0,Male,81833.0,9.7,2024-07-02,Delhi,3.0,Office
+EMP0025,Vivaan Nair,Finance,Accountant,51.0,Female,98052.0,9.2,2024-12-28,Delhi,4.0,Hybrid
+EMP0030,Aisha Patel,Operations,Operations Manager,43.0,Female,59215.0,4.7,2019-06-20,Bengaluru,5.0,Office
+EMP0120,Saira Sheikh,Marketing,Marketing Executive,52.0,Male,107328.0,17.4,2020-11-25,Bengaluru,2.0,Remote
+EMP0014,Diya Patel,engineering,HR Executive,32.0,Male,84946.0,7.6,2017-03-04,Jaipur,3.0,Hybrid
+EMP0027,Arjun Sharma,Human Resources,HR Manager,48.0,Male,65765.0,6.5,2021-01-24,Chandigarh,4.0,remote
+EMP0103,Sara Sharma,Engineering,Senior Software Engineer,23.0,Other,66673.0,1.0,2018-05-09,Hyderabad,3.0,Hybrid
+EMP0138,Karan Sood,Finance,Accountant,42.0,,57690.0,1.4,2021-10-02,Mumbai,3.0,Hybrid
+EMP0004,Aman Mehta,Customer Success,Customer Success Executive,26.0,Female,111243.0,17.0,2023-08-28,Pune,2.0,Remote
+EMP0032,Riya Verma,Marketing,Marketing Executive,45.0,Female,72763.0,8.0,2019-12-01,DELHI,5.0,Office
+EMP0038,Fatima Ali,Marketing,Marketing Executive,39.0,Female,66981.0,5.7,2023-08-06,Srinagar,4.0,Office
+EMP0139,Simran Sharma,Finance,Accountant,32.0,Female,110617.0,10.3,2021-08-03,Mumbai,3.0,Office
+EMP0018,Dev Kumar,Customer Success,Customer Success Executive,49.0,female,80116.0,8.3,2021-01-31,Chandigarh,3.0,Remote
+EMP0057,Aditya Nair,Human Resources,HR Executive,52.0,Female,90611.0,14.1,2020-09-02,Chennai,4.0,Office
+EMP0122,Fatima Mir,Operations,Operations Manager,,Male,108242.0,12.8,2020-03-28,Chennai,4.0,Remote
+EMP0021,Riya Khan,Operations,Operations Executive,49.0,Female,71549.0,4.6,2024-09-20,Chandigarh,3.0,Hybrid
+EMP0006,Saira Menon,Human Resources,Recruiter,34.0,Other,70935.0,5.8,2017-09-29,Hyderabad,4.0,Office
+EMP0099,Aman Kumar,Sales,Sales Executive,48.0,Male,95276.0,13.4,2024-03-20,Pune,3.0,Hybrid
+EMP0145,Maryam Kapoor,Customer Success,Customer Success Manager,40.0,Male,71236.0,4.7,2021-01-10,Pune,5.0,Remote
+EMP0148,Kabir Kumar,Marketing,Marketing Manager,50.0,Male,119432.0,15.8,2017-07-15,Hyderabad,5.0,Office
+EMP0090,Vikram Shah,Human Resources,HR Executive,,Female,87258.0,12.1,2019-07-05,Chandigarh,4.0,Office
+EMP0048,Nikhil Dar,Finance,Financial Analyst,27.0,Female,,10.1,2020-06-18,Chandigarh,2.0,Office
+EMP0113,Kabir Kumar,Operations,Operations Manager,31.0,Male,108180.0,15.6,2018-10-23,Chandigarh,5.0,Remote
+EMP0150,Nikhil Khan,Finance,Finance Manager,43.0,Male,129905.0,16.3,2018-04-10,Chennai,3.0,Remote
+EMP0077,Nikhil Das,,Customer Success Executive,47.0,Female,64778.0,2.7,2024-08-27,Pune,3.0,Office
+EMP0114,Neha Sharma,Marketing,Content Strategist,30.0,Female,85956.0,12.1,2017-07-20,Chandigarh,4.0,Office
+EMP0037,Mehak Das,Customer Success,Support Specialist,29.0,Female,58184.0,6.0,2019-05-02,Chandigarh,2.0,Remote
+EMP0085,Sana Sood,Human Resources,HR Executive,49.0,Male,104583.0,14.1,2020-02-16,Chandigarh,2.0,Hybrid
+EMP0039,Hiba Sood,Data & Analytics,Data Scientist,52.0,Male,98337.0,6.4,2023-04-05,Jaipur,,Remote
+EMP0095,Sana Mehta,Customer Success,Customer Success Executive,48.0,Female,125345.0,15.9,2023-09-14,Srinagar,4.0,Office
+EMP0112,Arjun Mehta,Customer Success,Support Specialist,44.0,Female,102140.0,12.2,2017-09-21,Mumbai,4.0,Hybrid
+EMP0044,Hiba Ali,Operations,Process Analyst,47.0,Male,102855.0,9.5,2019-12-31,Chandigarh,4.0,Hybrid
+EMP0108,Vikram Gupta,Operations,Process Analyst,34.0,Male,91909,12.4,2021-06-12,Srinagar,3.0,Remote
+EMP0062,Rohan Dar,Operations,Process Analyst,52.0,Male,76554.0,9.3,2021-01-07,Pune,3.0,Remote
+EMP0065,Kashish Khan,Operations,Process Analyst,33.0,,61228.0,1.0,2025-08-20,Pune,4.0,Office
+EMP0012,Priya Kapoor,Marketing,Marketing Manager,52.0,Female,,15.3,2019-05-11,Pune,4.0,Remote
+EMP0100,Yusuf Das,Sales,Sales Manager,39.0,Male,53886.0,1.0,2021-07-18,Pune,4.0,Hybrid
+EMP0045,Rohan Kumar,Sales,Business Development Executive,31.0,Male,113166.0,15.3,2023-09-05,,5.0,Hybrid
+EMP0041,Sara Sood,Sales,Sales Executive,39.0,Male,112951.0,12.5,2022-10-06,Delhi,5.0,Remote
+EMP0058,Aarav Mir,Engineering,Senior Software Engineer,52.0,Female,109057.0,,2023-08-19,Chandigarh,5.0,Office
+EMP0053,Diya Singh,Marketing,Content Strategist,22.0,Male,91154.0,12.1,2023-11-17,Pune,4.0,Office
+EMP0074,Mehak Malik,Operations,Operations Manager,46.0,Male,89122.0,13.0,2021-12-29,Pune,4.0,Office
+EMP0118,Ishita Dar,Human Resources,HR Executive,51.0,Male,49719.0,1.0,2018-03-16,Jaipur,4.0,Remote
+EMP0066,Karan Verma,Customer Success,Customer Success Manager,48.0,Female,54563.0,4.0,2018-12-05,Pune,4.0,Office
+EMP0089,Priya Bhat,Sales,Business Development Executive,34.0,Female,91769.0,17.0,2018-10-22,Hyderabad,4.0,Remote
+EMP0054,Yusuf Menon,Human Resources,Recruiter,39.0,Male,57411.0,2.0,2017-09-06,Pune,5.0,Remote
+EMP0023,Saira Singh,,Business Development Executive,23.0,Other,62770.0,4.9,2023-08-27,Jaipur,3.0,Remote
+EMP0061,Priya Gupta,Customer Success,Customer Success Manager,35.0,Male,96584.0,11.1,2017-06-02,Jaipur,3.0,Remote
+EMP0008,Riya Rao,Marketing,Marketing Executive,,Male,63529.0,1.3,2025-05-01,Srinagar,2.0,Remote
+EMP0067,Vivaan Joshi,Engineering,Senior Software Engineer,41.0,Male,88676.0,8.3,2018-09-24,Hyderabad,3.0,Remote
+EMP0150,Nikhil Khan,Finance,Finance Manager,43.0,Male,129905.0,16.3,2018-04-10,Chennai,3.0,Remote
+EMP0127,Vikram Bhat,Sales,Sales Manager,44.0,Female,55689.0,5.2,2019-06-03,,3.0,Hybrid
+EMP0079,Tanish Das,Engineering,QA Engineer,21.0,Female,125489.0,14.9,2022-07-26,Delhi ,4.0,Remote
+EMP0078,Kabir Kapoor,Marketing,Marketing Executive,43.0,Male,104730.0,10.4,2025-09-01,Pune,4.0,Remote
+EMP0076,Vivaan Gupta,Data & Analytics,Data Scientist,30.0,Male,75953.0,1.6,2019-11-05,Jaipur,4.0,Hybrid
+EMP0036,Harsh Mir,Finance,Accountant,39.0,Female,73654.0,3.3,2024-12-22,Jaipur,3.0,Office
+EMP0072,Hiba Verma,Data & Analytics,Data Scientist,52.0,Male,100329.0,6.5,2021-12-19,,5.0,Hybrid
+EMP0128,Sana Mehta,Marketing,Content Strategist,25.0,Female,79778.0,7.9,2022-10-04,Delhi,5.0,Hybrid
+EMP0086,Faizan Mehta,Finance,Financial Analyst,34.0,Female,100626.0,15.0,2021-12-25,Srinagar,4.0,Remote
+EMP0009,Manya Dar,Human Resources,Recruiter,46.0,Male,62227.0,2.5,2017-08-05,Kolkata,4.0,Hybrid
+EMP0094,Karan Mir,Operations,Process Analyst,50.0,Female,88592.0,13.3,2017-10-03,Srinagar,4.0,Remote
+EMP0068,Kashish Kapoor,Engineering,QA Engineer,49.0,Female,98757.0,11.2,2022-08-04,Pune,4.0,Remote
+EMP0050,Alina Patel,Finance,Financial Analyst,22.0,Male,74903.0,7.6,2020-01-18,Pune,2.0,Remote
+EMP0132,Manya Rao,Marketing,Content Strategist,30.0,Female,49522.0,0.6,2021-11-25,Delhi,2.0,Remote
+EMP0073,Karan Kapoor,Customer Success,Customer Success Manager,42.0,MALE,43331.0,1.1,2018-03-23,Jaipur,3.0,Hybrid
+EMP0124,Saira Kapoor,Engineering,QA Engineer,33.0,Male,94812.0,7.2,2024-06-12,Jaipur,4.0,Hybrid
+EMP0020,Sara Ali,Sales,Sales Executive,22.0,Female,51745.0,2.4,2020-11-19,,2.0,Office
+EMP0120,Saira Sheikh,Marketing,Marketing Executive,52.0,Male,107328.0,17.4,2020-11-25,Bengaluru,2.0,Remote

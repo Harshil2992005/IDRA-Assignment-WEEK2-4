@@ -13,6 +13,7 @@ IDRA-Assignment-WEEK2-4/
 ├── day-8/          # Day 8: Data Filtering, Sorting & Observations
 ├── day-9/          # Day 9: Data Merging, Concatenation & Feature Engineering
 ├── day-10/         # Day 10: Flight Operations Data Analysis
+├── day-11/         # Day 11: Company Employee Data Cleaning
 ├── LICENSE         # MIT License
 └── README.md       # This file
 ```
@@ -26,6 +27,7 @@ IDRA-Assignment-WEEK2-4/
 | **Day 8** | Data Filtering, Sorting & Observations | `Day8_Ecommerce_Sales_Dataset.csv` (100 transactions) | EDA, Category/Region/Payment insights, Recommendations |
 | **Day 9** | Data Merging, Concatenation & Feature Engineering | Orders (120) + Customers (30) + Products (20) | Merged dataset, `Order_Type`, `Total_Price`, Temporal features |
 | **Day 10** | Flight Operations Data Analysis | `Day10_Flight_Operations_Dataset.csv` (180 flights) | Complete Pandas workflow: load, clean, filter, sort, group, aggregate, 8 observations |
+| **Day 11** | Company Employee Data Cleaning | `Day11_Messy_Company_Employee_Dataset.csv` (157 employees) | Cleaned dataset, missing-value resolution, duplicate removal, dtype fixes, 7 findings |
 
 ---
 
@@ -42,6 +44,9 @@ jupyter notebook "IDRA DAY 9.ipynb"
 # or
 cd day-10
 jupyter notebook "IDRA DAY 10.ipynb"
+# or
+cd day-11
+jupyter notebook "IDRA DAY 11.ipynb"
 ```
 
 **Requirements:** `pandas`, `jupyter`
@@ -66,6 +71,13 @@ jupyter notebook "IDRA DAY 10.ipynb"
 - **Key analyses:** Route-wise delays & satisfaction, weather impact, airline performance, travel class comparison
 - **Findings:** Avg ticket ₹6,112 (range ₹1,949–₹27,832); Rain causes highest delays (21.4 min); Delhi-Mumbai route most delayed (33.9 min avg); Load factor 62.2%
 - **8 observations** covering pricing, delays, routes, satisfaction, load factor, booking channels, seasonal patterns
+
+## 🧹 Day 11 Highlights
+- **Dataset:** 157 employee records, 12 features (identity, org, demographics, compensation, performance, work mode)
+- **Cleaning:** 32 missing values resolved (median/mode/ffill), 7 duplicates removed (157→150 rows), strings standardized
+- **Imputation:** Median for numeric (Age, Salary, Experience, Performance), Mode for categorical (Department, Gender), ffill/bfill for City/Work Mode
+- **Datatype fix:** Joining_Date converted from object to datetime64[ns]
+- **7 findings** covering missing data, duplicates, categorical cleanup, imputation strategy, dtype fix, before/after comparison
 
 ---
 
