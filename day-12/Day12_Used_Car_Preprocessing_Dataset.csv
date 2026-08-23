@@ -1,0 +1,321 @@
+Car_ID,Brand,Year,Mileage_Km,Engine_CC,Power_BHP,Fuel_Type,Transmission,City,Seller_Type,Condition,Previous_Owners,Accidents_Reported,Service_Score,Resale_Price_Lakh
+CAR0001,Skoda,2021,69708,1152,128.8,Diesel,Manual,Lucknow,Individual,Good,1,0,72,6.38
+CAR0002,Toyota,2020,88881,903,146.5,Diesel,Automatic,Chandigarh,Individual,Good,1,0,87,4.83
+CAR0003,Volkswagen,2021,43646,1446,185.9,Diesel,Automatic,Hyderabad,Individual,Very Good,2,0,90,7.3
+CAR0004,Tata,2019,70847,2069,148.8,Petrol,Manual,Lucknow,Individual,Excellent,3,0,66,3.82
+CAR0005,Tata,2016,101228,1657,206.0,Petrol,Automatic,Ahmedabad,Dealer,Very Good,2,0,84,1.93
+CAR0006,Maruti,2018,80587,1169,154.4,Diesel,Manual,Delhi,Individual,Excellent,1,0,83,5.83
+CAR0007,Kia,2016,102042,1168,147.0,Petrol,Manual,Bengaluru,Individual,Good,1,1,62,1.2
+CAR0008,Kia,2015,93280,1227,151.4,Diesel,Manual,Hyderabad,Individual,Fair,2,0,74,1.2
+CAR0009,Volkswagen,2017,105505,1202,189.3,Diesel,Manual,Lucknow,Dealer,Fair,1,0,66,1.61
+CAR0010,Honda,2015,149183,1332,153.3,Diesel,Manual,Delhi,Certified Dealer,Very Good,1,0,67,1.2
+CAR0011,Renault,2018,70901,1794,180.8,Diesel,Manual,Mumbai,Dealer,Very Good,2,1,74,3.46
+CAR0012,Mahindra,2022,62341,1695,133.6,Petrol,Automatic,Chandigarh,Individual,Very Good,1,0,59,6.53
+CAR0013,Maruti,2019,70357,1827,164.0,Petrol,Automatic,Lucknow,Individual,Excellent,1,0,94,4.92
+CAR0014,Honda,2021,54767,1021,115.2,Petrol,Automatic,Hyderabad,Dealer,Good,1,0,91,5.91
+CAR0015,Mahindra,2017,82418,600,148.5,Diesel,Automatic,Chandigarh,Certified Dealer,Good,1,1,67,3.07
+CAR0016,Volkswagen,2017,64393,1108,168.8,Petrol,Manual,Delhi,Dealer,Good,2,0,63,1.92
+CAR0017,Renault,2019,62319,1116,127.7,Petrol,Automatic,Bengaluru,Dealer,Excellent,4,1,93,3.69
+CAR0018,Skoda,2019,72671,1114,138.2,Petrol,Automatic,Bengaluru,Individual,Good,2,0,83,4.01
+CAR0019,Renault,2025,25638,1691,148.0,Diesel,Manual,Lucknow,Individual,Very Good,1,0,93,9.06
+CAR0020,Volkswagen,2014,116022,989,137.2,Diesel,Manual,Delhi,Dealer,Good,3,0,61,1.2
+CAR0021,Toyota,2024,46404,1328,139.2,Petrol,Automatic,Lucknow,Individual,Fair,3,0,88,7.97
+CAR0022,Mahindra,2021,63234,1611,170.6,CNG,Manual,Bengaluru,Individual,Good,1,0,93,5.95
+CAR0023,Tata,2019,92804,636,132.3,Petrol,Manual,Hyderabad,Individual,Very Good,2,0,79,2.65
+CAR0024,Honda,2024,48307,1608,169.0,Diesel,Automatic,Bengaluru,Individual,Good,2,1,77,6.74
+CAR0025,Honda,2018,96803,1592,132.7,Petrol,Automatic,Bengaluru,Dealer,Good,2,0,78,4.02
+CAR0026,Volkswagen,2016,98454,697,127.5,Petrol,Automatic,Jaipur,Dealer,Good,1,0,96,2.11
+CAR0027,Toyota,2022,44351,1473,190.5,Diesel,Manual,Ahmedabad,Dealer,Good,3,0,84,8.19
+CAR0028,Skoda,2024,11874,1005,155.3,CNG,Manual,Kochi,Individual,Excellent,1,0,90,9.16
+CAR0029,Skoda,2023,68386,1252,99.4,Diesel,Automatic,Hyderabad,Individual,Very Good,2,0,57,7.35
+CAR0030,Kia,2016,103136,1038,178.0,Petrol,Manual,Ahmedabad,Individual,Poor,1,0,93,2.73
+CAR0031,Tata,2023,33592,1505,128.7,Diesel,Manual,Bengaluru,Certified Dealer,Good,3,0,77,6.85
+CAR0032,Volkswagen,2025,320000,5000,85.0,Petrol,Automatic,Lucknow,Certified Dealer,Excellent,2,2,94,15.0
+CAR0033,Volkswagen,2020,53877,1673,163.2,Petrol,Manual,Ahmedabad,Certified Dealer,Good,1,2,64,4.94
+CAR0034,Renault,2023,65420,1792,155.5,Diesel,Automatic,Chandigarh,Individual,Poor,2,0,89,5.87
+CAR0035,Kia,2014,97435,1399,160.9,Diesel,Automatic,Delhi,Dealer,Good,1,0,71,1.2
+CAR0036,Skoda,2016,95290,1101,125.0,CNG,Manual,Ahmedabad,Individual,Very Good,1,0,74,1.81
+CAR0037,Tata,2022,46081,1083,145.6,CNG,Manual,Delhi,Dealer,Fair,1,0,86,6.78
+CAR0038,Toyota,2019,64172,1381,171.7,Petrol,Manual,Ahmedabad,Dealer,Very Good,1,0,85,6.51
+CAR0039,Tata,2020,63329,1706,173.0,Petrol,Manual,Jaipur,Dealer,Good,2,0,75,4.45
+CAR0040,Tata,2016,109853,1793,126.6,Diesel,Manual,Ahmedabad,Individual,Very Good,2,0,68,1.34
+CAR0041,Skoda,2018,95157,1461,142.0,Diesel,Manual,Hyderabad,Individual,Good,1,0,59,3.9
+CAR0042,Tata,2016,98983,847,135.5,Petrol,Manual,Kochi,Individual,Good,3,0,97,1.25
+CAR0043,Volkswagen,2023,49701,1342,158.7,Petrol,Manual,Jaipur,Dealer,Very Good,2,0,64,9.05
+CAR0044,Kia,2020,73162,1258,163.9,Diesel,Automatic,Ahmedabad,Individual,Good,1,0,63,5.39
+CAR0045,Kia,2024,88086,600,105.6,Diesel,Automatic,Jaipur,Individual,Good,1,0,63,8.26
+CAR0046,Mahindra,2024,76208,1824,173.3,Petrol,Automatic,Mumbai,Dealer,Good,1,1,89,6.4
+CAR0047,Kia,2014,118596,1004,170.6,Petrol,Automatic,Mumbai,Dealer,Fair,2,1,69,1.2
+CAR0048,Honda,2018,87886,686,145.9,Petrol,Manual,Hyderabad,Certified Dealer,Fair,1,0,75,3.79
+CAR0049,Kia,2022,73129,1821,196.6,Petrol,Manual,Kochi,Individual,Excellent,1,0,89,8.77
+CAR0050,Renault,2015,110359,1683,167.4,Petrol,Manual,Lucknow,Dealer,Good,1,0,71,1.2
+CAR0051,Honda,2016,117893,1497,184.2,Petrol,Manual,Chandigarh,Individual,Good,1,2,75,1.2
+CAR0052,Skoda,2016,84725,1149,114.0,Electric,Manual,Kochi,Dealer,Good,1,0,85,3.4
+CAR0053,Maruti,2016,155000,676,85.5,Diesel,Manual,Ahmedabad,Individual,Very Good,2,2,63,1.2
+CAR0054,Kia,2024,30737,600,162.9,Petrol,Manual,Jaipur,Dealer,Fair,1,1,84,9.33
+CAR0055,Hyundai,2022,24210,628,138.2,Petrol,Manual,Jaipur,Individual,Good,1,0,73,6.39
+CAR0056,Toyota,2024,45451,2333,200.3,Diesel,Manual,Delhi,Individual,Good,1,0,67,9.13
+CAR0057,Mahindra,2024,42324,969,108.4,Petrol,Automatic,Kochi,Individual,Very Good,3,1,57,7.43
+CAR0058,Volkswagen,2024,28946,1319,176.6,Petrol,Automatic,Delhi,Certified Dealer,Excellent,1,0,92,8.95
+CAR0059,Hyundai,2021,36217,1700,192.0,Petrol,Automatic,Ahmedabad,Dealer,Very Good,1,0,85,7.4
+CAR0060,Toyota,2018,90330,1354,178.1,Diesel,Automatic,Pune,Individual,Good,1,1,56,1.72
+CAR0061,Volkswagen,2018,70064,1537,171.4,Petrol,Automatic,Jaipur,Individual,Excellent,1,0,56,5.46
+CAR0062,Honda,2020,80376,972,117.1,Diesel,Automatic,Pune,Individual,Good,3,0,70,4.35
+CAR0063,Skoda,2018,75203,1388,153.4,Petrol,Manual,Pune,Dealer,Fair,1,0,85,2.03
+CAR0064,Volkswagen,2018,103984,600,125.4,Petrol,Manual,Pune,Dealer,Very Good,2,0,90,2.82
+CAR0065,Toyota,2020,69526,1503,115.4,Petrol,Manual,Ahmedabad,Individual,Good,2,0,84,5.07
+CAR0066,Volkswagen,2021,48639,686,129.8,Diesel,Manual,Bengaluru,Individual,Good,3,0,65,5.66
+CAR0067,Maruti,2022,33850,1117,163.7,Diesel,Manual,Lucknow,Dealer,Very Good,4,2,55,5.7
+CAR0068,Honda,2015,280000,4200,72.0,Petrol,Manual,Mumbai,Individual,Good,2,1,96,12.5
+CAR0069,Tata,2021,51591,1458,141.0,CNG,Manual,Kochi,Certified Dealer,Excellent,3,0,82,6.92
+CAR0070,Renault,2024,46064,1644,150.9,Petrol,Manual,Kochi,Dealer,Good,1,0,57,7.95
+CAR0071,Hyundai,2020,95124,699,109.0,Diesel,Automatic,Hyderabad,Individual,Excellent,2,0,80,4.32
+CAR0072,Renault,2023,39288,1934,202.2,Petrol,Manual,Lucknow,Dealer,Good,2,0,71,7.12
+CAR0073,Toyota,2018,73800,1253,192.4,Diesel,Manual,Lucknow,Individual,Poor,1,1,70,2.96
+CAR0074,Toyota,2019,72687,843,79.2,Electric,Automatic,Jaipur,Certified Dealer,Very Good,2,2,80,4.86
+CAR0075,Volkswagen,2014,133153,2287,219.3,Diesel,Manual,Jaipur,Individual,Good,1,0,82,1.2
+CAR0076,Skoda,2020,38775,1901,197.7,Diesel,Manual,Mumbai,Individual,Poor,4,0,56,4.21
+CAR0077,Volkswagen,2023,61134,1195,144.4,Diesel,Manual,Lucknow,Dealer,Very Good,3,1,59,6.55
+CAR0078,Toyota,2017,64958,878,171.7,Diesel,Manual,Jaipur,Certified Dealer,Good,4,0,56,2.28
+CAR0079,Tata,2021,55616,871,108.9,Petrol,Automatic,Hyderabad,Individual,Very Good,1,2,80,4.78
+CAR0080,Skoda,2018,112940,826,135.8,Petrol,Automatic,Jaipur,Certified Dealer,Fair,2,0,97,2.66
+CAR0081,Hyundai,2016,93472,1558,207.3,Petrol,Manual,Kochi,Dealer,Excellent,2,0,61,2.62
+CAR0082,Kia,2021,46994,1343,134.8,Diesel,Automatic,Hyderabad,Individual,Good,1,0,55,4.93
+CAR0083,Renault,2022,57113,1184,154.0,Diesel,Automatic,Chandigarh,Individual,Very Good,1,1,96,6.12
+CAR0084,Maruti,2015,124883,1977,167.3,Petrol,Automatic,Jaipur,Individual,Good,1,0,71,1.62
+CAR0085,Maruti,2018,80237,600,56.7,Petrol,Automatic,Ahmedabad,Individual,Excellent,2,0,88,2.68
+CAR0086,Mahindra,2024,70447,1043,143.8,Diesel,Manual,Pune,Certified Dealer,Fair,1,0,64,7.63
+CAR0087,Honda,2023,83380,1018,163.3,Diesel,Automatic,Lucknow,Dealer,Poor,1,0,91,7.59
+CAR0088,Mahindra,2017,100381,1896,181.3,Diesel,Automatic,Delhi,Individual,Excellent,1,0,96,3.36
+CAR0089,Renault,2020,83697,684,162.8,Petrol,Manual,Hyderabad,Dealer,Good,1,1,61,2.64
+CAR0090,Skoda,2014,122751,1258,190.7,Petrol,Automatic,Delhi,Individual,Excellent,1,1,73,1.2
+CAR0091,Honda,2014,123224,995,144.0,Diesel,Manual,Lucknow,Dealer,Very Good,1,1,76,1.2
+CAR0092,Volkswagen,2014,153810,2462,204.4,Petrol,Manual,Kochi,Dealer,Very Good,1,0,82,1.2
+CAR0093,Toyota,2015,142937,868,126.7,Petrol,Automatic,Kochi,Dealer,Excellent,3,0,74,2.22
+CAR0094,Skoda,2021,26207,1308,163.2,Petrol,Manual,Pune,Individual,Excellent,3,0,65,7.39
+CAR0095,Honda,2025,5000,1898,189.1,Diesel,Manual,Lucknow,Individual,Very Good,1,0,62,9.81
+CAR0096,Kia,2023,79491,1068,137.5,Petrol,Automatic,Delhi,Dealer,Poor,1,0,94,6.49
+CAR0097,Toyota,2018,76075,1856,137.7,Diesel,Automatic,Hyderabad,Dealer,Good,2,0,55,3.03
+CAR0098,Maruti,2020,68425,1468,172.9,Petrol,Automatic,Lucknow,Dealer,Very Good,1,0,58,3.24
+CAR0099,Skoda,2015,113865,2011,155.7,Diesel,Manual,Jaipur,Dealer,Very Good,1,2,97,1.73
+CAR0100,Hyundai,2019,74231,1051,170.8,Petrol,Manual,Chandigarh,Individual,Good,1,0,67,3.49
+CAR0101,Mahindra,2023,37044,1278,179.6,Petrol,Manual,Delhi,Individual,Fair,3,1,74,6.26
+CAR0102,Renault,2022,77673,689,89.8,Petrol,Manual,Hyderabad,Individual,Very Good,1,0,83,5.02
+CAR0103,Toyota,2023,41344,1528,149.9,Petrol,Automatic,Mumbai,Certified Dealer,Excellent,1,0,78,9.31
+CAR0104,Tata,2018,95234,600,93.4,Electric,Automatic,Pune,Individual,Good,1,0,58,3.36
+CAR0105,Volkswagen,2024,700,1100,180.0,Petrol,Manual,Ahmedabad,Certified Dealer,Excellent,2,0,65,8.8
+CAR0106,Toyota,2024,34358,1365,187.9,Petrol,Manual,Jaipur,Individual,Good,4,1,96,9.07
+CAR0107,Mahindra,2025,12745,1166,150.4,Diesel,Manual,Hyderabad,Dealer,Good,1,0,66,9.07
+CAR0108,Skoda,2017,84044,840,120.8,Petrol,Manual,Lucknow,Individual,Poor,3,0,58,1.2
+CAR0109,Maruti,2018,102406,1647,159.4,Petrol,Manual,Pune,Dealer,Good,1,0,81,2.96
+CAR0110,Maruti,2022,64456,1622,124.8,Diesel,Manual,Chandigarh,Individual,Excellent,1,0,66,6.0
+CAR0111,Hyundai,2025,26066,1298,172.0,Electric,Manual,Pune,Individual,Good,3,0,90,9.93
+CAR0112,Kia,2024,61175,1904,199.1,Petrol,Manual,Chandigarh,Individual,Fair,2,0,71,7.44
+CAR0113,Maruti,2025,49901,1616,146.0,Petrol,Automatic,Lucknow,Individual,Very Good,1,0,77,7.84
+CAR0114,Kia,2019,36445,1647,129.8,Diesel,Manual,Hyderabad,Dealer,Poor,1,0,86,4.6
+CAR0115,Tata,2017,75560,2187,186.0,Diesel,Manual,Kochi,Individual,Very Good,1,2,89,2.87
+CAR0116,Toyota,2019,57387,1101,159.0,Petrol,Manual,Bengaluru,Individual,Good,4,0,79,2.74
+CAR0117,Hyundai,2020,42304,1686,213.9,Petrol,Manual,Bengaluru,Individual,Excellent,1,0,65,5.84
+CAR0118,Mahindra,2015,131802,787,143.8,Diesel,Automatic,Mumbai,Individual,Very Good,1,0,59,1.2
+CAR0119,Maruti,2024,29999,1916,161.3,Electric,Automatic,Chandigarh,Individual,Excellent,2,0,78,8.81
+CAR0120,Volkswagen,2016,127818,654,54.1,Diesel,Manual,Delhi,Individual,Good,1,0,55,1.2
+CAR0121,Kia,2017,84124,1333,125.6,Petrol,Automatic,Ahmedabad,Dealer,Poor,3,1,94,2.09
+CAR0122,Volkswagen,2025,5000,783,98.8,Petrol,Automatic,Pune,Certified Dealer,Good,1,0,90,9.18
+CAR0123,Renault,2019,75463,1340,130.6,Petrol,Manual,Lucknow,Certified Dealer,Very Good,1,0,69,4.25
+CAR0124,Renault,2015,112893,606,102.0,Petrol,Manual,Jaipur,Dealer,Fair,1,0,91,1.2
+CAR0125,Renault,2024,52823,1254,111.7,Diesel,Manual,Lucknow,Certified Dealer,Poor,2,0,96,5.71
+CAR0126,Maruti,2016,110191,1166,178.6,Petrol,Automatic,Ahmedabad,Dealer,Very Good,1,0,82,2.29
+CAR0127,Volkswagen,2023,51622,1126,150.6,Petrol,Automatic,Mumbai,Individual,Very Good,1,0,78,8.56
+CAR0128,Honda,2017,91870,1113,141.9,Petrol,Manual,Lucknow,Certified Dealer,Good,1,0,80,2.26
+CAR0129,Renault,2016,113895,1029,152.0,Petrol,Manual,Delhi,Individual,Good,1,0,79,1.22
+CAR0130,Honda,2020,92472,1056,98.6,Petrol,Automatic,Mumbai,Individual,Very Good,2,0,86,4.44
+CAR0131,Renault,2021,93790,1230,78.9,Diesel,Automatic,Kochi,Individual,Excellent,2,0,80,5.57
+CAR0132,Renault,2018,91726,1205,149.5,Petrol,Automatic,Jaipur,Individual,Excellent,1,0,95,4.05
+CAR0133,Volkswagen,2018,65330,1188,159.8,Diesel,Manual,Lucknow,Certified Dealer,Very Good,1,0,71,4.26
+CAR0134,Hyundai,2018,72824,2273,182.3,Diesel,Manual,Ahmedabad,Individual,Fair,2,0,71,3.4
+CAR0135,Honda,2019,93725,2008,195.4,CNG,Manual,Mumbai,Individual,Very Good,1,0,94,5.09
+CAR0136,Renault,2022,92496,900,139.7,Petrol,Manual,Delhi,Individual,Good,1,0,73,6.08
+CAR0137,Maruti,2024,11199,1375,162.2,Petrol,Manual,Jaipur,Individual,Very Good,1,0,86,7.77
+CAR0138,Tata,2024,15147,1735,156.9,Diesel,Automatic,Kochi,Individual,Good,3,0,80,7.97
+CAR0139,Renault,2018,105939,1407,146.3,CNG,Manual,Bengaluru,Certified Dealer,Good,2,1,56,2.37
+CAR0140,Volkswagen,2024,27473,1152,92.9,Diesel,Manual,Delhi,Individual,Good,4,0,98,6.82
+CAR0141,Mahindra,2015,99518,673,157.7,Diesel,Automatic,Jaipur,Individual,Good,1,0,86,1.67
+CAR0142,Renault,2024,34733,889,155.0,Petrol,Manual,Bengaluru,Individual,Good,1,1,69,7.84
+CAR0143,Honda,2021,36834,851,123.1,Petrol,Manual,Delhi,Dealer,Good,1,0,70,5.05
+CAR0144,Kia,2016,72724,1142,134.5,Electric,Manual,Chandigarh,Certified Dealer,Very Good,1,0,55,1.84
+CAR0145,Tata,2015,102462,1856,154.3,Petrol,Manual,Lucknow,Dealer,Fair,1,0,69,1.2
+CAR0146,Toyota,2017,117001,1918,126.8,Petrol,Automatic,Bengaluru,Dealer,Good,1,0,61,2.17
+CAR0147,Volkswagen,2023,24399,1820,176.3,Diesel,Manual,Hyderabad,Dealer,Excellent,1,0,70,8.84
+CAR0148,Skoda,2021,52539,600,127.5,Petrol,Automatic,Chandigarh,Dealer,Very Good,2,0,61,3.87
+CAR0149,Toyota,2020,58929,1636,129.7,Diesel,Manual,Hyderabad,Individual,Fair,1,0,63,6.45
+CAR0150,Skoda,2022,1200,4200,390.0,Petrol,Automatic,Hyderabad,Individual,Good,1,0,69,22.5
+CAR0151,Toyota,2016,94872,1804,152.8,Petrol,Manual,Mumbai,Dealer,Excellent,2,0,62,2.57
+CAR0152,Volkswagen,2018,59742,1942,201.9,Petrol,Automatic,Hyderabad,Individual,Good,1,0,77,4.23
+CAR0153,Mahindra,2021,83916,1742,149.1,Diesel,Manual,Chandigarh,Certified Dealer,Very Good,1,0,78,5.93
+CAR0154,Skoda,2021,35822,1396,120.8,Petrol,Manual,Lucknow,Certified Dealer,Good,1,0,90,6.22
+CAR0155,Renault,2021,75444,600,106.7,Petrol,Manual,Bengaluru,Individual,Fair,1,0,89,4.74
+CAR0156,Renault,2020,85986,1524,149.9,Petrol,Automatic,Bengaluru,Individual,Good,1,0,57,4.25
+CAR0157,Tata,2018,76493,1638,161.8,Diesel,Manual,Delhi,Individual,Fair,1,0,77,3.3
+CAR0158,Mahindra,2017,90562,1161,101.2,Petrol,Automatic,Pune,Individual,Very Good,3,0,93,1.2
+CAR0159,Skoda,2022,27763,660,125.5,Petrol,Automatic,Pune,Individual,Very Good,2,2,94,5.77
+CAR0160,Honda,2017,97183,1982,181.1,Petrol,Manual,Delhi,Dealer,Very Good,1,2,87,3.94
+CAR0161,Renault,2024,61842,2060,142.2,Electric,Automatic,Ahmedabad,Certified Dealer,Very Good,3,0,85,8.66
+CAR0162,Mahindra,2024,31347,1384,127.4,Petrol,Manual,Delhi,Individual,Very Good,1,0,81,8.65
+CAR0163,Mahindra,2016,103916,1234,196.8,Electric,Manual,Lucknow,Individual,Good,1,0,72,3.72
+CAR0164,Maruti,2019,76140,1149,156.9,Petrol,Manual,Chandigarh,Individual,Excellent,2,2,79,4.62
+CAR0165,Skoda,2024,13208,1389,115.1,Petrol,Automatic,Delhi,Individual,Very Good,1,0,97,8.31
+CAR0166,Maruti,2019,80467,936,97.9,Petrol,Manual,Bengaluru,Individual,Good,2,0,82,2.62
+CAR0167,Mahindra,2014,158053,1787,181.3,Diesel,Automatic,Chandigarh,Dealer,Poor,3,0,89,1.2
+CAR0168,Tata,2018,105462,600,119.1,CNG,Automatic,Chandigarh,Certified Dealer,Good,1,0,72,1.62
+CAR0169,Honda,2017,106377,713,147.7,Petrol,Manual,Ahmedabad,Certified Dealer,Good,1,0,62,2.22
+CAR0170,Hyundai,2018,89184,600,60.8,Petrol,Manual,Delhi,Individual,Excellent,3,0,56,2.71
+CAR0171,Renault,2023,39494,1005,121.3,Petrol,Manual,Bengaluru,Individual,Very Good,2,0,94,8.44
+CAR0172,Hyundai,2019,82982,1158,125.8,Petrol,Manual,Delhi,Individual,Very Good,4,0,65,3.07
+CAR0173,Renault,2018,72713,1773,159.9,Petrol,Automatic,Lucknow,Dealer,Fair,1,0,80,3.36
+CAR0174,Toyota,2022,32343,600,108.6,Petrol,Automatic,Chandigarh,Individual,Good,1,0,83,6.5
+CAR0175,Skoda,2017,142000,1828,178.0,Petrol,Manual,Bengaluru,Individual,Fair,3,2,68,1.2
+CAR0176,Skoda,2023,64780,1169,151.5,Petrol,Automatic,Chandigarh,Certified Dealer,Good,1,0,78,7.04
+CAR0177,Hyundai,2020,48729,1745,166.0,Electric,Manual,Hyderabad,Individual,Good,1,0,55,6.21
+CAR0178,Hyundai,2017,108092,1459,189.1,Petrol,Automatic,Chandigarh,Individual,Good,3,0,87,3.66
+CAR0179,Mahindra,2023,35378,1137,153.3,CNG,Manual,Delhi,Dealer,Good,2,0,69,7.27
+CAR0180,Honda,2018,63629,611,81.9,Petrol,Manual,Lucknow,Dealer,Fair,1,1,91,1.2
+CAR0181,Honda,2016,99161,735,141.2,Diesel,Manual,Bengaluru,Individual,Good,3,0,98,1.87
+CAR0182,Hyundai,2016,113082,1047,222.5,Petrol,Automatic,Pune,Dealer,Good,1,0,78,2.77
+CAR0183,Tata,2020,34749,749,136.7,Petrol,Manual,Pune,Dealer,Good,1,0,83,4.28
+CAR0184,Honda,2023,67995,1716,160.7,Petrol,Manual,Ahmedabad,Certified Dealer,Very Good,1,0,64,6.83
+CAR0185,Volkswagen,2018,74819,1511,192.7,Diesel,Manual,Delhi,Individual,Excellent,1,1,80,5.34
+CAR0186,Renault,2016,91665,1380,114.0,CNG,Automatic,Jaipur,Certified Dealer,Very Good,1,0,90,2.65
+CAR0187,Mahindra,2023,50743,1044,128.8,Petrol,Manual,Chandigarh,Individual,Fair,2,1,71,6.65
+CAR0188,Volkswagen,2016,79408,1468,112.8,Diesel,Automatic,Lucknow,Dealer,Very Good,2,0,61,2.06
+CAR0189,Renault,2015,950,3800,350.0,Petrol,Manual,Hyderabad,Individual,Poor,2,0,58,18.7
+CAR0190,Mahindra,2020,37875,895,134.9,Diesel,Manual,Delhi,Dealer,Good,1,0,57,4.27
+CAR0191,Toyota,2018,107258,2050,176.9,Electric,Manual,Ahmedabad,Individual,Excellent,1,0,82,5.24
+CAR0192,Hyundai,2023,20014,1787,166.6,Petrol,Automatic,Ahmedabad,Dealer,Very Good,1,0,82,6.92
+CAR0193,Skoda,2022,48401,1480,106.3,Diesel,Automatic,Delhi,Dealer,Good,2,0,91,5.82
+CAR0194,Volkswagen,2014,147069,1844,226.9,Petrol,Manual,Delhi,Individual,Good,1,0,59,1.2
+CAR0195,Honda,2015,115749,1073,107.5,Petrol,Automatic,Hyderabad,Individual,Good,2,0,69,1.2
+CAR0196,Skoda,2014,99317,945,113.8,Petrol,Automatic,Lucknow,Individual,Very Good,3,0,64,1.2
+CAR0197,Hyundai,2017,82213,1170,146.0,Electric,Automatic,Bengaluru,Dealer,Very Good,1,0,91,4.35
+CAR0198,Honda,2025,11008,600,133.1,Diesel,Manual,Pune,Certified Dealer,Very Good,3,0,84,9.72
+CAR0199,Toyota,2014,109966,947,123.7,Diesel,Manual,Pune,Individual,Good,1,0,76,1.2
+CAR0200,Maruti,2022,66529,801,175.5,Petrol,Manual,Kochi,Individual,Good,1,0,83,5.43
+CAR0201,Mahindra,2025,38078,1378,183.0,Diesel,Manual,Bengaluru,Dealer,Good,3,0,61,7.99
+CAR0202,Skoda,2024,55664,1310,122.6,Petrol,Automatic,Bengaluru,Individual,Good,3,0,93,6.68
+CAR0203,Toyota,2015,126824,1448,157.0,Diesel,Manual,Mumbai,Dealer,Very Good,2,0,70,1.67
+CAR0204,Volkswagen,2020,30086,1227,154.4,Diesel,Manual,Bengaluru,Individual,Good,2,0,63,4.81
+CAR0205,Maruti,2019,93413,1106,79.2,CNG,Manual,Jaipur,Dealer,Good,2,0,62,1.42
+CAR0206,Hyundai,2017,124041,1239,156.1,Petrol,Automatic,Ahmedabad,Individual,Very Good,1,0,86,2.74
+CAR0207,Renault,2023,61314,1520,173.6,Petrol,Manual,Lucknow,Individual,Very Good,2,1,74,6.23
+CAR0208,Hyundai,2018,107675,1770,173.8,Petrol,Automatic,Chandigarh,Dealer,Good,3,0,59,2.86
+CAR0209,Skoda,2022,38140,762,126.3,CNG,Manual,Pune,Certified Dealer,Very Good,1,0,93,7.17
+CAR0210,Skoda,2014,110356,1600,145.3,Petrol,Manual,Lucknow,Individual,Very Good,2,0,65,1.2
+CAR0211,Volkswagen,2014,136048,604,158.4,Petrol,Manual,Jaipur,Dealer,Good,2,1,88,1.2
+CAR0212,Volkswagen,2024,17381,1757,210.6,Diesel,Manual,Kochi,Certified Dealer,Very Good,2,0,81,10.4
+CAR0213,Maruti,2014,109918,897,129.7,Petrol,Manual,Pune,Individual,Good,2,0,72,1.2
+CAR0214,Hyundai,2025,25967,1243,245.0,Petrol,Automatic,Hyderabad,Individual,Very Good,3,1,98,8.21
+CAR0215,Renault,2025,57038,1429,154.7,Petrol,Manual,Hyderabad,Dealer,Good,2,0,81,7.57
+CAR0216,Renault,2024,57952,952,183.8,Diesel,Manual,Bengaluru,Individual,Very Good,2,0,66,7.92
+CAR0217,Kia,2021,22662,600,108.8,Petrol,Manual,Ahmedabad,Certified Dealer,Good,2,1,88,5.79
+CAR0218,Maruti,2017,86555,2055,190.5,Petrol,Manual,Ahmedabad,Dealer,Good,4,0,83,2.21
+CAR0219,Kia,2020,43014,1292,165.7,Petrol,Manual,Mumbai,Certified Dealer,Good,4,0,55,4.44
+CAR0220,Skoda,2025,33518,1724,175.7,Electric,Manual,Lucknow,Dealer,Good,4,0,63,8.55
+CAR0221,Volkswagen,2024,26028,1928,169.5,Diesel,Manual,Mumbai,Individual,Very Good,1,0,78,10.11
+CAR0222,Maruti,2017,112280,1901,184.8,Petrol,Manual,Chandigarh,Certified Dealer,Good,3,0,87,1.39
+CAR0223,Hyundai,2015,113186,848,126.8,CNG,Manual,Pune,Individual,Very Good,2,0,58,1.2
+CAR0224,Kia,2014,137274,1459,185.6,Petrol,Manual,Kochi,Certified Dealer,Very Good,1,1,98,1.4
+CAR0225,Toyota,2024,5000,860,118.7,Petrol,Automatic,Mumbai,Individual,Good,1,0,56,8.44
+CAR0226,Toyota,2019,69857,1391,161.9,Petrol,Automatic,Bengaluru,Certified Dealer,Very Good,2,0,96,4.63
+CAR0227,Tata,2022,47033,1378,119.1,Diesel,Manual,Chandigarh,Individual,Good,2,0,61,5.65
+CAR0228,Hyundai,2023,25000,1800,120.0,Diesel,Manual,Mumbai,Individual,Good,1,0,78,28.5
+CAR0229,Tata,2025,43141,1454,153.2,Petrol,Automatic,Lucknow,Individual,Very Good,1,0,55,8.62
+CAR0230,Skoda,2021,61492,2033,168.1,Petrol,Manual,Bengaluru,Individual,Good,1,0,55,4.73
+CAR0231,Honda,2024,40524,1686,142.9,Diesel,Automatic,Lucknow,Dealer,Very Good,2,0,60,8.35
+CAR0232,Tata,2022,82596,1243,100.8,Petrol,Manual,Bengaluru,Certified Dealer,Very Good,4,0,65,5.15
+CAR0233,Toyota,2016,98325,1687,136.2,Petrol,Automatic,Delhi,Individual,Very Good,2,0,78,2.69
+CAR0234,Renault,2015,102134,1802,170.4,Petrol,Automatic,Ahmedabad,Individual,Good,2,0,57,1.2
+CAR0235,Renault,2015,112800,1279,163.5,Petrol,Manual,Kochi,Individual,Good,1,0,70,1.23
+CAR0236,Skoda,2024,5000,1250,99.0,Electric,Manual,Chandigarh,Individual,Very Good,3,0,69,10.04
+CAR0237,Renault,2017,93600,600,51.4,Electric,Automatic,Mumbai,Individual,Very Good,1,0,91,2.98
+CAR0238,Tata,2025,28724,1173,170.5,Petrol,Automatic,Bengaluru,Dealer,Good,2,0,78,8.96
+CAR0239,Honda,2021,71772,1287,167.2,Petrol,Manual,Delhi,Dealer,Very Good,2,0,81,7.11
+CAR0240,Hyundai,2021,65171,1539,201.7,CNG,Automatic,Ahmedabad,Dealer,Good,1,0,59,5.84
+CAR0241,Kia,2019,53618,1362,152.1,Petrol,Manual,Bengaluru,Certified Dealer,Good,2,1,86,4.04
+CAR0242,Hyundai,2018,77555,1175,160.2,Diesel,Automatic,Lucknow,Individual,Excellent,1,0,79,4.88
+CAR0243,Hyundai,2021,40559,1258,134.8,Petrol,Manual,Chandigarh,Individual,Good,4,0,91,4.58
+CAR0244,Skoda,2020,65299,911,130.2,Petrol,Automatic,Hyderabad,Individual,Very Good,1,1,77,6.32
+CAR0245,Toyota,2017,97827,1427,172.3,Petrol,Manual,Kochi,Certified Dealer,Good,2,0,63,3.31
+CAR0246,Hyundai,2019,85546,600,151.6,Diesel,Manual,Jaipur,Dealer,Good,2,1,57,3.26
+CAR0247,Kia,2015,127268,1258,188.6,Petrol,Automatic,Delhi,Individual,Good,1,0,77,1.84
+CAR0248,Volkswagen,2017,117048,1952,180.5,Diesel,Automatic,Bengaluru,Certified Dealer,Very Good,1,0,98,3.71
+CAR0249,Toyota,2018,113920,1425,154.3,Petrol,Manual,Bengaluru,Individual,Good,1,0,85,4.17
+CAR0250,Toyota,2017,65412,856,100.5,Petrol,Manual,Ahmedabad,Individual,Good,2,0,75,2.19
+CAR0251,Mahindra,2020,62556,1314,171.3,Diesel,Manual,Chandigarh,Certified Dealer,Good,1,0,79,5.96
+CAR0252,Maruti,2019,70684,1016,165.0,Petrol,Automatic,Delhi,Dealer,Very Good,3,0,91,4.25
+CAR0253,Honda,2015,102482,1554,172.8,Petrol,Manual,Pune,Dealer,Good,1,0,75,1.2
+CAR0254,Renault,2020,69069,600,147.1,Petrol,Manual,Chandigarh,Individual,Very Good,2,1,89,5.25
+CAR0255,Kia,2021,46678,1388,142.8,Petrol,Manual,Hyderabad,Dealer,Good,1,0,86,5.27
+CAR0256,Tata,2020,86667,1318,132.8,Diesel,Automatic,Jaipur,Dealer,Very Good,2,0,86,6.18
+CAR0257,Mahindra,2021,50293,1487,202.7,Petrol,Automatic,Lucknow,Individual,Very Good,3,1,61,3.59
+CAR0258,Honda,2024,12089,982,121.6,Electric,Automatic,Kochi,Certified Dealer,Very Good,1,0,64,10.2
+CAR0259,Mahindra,2020,87317,613,124.5,Petrol,Manual,Ahmedabad,Individual,Fair,1,0,89,3.92
+CAR0260,Maruti,2023,32173,1774,178.2,Electric,Manual,Lucknow,Individual,Good,1,0,72,7.73
+CAR0261,Toyota,2016,119205,1186,152.6,Petrol,Automatic,Bengaluru,Individual,Good,1,1,61,1.24
+CAR0262,Hyundai,2015,900,1600,145.0,CNG,Automatic,Pune,Dealer,Good,1,0,82,16.9
+CAR0263,Skoda,2025,23177,1531,163.3,Petrol,Manual,Lucknow,Individual,Excellent,1,0,82,9.83
+CAR0264,Maruti,2014,101627,1098,131.1,Petrol,Automatic,Delhi,Individual,Excellent,1,1,98,1.2
+CAR0265,Renault,2022,65899,2008,171.1,Diesel,Manual,Jaipur,Individual,Fair,3,0,82,5.97
+CAR0266,Tata,2024,26907,910,111.1,Petrol,Automatic,Hyderabad,Dealer,Very Good,1,0,67,7.57
+CAR0267,Skoda,2019,114723,1222,137.8,Petrol,Manual,Jaipur,Certified Dealer,Good,1,0,64,3.99
+CAR0268,Kia,2022,47858,1742,182.0,Petrol,Manual,Bengaluru,Individual,Good,1,1,63,5.4
+CAR0269,Kia,2015,95644,866,105.3,Petrol,Automatic,Ahmedabad,Individual,Poor,3,0,86,1.2
+CAR0270,Honda,2014,123316,1435,173.1,Petrol,Manual,Kochi,Dealer,Good,1,0,63,1.2
+CAR0271,Tata,2016,70803,1135,123.3,Petrol,Automatic,Ahmedabad,Dealer,Excellent,1,1,93,2.27
+CAR0272,Volkswagen,2017,110054,970,130.1,CNG,Manual,Kochi,Dealer,Poor,2,0,85,1.71
+CAR0273,Maruti,2014,109268,1555,165.4,Diesel,Automatic,Hyderabad,Individual,Good,1,0,71,1.2
+CAR0274,Toyota,2020,75999,1167,144.3,Petrol,Manual,Bengaluru,Individual,Fair,3,0,66,3.92
+CAR0275,Renault,2018,82792,947,146.8,Petrol,Manual,Hyderabad,Individual,Fair,2,0,56,1.43
+CAR0276,Mahindra,2020,52979,988,144.1,Diesel,Manual,Jaipur,Individual,Good,1,2,74,3.96
+CAR0277,Honda,2017,95868,1168,97.3,Petrol,Manual,Hyderabad,Certified Dealer,Very Good,1,0,90,1.68
+CAR0278,Toyota,2024,42263,1675,149.1,Petrol,Automatic,Mumbai,Individual,Very Good,1,0,61,8.59
+CAR0279,Kia,2020,41027,922,136.0,Diesel,Automatic,Hyderabad,Certified Dealer,Very Good,1,0,73,6.45
+CAR0280,Hyundai,2018,43904,1230,138.3,Petrol,Manual,Ahmedabad,Dealer,Fair,1,0,84,2.94
+CAR0281,Tata,2021,43259,1666,162.4,Diesel,Manual,Ahmedabad,Dealer,Very Good,1,0,82,6.56
+CAR0282,Mahindra,2021,37846,1455,140.3,CNG,Automatic,Hyderabad,Dealer,Good,2,1,80,5.02
+CAR0283,Maruti,2014,97486,1381,154.9,Electric,Automatic,Bengaluru,Certified Dealer,Good,3,1,59,1.2
+CAR0284,Renault,2025,11497,1798,168.3,Petrol,Manual,Bengaluru,Individual,Good,1,0,74,9.36
+CAR0285,Hyundai,2021,57758,1635,115.5,Petrol,Automatic,Hyderabad,Dealer,Good,2,0,98,5.11
+CAR0286,Hyundai,2024,45546,1551,191.9,Electric,Automatic,Ahmedabad,Individual,Good,2,0,61,9.76
+CAR0287,Volkswagen,2014,133806,3100,122.9,Electric,Manual,Kochi,Dealer,Good,1,1,64,1.2
+CAR0288,Mahindra,2022,61269,1412,174.9,Petrol,Manual,Pune,Dealer,Poor,3,0,90,5.95
+CAR0289,Volkswagen,2024,22118,600,148.2,Electric,Manual,Lucknow,Individual,Fair,1,0,73,8.89
+CAR0290,Volkswagen,2023,34303,1568,181.1,Petrol,Automatic,Ahmedabad,Individual,Very Good,1,0,73,6.97
+CAR0291,Maruti,2018,91497,758,131.1,Petrol,Manual,Mumbai,Dealer,Very Good,2,0,94,3.36
+CAR0292,Kia,2022,66518,1822,199.2,Petrol,Manual,Jaipur,Individual,Good,2,0,57,6.99
+CAR0293,Volkswagen,2020,56908,1240,160.9,Petrol,Manual,Lucknow,Dealer,Very Good,1,0,85,4.85
+CAR0294,Tata,2021,64283,1149,161.9,Diesel,Manual,Bengaluru,Certified Dealer,Very Good,1,0,71,6.23
+CAR0295,Mahindra,2017,82836,652,89.1,Petrol,Manual,Bengaluru,Individual,Very Good,2,0,85,1.95
+CAR0296,Honda,2018,96485,1993,193.6,CNG,Automatic,Delhi,Individual,Very Good,1,1,61,3.25
+CAR0297,Mahindra,2023,73085,1419,176.5,CNG,Manual,Hyderabad,Certified Dealer,Very Good,1,0,86,8.42
+CAR0298,Toyota,2016,79082,788,130.5,Diesel,Manual,Kochi,Dealer,Good,3,1,73,2.33
+CAR0299,Toyota,2017,129914,2596,234.9,Petrol,Manual,Pune,Certified Dealer,Good,3,1,70,2.75
+CAR0300,Toyota,2025,170000,2000,210.0,Diesel,Manual,Pune,Individual,Good,1,0,97,12.8
+CAR0301,Volkswagen,2019,79206,1390,122.3,Petrol,Manual,Bengaluru,Dealer,Good,2,1,56,3.12
+CAR0302,Toyota,2024,5000,1692,186.7,CNG,Manual,Mumbai,Individual,Very Good,1,0,59,9.3
+CAR0303,Tata,2022,79442,1147,111.5,Petrol,Manual,Lucknow,Dealer,Good,1,0,93,6.14
+CAR0304,Maruti,2014,110625,763,118.5,Diesel,Manual,Lucknow,Individual,Fair,1,0,60,1.2
+CAR0305,Toyota,2020,81118,1159,146.9,Petrol,Automatic,Chandigarh,Certified Dealer,Good,2,0,73,4.83
+CAR0306,Honda,2014,101518,1584,95.9,Diesel,Automatic,Hyderabad,Individual,Fair,2,0,93,1.2
+CAR0307,Hyundai,2019,71613,995,145.6,Diesel,Manual,Mumbai,Dealer,Good,2,0,89,5.3
+CAR0308,Volkswagen,2014,103612,1559,177.4,Petrol,Automatic,Pune,Certified Dealer,Good,1,0,90,1.2
+CAR0309,Skoda,2016,130992,1583,151.7,Petrol,Manual,Kochi,Individual,Fair,1,0,87,1.82
+CAR0310,Hyundai,2018,82356,1469,176.8,CNG,Manual,Jaipur,Certified Dealer,Good,4,0,91,3.37
+CAR0311,Honda,2025,14577,947,147.4,Diesel,Manual,Chandigarh,Dealer,Fair,1,0,93,7.95
+CAR0312,Honda,2024,33952,1404,166.9,Petrol,Automatic,Mumbai,Individual,Fair,1,0,86,8.03
+CAR0313,Mahindra,2023,66420,1549,163.3,Diesel,Manual,Pune,Dealer,Good,2,0,79,7.09
+CAR0314,Tata,2014,102304,915,129.6,Petrol,Manual,Ahmedabad,Individual,Excellent,2,0,62,1.2
+CAR0315,Toyota,2021,65905,1580,165.5,Petrol,Manual,Hyderabad,Individual,Very Good,1,1,69,5.51
+CAR0316,Mahindra,2014,151557,1186,131.9,Petrol,Automatic,Lucknow,Dealer,Fair,2,0,94,1.2
+CAR0317,Volkswagen,2020,60512,1308,135.6,Petrol,Automatic,Delhi,Individual,Excellent,1,2,95,5.93
+CAR0318,Mahindra,2022,76484,1038,139.6,Diesel,Automatic,Delhi,Dealer,Good,1,1,69,5.3
+CAR0319,Hyundai,2019,125681,1327,164.3,Diesel,Automatic,Delhi,Dealer,Very Good,1,0,59,3.68
+CAR0320,Honda,2020,71321,1266,95.0,Diesel,Manual,Ahmedabad,Individual,Excellent,2,0,97,5.57
