@@ -2,7 +2,7 @@
 
 **Student:** Patel Harshilkumar Rajubhai  
 **Track:** Data Analytics & E-Commerce Business Intelligence  
-**Duration:** Week 2-4 (Days 8-14)
+**Duration:** Week 2-4 (Days 8-15)
 
 ---
 
@@ -17,6 +17,7 @@ IDRA-Assignment-WEEK2-4/
 ├── day-12/          # Day 12: Used Car Data Preprocessing
 ├── day-13/          # Day 13: Restaurant Branch Performance EDA
 ├── day-14/          # Day 14: Food Delivery Data Visualization Portfolio
+├── day-15/          # Day 15: Executive Hotel Booking EDA Report
 ├── LICENSE         # MIT License
 └── README.md       # This file
 ```
@@ -34,6 +35,7 @@ IDRA-Assignment-WEEK2-4/
 | **Day 12** | Used Car Data Preprocessing | `Day12_Used_Car_Preprocessing_Dataset.csv` (320 cars) | Leakage-safe pipeline: ordinal + one-hot encoding, IQR outlier capping, StandardScaler, `preprocessed_used_cars.csv` |
 | **Day 13** | Restaurant Branch Performance EDA | `Day13_Restaurant_Branch_Performance_Dataset.csv` (350 records) | Complete EDA: summary stats, distribution & correlation analysis, group comparisons, 8 observations |
 | **Day 14** | Food Delivery Data Visualization | `Day14_Food_Delivery_Visualization_Dataset.csv` (360 order batches) | 14 Matplotlib/Seaborn charts (line, bar, histogram, scatter, box, violin, heatmap) with interpretations |
+| **Day 15** | Executive Hotel Booking EDA Report | `Day15_Executive_Hotel_Booking_EDA_Dataset.csv` (25,180 bookings × 35 columns) | Full-scale EDA: cleaning (22K missing values, duplicates, outliers), datetime fixes, feature engineering, visualizations, 5 insights & 7 recommendations |
 
 ---
 
@@ -62,6 +64,9 @@ jupyter notebook "IDRA DAY 13.ipynb"
 # or
 cd day-14
 jupyter notebook "IDRA DAY 14.ipynb"
+# or
+cd day-15
+jupyter notebook "IDRA DAY 15.ipynb"
 ```
 
 **Requirements:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `jupyter`
@@ -114,6 +119,13 @@ jupyter notebook "IDRA DAY 14.ipynb"
 - **Biggest insight:** Delivery time vs Customer Rating correlation **−0.88** — slow delivery is the strongest destroyer of satisfaction
 - **Trends & comparisons:** December best month (~₹25.4 lakh revenue); Bengaluru & Delhi top cities; Healthy cuisine highest AOV (₹501.8); App channel dominates (59% batches)
 - **Weather impact:** Rainy days slow deliveries to ~38.8 min and drop ratings to 4.23 vs Clear (30 min, 4.53)
+
+## 🏨 Day 15 Highlights
+- **Dataset:** 25,180 hotel booking records × 35 columns (City/Resort hotels across 11 locations — bookings, stay details, channels, ADR, revenue, outcomes)
+- **Cleaning at scale:** 22,217 missing values resolved across 8 columns (Company_ID ~82% missing → dropped), 180 duplicates removed (→ 24,999 rows), 1 impossible satisfaction score (5.9 > max 5) removed
+- **Standardization:** Hotel_Type (5 messy variants), Market_Segment & Meal_Type (10 variants) cleaned; 3 date columns converted object → datetime64[ns]
+- **Feature engineering:** `Arrival_Month` via `dt.month`, `Lead_Time_Bin` buckets (0–30 / 31–90 / 91–180 / 180+ days) via `pd.cut()`
+- **Biggest insight:** Cancellation rate is very high (**72.18%**) — rises from 44.63% (0–30 day lead) to 85.79% (180+ days); Online TA drives ~43% of bookings; Non-refund deposits show ~93% cancellations
 
 ---
 
