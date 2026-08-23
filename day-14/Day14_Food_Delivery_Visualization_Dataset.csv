@@ -1,0 +1,361 @@
+Order_Batch_ID,Date,Month,Day,City,Cuisine,Order_Channel,Weather,Orders,Average_Order_Value,Revenue,Marketing_Spend,Discounts,Avg_Delivery_Minutes,Customer_Rating,Repeat_Customer_Percent
+FD0001,2025-03-22,March,Saturday,Hyderabad,North Indian,App,Hot,156,421.03,67374.27,28150.42,7859.02,30.7,4.38,45.1
+FD0002,2025-04-15,April,Tuesday,Chandigarh,Chinese,App,Rainy,129,371.99,50312.93,20907.75,2604.03,38.0,4.34,40.4
+FD0003,2025-01-26,January,Sunday,Mumbai,Healthy,App,Clear,157,490.16,71929.08,18930.77,3613.92,25.3,4.65,43.0
+FD0004,2025-06-20,June,Friday,Pune,Chinese,App,Hot,147,391.25,58803.81,35926.51,10092.64,32.6,4.48,41.2
+FD0005,2025-08-07,August,Thursday,Bengaluru,Fast Food,Partner Platform,Rainy,172,243.76,40416.5,23514.6,2500.3,39.3,4.16,35.9
+FD0006,2025-04-08,April,Tuesday,Mumbai,North Indian,App,Clear,184,438.26,87348.6,20344.96,3935.1,35.9,4.32,37.7
+FD0007,2025-12-23,December,Tuesday,Delhi,North Indian,Website,Cloudy,193,418.88,79386.06,30477.4,6585.93,33.2,4.57,42.0
+FD0008,2025-03-12,March,Wednesday,Delhi,North Indian,App,Clear,166,407.02,60416.42,36522.96,7376.31,29.6,4.5,42.9
+FD0009,2025-03-12,March,Wednesday,Delhi,North Indian,Website,Clear,117,358.4,45306.81,30789.52,5995.57,29.8,4.54,44.3
+FD0010,2025-07-07,July,Monday,Hyderabad,Healthy,App,Rainy,169,470.73,83328.52,27546.35,6724.29,39.0,4.4,41.3
+FD0011,2025-12-03,December,Wednesday,Hyderabad,Chinese,App,Rainy,154,363.79,54259.49,27323.35,3789.81,43.1,3.99,35.2
+FD0012,2025-08-02,August,Saturday,Kochi,South Indian,App,Rainy,157,351.56,57203.2,21130.99,4878.22,37.5,4.18,43.0
+FD0013,2025-06-27,June,Friday,Pune,Fast Food,App,Clear,134,299.44,41429.62,34902.82,7153.81,26.2,4.8,45.9
+FD0014,2025-08-14,August,Thursday,Hyderabad,Fast Food,Website,Clear,145,331.44,51137.94,24320.66,4707.67,28.4,4.6,40.5
+FD0015,2025-04-09,April,Wednesday,Bengaluru,Chinese,Website,Hot,146,393.11,57390.42,19706.62,3504.74,31.7,4.47,38.5
+FD0016,2025-02-06,February,Thursday,Pune,Chinese,App,Cloudy,117,368.42,42700.48,22241.43,2990.67,33.7,4.37,36.2
+FD0017,2025-12-16,December,Tuesday,Jaipur,Biryani,App,Clear,131,457.93,64453.9,28356.75,4279.03,27.2,4.64,47.2
+FD0018,2025-11-20,November,Thursday,Pune,South Indian,App,Cloudy,148,363.55,57117.39,38652.74,10039.74,26.4,4.57,47.1
+FD0019,2025-12-23,December,Tuesday,Jaipur,Healthy,Partner Platform,Cloudy,112,457.4,55284.59,27680.35,3049.26,27.5,4.62,40.2
+FD0020,2025-08-25,August,Monday,Mumbai,South Indian,App,Clear,167,377.04,60139.19,26567.54,3476.2,31.7,4.44,38.6
+FD0021,2025-12-13,December,Saturday,Hyderabad,Chinese,App,Clear,206,365.91,75319.23,26858.75,4871.37,27.2,4.49,41.4
+FD0022,2025-06-26,June,Thursday,Bengaluru,South Indian,App,Clear,183,343.43,66678.59,35808.47,9636.64,24.6,4.8,48.9
+FD0023,2025-11-20,November,Thursday,Pune,North Indian,Partner Platform,Clear,131,447.11,58561.07,39714.44,10195.1,28.8,4.58,44.7
+FD0024,2025-07-03,July,Thursday,Delhi,South Indian,Website,Clear,165,354.5,50138.11,23868.66,4706.67,42.7,4.02,32.5
+FD0025,2025-11-19,November,Wednesday,Bengaluru,Healthy,Partner Platform,Cloudy,187,445.62,80151.87,39449.59,10117.57,39.7,4.28,37.9
+FD0026,2025-10-25,October,Saturday,Kochi,Fast Food,Website,Cloudy,162,316.49,46240.75,21395.94,2768.02,31.3,4.5,36.9
+FD0027,2025-05-17,May,Saturday,Pune,Biryani,Partner Platform,Clear,153,463.19,65016.9,23207.68,5316.87,29.3,4.61,44.0
+FD0028,2025-08-12,August,Tuesday,Chandigarh,South Indian,Partner Platform,Clear,103,333.18,36204.18,25244.57,1636.17,37.8,4.16,36.7
+FD0029,2025-10-01,October,Wednesday,Kochi,Chinese,Partner Platform,Clear,114,416.77,53424.17,30799.05,3187.91,32.8,4.43,40.9
+FD0030,2025-01-10,January,Friday,Kochi,Fast Food,App,Hot,98,352.62,38599.8,11336.64,3293.21,28.1,4.56,42.1
+FD0031,2025-05-15,May,Thursday,Kochi,Biryani,App,Cloudy,105,449.04,40912.29,21694.98,3129.24,30.3,4.43,40.3
+FD0032,2025-01-09,January,Thursday,Jaipur,Fast Food,App,Clear,86,330.67,25722.1,19301.3,1614.59,23.6,4.72,47.8
+FD0033,2025-01-09,January,Thursday,Chandigarh,South Indian,App,Clear,100,320.33,31050.57,15762.94,2274.19,25.5,4.81,50.2
+FD0034,2025-01-24,January,Friday,Bengaluru,Healthy,App,Clear,152,510.15,76981.24,18461.53,5892.43,30.0,4.57,43.3
+FD0035,2025-04-18,April,Friday,Chandigarh,Chinese,App,Cloudy,105,379.11,41576.53,20203.22,2979.67,27.4,4.72,48.5
+FD0036,2025-01-04,January,Saturday,Kochi,Chinese,App,Hot,116,360.82,44866.11,15073.06,3266.97,27.2,4.57,43.9
+FD0037,2025-12-26,December,Friday,Delhi,Fast Food,Partner Platform,Clear,197,334.89,69945.78,27279.34,4804.73,36.7,4.29,36.3
+FD0038,2025-03-02,March,Sunday,Delhi,Biryani,App,Cloudy,205,448.46,93075.46,29961.51,10340.06,34.8,4.4,41.8
+FD0039,2025-04-26,April,Saturday,Mumbai,South Indian,App,Cloudy,175,354.4,70618.37,21824.97,5304.22,36.1,4.4,40.1
+FD0040,2025-06-08,June,Sunday,Hyderabad,Chinese,App,Rainy,165,404.08,65348.31,35284.78,9404.14,32.7,4.3,42.0
+FD0041,2025-03-10,March,Monday,Delhi,Chinese,App,Rainy,160,360.25,55710.35,28087.78,7026.69,34.0,4.52,47.9
+FD0042,2025-05-02,May,Friday,Delhi,Healthy,App,Cloudy,155,501.43,78606.15,18517.78,3550.0,27.5,4.6,44.4
+FD0043,2025-09-02,September,Tuesday,Pune,Healthy,Partner Platform,Clear,127,547.57,63110.37,39261.25,10599.36,31.6,4.41,37.1
+FD0044,2025-11-21,November,Friday,Mumbai,Healthy,Website,Cloudy,170,538.0,98586.38,37759.62,12870.62,37.3,4.4,38.0
+FD0045,2025-11-06,November,Thursday,Bengaluru,Healthy,App,Clear,199,514.57,103292.16,45000.0,10294.67,32.9,4.41,38.8
+FD0046,2025-05-22,May,Thursday,Delhi,South Indian,App,Clear,163,333.19,49735.91,25756.05,3522.66,20.6,4.75,47.4
+FD0047,2025-11-17,November,Monday,Chandigarh,North Indian,Website,Clear,114,390.5,49517.76,37953.27,6876.26,31.3,4.54,38.6
+FD0048,2025-08-09,August,Saturday,Mumbai,North Indian,App,Clear,203,455.03,91374.19,23185.57,6560.32,27.9,4.61,46.5
+FD0049,2025-04-03,April,Thursday,Chandigarh,Chinese,App,Cloudy,133,382.83,55155.18,22576.89,2839.81,33.5,4.32,39.5
+FD0050,2025-09-17,September,Wednesday,Pune,South Indian,App,Rainy,157,336.09,50871.79,37773.62,6883.62,33.6,4.4,44.2
+FD0051,2025-06-09,June,Monday,Pune,Chinese,Website,Cloudy,110,362.6,46545.88,36988.96,7516.08,35.3,4.35,40.2
+FD0052,2025-03-06,March,Thursday,Mumbai,Biryani,App,Rainy,126,433.22,51485.5,30272.5,7347.82,35.8,4.37,39.9
+FD0053,2025-10-17,October,Friday,Bengaluru,Fast Food,App,Clear,199,279.7,59112.45,25842.02,2910.97,30.9,4.45,42.1
+FD0054,2025-10-21,October,Tuesday,Chandigarh,Healthy,App,Cloudy,146,492.68,76459.43,25781.6,5788.85,27.6,4.55,48.7
+FD0055,2025-04-26,April,Saturday,Jaipur,Biryani,App,Clear,138,443.59,63537.61,23445.12,5090.34,27.8,4.61,44.3
+FD0056,2025-09-04,September,Thursday,Bengaluru,South Indian,App,Hot,191,334.75,63799.3,37624.56,8262.9,35.5,4.55,44.7
+FD0057,2025-04-04,April,Friday,Hyderabad,Healthy,App,Cloudy,109,512.59,56846.51,22663.04,2674.51,27.8,4.65,49.6
+FD0058,2025-03-13,March,Thursday,Delhi,Healthy,App,Clear,133,510.05,68936.85,30522.76,8046.74,21.5,4.86,49.0
+FD0059,2025-12-03,December,Wednesday,Chandigarh,North Indian,App,Clear,159,488.89,78973.64,22568.48,7378.36,25.9,4.64,48.3
+FD0060,2025-07-10,July,Thursday,Chandigarh,Fast Food,App,Clear,126,300.35,33340.47,19957.67,1511.64,23.1,4.69,48.6
+FD0061,2025-04-21,April,Monday,Hyderabad,Biryani,Website,Clear,104,486.75,53019.43,23600.59,2444.31,32.2,4.37,34.2
+FD0062,2025-08-06,August,Wednesday,Hyderabad,South Indian,Website,Clear,149,352.27,57925.8,20990.29,5530.07,31.9,4.51,37.5
+FD0063,2025-12-13,December,Saturday,Delhi,Chinese,Website,Clear,223,356.14,80034.55,29588.51,6365.4,35.5,4.29,34.5
+FD0064,2025-09-08,September,Monday,Bengaluru,Fast Food,Partner Platform,Cloudy,178,303.2,57467.54,38274.51,8463.92,26.2,4.79,42.3
+FD0065,2025-02-23,February,Sunday,Kochi,Chinese,Partner Platform,Cloudy,138,357.75,48082.51,18831.67,3472.53,35.0,4.48,42.2
+FD0066,2025-09-14,September,Sunday,Jaipur,Chinese,Partner Platform,Clear,149,339.49,51726.96,38632.28,7897.89,31.0,4.62,38.6
+FD0067,2025-01-21,January,Tuesday,Kochi,North Indian,App,Cloudy,68,423.06,26693.85,22052.13,2475.61,27.3,4.5,43.7
+FD0068,2025-03-02,March,Sunday,Bengaluru,South Indian,Partner Platform,Clear,158,308.58,42929.14,32052.33,8060.77,31.6,4.52,41.9
+FD0069,2025-04-14,April,Monday,Delhi,Biryani,App,Clear,176,448.5,74006.86,14383.61,6814.61,30.3,4.4,42.5
+FD0070,2025-08-22,August,Friday,Bengaluru,Fast Food,Partner Platform,Cloudy,156,279.94,43220.74,26018.8,2734.23,36.5,4.34,36.7
+FD0071,2025-04-10,April,Thursday,Kochi,South Indian,Website,Clear,58,288.77,20618.53,17301.76,1219.31,27.6,4.63,45.3
+FD0072,2025-05-20,May,Tuesday,Mumbai,Chinese,App,Clear,156,373.01,61894.56,20338.09,6074.5,22.2,4.66,46.4
+FD0073,2025-10-25,October,Saturday,Delhi,Chinese,App,Rainy,225,391.92,95631.74,31248.58,4480.22,36.4,4.2,39.2
+FD0074,2025-01-23,January,Thursday,Delhi,South Indian,App,Cloudy,154,320.06,49245.09,15148.0,4486.94,31.1,4.62,46.8
+FD0075,2025-01-18,January,Saturday,Hyderabad,North Indian,Website,Clear,121,431.83,44876.8,21165.82,4444.09,29.2,4.7,45.8
+FD0076,2025-07-23,July,Wednesday,Pune,North Indian,App,Clear,138,435.32,60595.53,24574.68,3710.82,28.4,4.58,43.3
+FD0077,2025-07-18,July,Friday,Chandigarh,Healthy,App,Clear,128,507.67,67972.09,22205.19,3586.92,26.2,4.66,46.6
+FD0078,2025-10-05,October,Sunday,Chandigarh,Healthy,Website,Clear,157,478.42,72189.2,27472.62,4534.55,41.7,4.15,33.7
+FD0079,2025-10-18,October,Saturday,Chandigarh,Fast Food,Partner Platform,Cloudy,133,304.96,44051.71,24756.09,2807.69,34.2,4.3,39.4
+FD0080,2025-12-18,December,Thursday,Jaipur,Healthy,App,Rainy,148,463.53,73763.26,28198.79,3775.86,37.2,4.11,30.8
+FD0081,2025-07-22,July,Tuesday,Jaipur,North Indian,App,Cloudy,130,421.75,54838.2,21982.04,4231.33,34.3,4.31,43.8
+FD0082,2025-09-06,September,Saturday,Chandigarh,South Indian,Website,Hot,156,348.48,52639.47,40374.11,8325.64,33.1,4.53,41.8
+FD0083,2025-06-18,June,Wednesday,Kochi,Fast Food,Partner Platform,Clear,88,338.55,34472.3,36718.09,7197.89,34.1,4.3,35.6
+FD0084,2025-01-18,January,Saturday,Mumbai,Healthy,Partner Platform,Rainy,145,496.2,65749.22,20092.97,6405.01,44.3,4.11,31.8
+FD0085,2025-04-16,April,Wednesday,Bengaluru,North Indian,Website,Clear,155,414.16,65287.52,21569.39,4896.2,32.1,4.34,33.8
+FD0086,2025-10-02,October,Thursday,Jaipur,Biryani,App,Clear,150,451.43,68749.79,26419.58,3926.31,28.8,4.52,47.3
+FD0087,2025-04-19,April,Saturday,Bengaluru,North Indian,App,Rainy,196,429.52,79423.18,17592.36,5218.96,37.8,4.23,41.4
+FD0088,2025-01-28,January,Tuesday,Delhi,South Indian,App,Cloudy,135,340.24,52325.03,20388.01,2708.46,35.2,4.27,39.8
+FD0089,2025-07-04,July,Friday,Kochi,Biryani,Partner Platform,Rainy,77,453.91,44609.59,25206.01,4060.93,35.3,4.4,34.9
+FD0090,2025-06-19,June,Thursday,Pune,Healthy,App,Rainy,106,500.96,57659.56,31084.25,7345.43,25.0,4.74,48.1
+FD0091,2025-02-15,February,Saturday,Kochi,Healthy,App,Hot,123,496.25,61804.65,21402.55,3288.93,31.5,4.36,41.9
+FD0092,2025-10-21,October,Tuesday,Pune,Biryani,Website,Clear,159,457.02,77239.48,28277.29,5390.07,35.0,4.26,32.8
+FD0093,2025-06-04,June,Wednesday,Bengaluru,Biryani,Partner Platform,Clear,135,431.24,59689.98,35224.69,8515.78,36.5,4.38,39.1
+FD0094,2025-01-27,January,Monday,Jaipur,Fast Food,App,Cloudy,102,346.32,32231.69,12914.1,2827.03,28.6,4.75,46.8
+FD0095,2025-09-06,September,Saturday,Pune,South Indian,Partner Platform,Hot,173,357.58,65756.5,35360.61,9004.48,37.2,4.38,41.2
+FD0096,2025-12-17,December,Wednesday,Hyderabad,North Indian,App,Cloudy,168,470.61,72604.95,27236.46,5263.29,31.1,4.54,43.1
+FD0097,2025-11-14,November,Friday,Delhi,Fast Food,App,Hot,189,369.57,66840.1,39946.56,10737.16,33.9,4.41,45.4
+FD0098,2025-11-25,November,Tuesday,Delhi,South Indian,Partner Platform,Clear,176,321.06,62672.14,41487.51,9597.13,29.1,4.63,38.4
+FD0099,2025-06-03,June,Tuesday,Jaipur,Healthy,App,Clear,110,575.94,61911.26,35930.18,8957.83,28.7,4.69,47.0
+FD0100,2025-08-09,August,Saturday,Chandigarh,Fast Food,App,Cloudy,133,357.77,41053.94,30912.36,1853.97,35.5,4.38,44.3
+FD0101,2025-01-28,January,Tuesday,Chandigarh,Fast Food,App,Clear,89,371.53,33182.86,15520.07,1664.93,24.5,4.61,48.0
+FD0102,2025-03-20,March,Thursday,Delhi,Chinese,Website,Cloudy,168,380.5,66250.7,32377.46,7236.5,37.2,4.41,35.2
+FD0103,2025-03-09,March,Sunday,Delhi,Biryani,Partner Platform,Hot,166,451.95,75024.75,31402.18,10733.66,41.9,4.08,34.1
+FD0104,2025-09-04,September,Thursday,Delhi,Biryani,App,Clear,184,483.6,87205.92,37126.69,10388.93,29.6,4.76,53.2
+FD0105,2025-04-26,April,Saturday,Jaipur,Biryani,App,Clear,129,485.66,68457.3,23789.47,3822.91,30.5,4.63,46.9
+FD0106,2025-06-12,June,Thursday,Delhi,Chinese,App,Clear,143,370.16,57016.34,35144.73,7787.37,24.7,4.74,53.0
+FD0107,2025-06-02,June,Monday,Hyderabad,Biryani,App,Hot,134,473.07,63328.24,33196.47,9434.21,31.2,4.53,48.7
+FD0108,2025-09-17,September,Wednesday,Chandigarh,Biryani,App,Clear,123,522.05,67881.81,35778.71,9239.04,25.7,4.74,46.7
+FD0109,2025-12-24,December,Wednesday,Jaipur,South Indian,App,Clear,158,409.71,73669.75,28025.66,3555.85,24.1,4.55,41.7
+FD0110,2025-04-09,April,Wednesday,Mumbai,Chinese,App,Cloudy,135,408.58,54482.79,17931.52,3032.13,26.9,4.78,47.8
+FD0111,2025-06-09,June,Monday,Jaipur,South Indian,App,Hot,110,308.81,31962.11,31266.3,5455.27,30.6,4.58,45.7
+FD0112,2025-07-25,July,Friday,Delhi,North Indian,Website,Clear,153,374.25,60871.1,25244.64,3380.52,29.3,4.61,40.3
+FD0113,2025-05-10,May,Saturday,Kochi,Chinese,Partner Platform,Hot,128,363.95,48138.86,26579.65,3456.97,32.7,4.39,40.0
+FD0114,2025-06-27,June,Friday,Mumbai,Fast Food,Partner Platform,Cloudy,148,303.11,47041.58,37489.75,8003.47,32.9,4.49,39.8
+FD0115,2025-05-16,May,Friday,Bengaluru,North Indian,App,Cloudy,174,442.63,77993.63,23396.98,5834.95,23.8,4.65,49.3
+FD0116,2025-09-04,September,Thursday,Chandigarh,Chinese,Partner Platform,Rainy,128,391.22,45625.93,33393.15,7877.87,38.1,4.2,35.7
+FD0117,2025-02-10,February,Monday,Jaipur,Fast Food,Partner Platform,Cloudy,87,311.73,24848.62,24590.3,2402.01,35.2,4.46,36.8
+FD0118,2025-02-18,February,Tuesday,Bengaluru,North Indian,Partner Platform,Cloudy,111,414.35,48794.34,17572.94,3679.33,30.3,4.51,37.5
+FD0119,2025-03-13,March,Thursday,Bengaluru,Chinese,App,Rainy,185,378.24,69068.1,27813.67,6942.01,40.4,4.28,40.8
+FD0120,2025-07-21,July,Monday,Delhi,Biryani,Website,Cloudy,171,461.7,83975.21,20914.6,7458.15,37.6,4.3,38.5
+FD0121,2025-09-18,September,Thursday,Hyderabad,Fast Food,Website,Cloudy,159,304.6,50202.27,32958.77,8755.71,34.6,4.29,35.5
+FD0122,2025-01-24,January,Friday,Chandigarh,Biryani,Website,Cloudy,101,462.58,46489.33,18534.83,2696.82,36.6,4.57,39.2
+FD0123,2025-03-27,March,Thursday,Bengaluru,Fast Food,Partner Platform,Clear,134,293.48,42512.65,32224.47,6938.92,33.1,4.42,41.5
+FD0124,2025-12-09,December,Tuesday,Pune,North Indian,App,Rainy,171,460.4,83549.53,27547.7,5954.87,30.8,4.73,49.3
+FD0125,2025-05-08,May,Thursday,Delhi,North Indian,Website,Hot,169,457.74,85495.75,19703.92,6513.49,36.1,4.38,35.5
+FD0126,2025-05-24,May,Saturday,Delhi,Healthy,Partner Platform,Clear,187,533.66,96396.12,22998.12,9573.57,35.7,4.21,26.5
+FD0127,2025-02-18,February,Tuesday,Pune,Healthy,App,Cloudy,121,466.49,53468.62,22449.36,4302.15,28.2,4.72,45.1
+FD0128,2025-04-23,April,Wednesday,Kochi,Healthy,App,Clear,110,494.17,51238.12,22185.87,3887.28,22.0,4.78,47.7
+FD0129,2025-04-20,April,Sunday,Chandigarh,Fast Food,Website,Cloudy,132,318.75,30927.56,22312.38,2510.54,26.8,4.71,47.4
+FD0130,2025-09-13,September,Saturday,Pune,Healthy,Website,Cloudy,155,512.37,78036.42,30349.74,7566.5,33.3,4.48,41.5
+FD0131,2025-05-10,May,Saturday,Bengaluru,Fast Food,Partner Platform,Cloudy,185,292.01,54600.57,23161.83,3691.52,32.1,4.37,38.7
+FD0132,2025-04-11,April,Friday,Bengaluru,Healthy,App,Cloudy,156,534.62,91560.06,22764.62,5364.64,30.2,4.31,42.0
+FD0133,2025-11-07,November,Friday,Bengaluru,South Indian,App,Clear,222,353.36,80084.53,40674.96,11857.42,32.8,4.36,42.3
+FD0134,2025-06-23,June,Monday,Mumbai,Fast Food,Website,Hot,143,303.2,46118.68,38604.67,8036.49,33.9,4.45,38.2
+FD0135,2025-06-06,June,Friday,Chandigarh,Healthy,App,Rainy,120,486.64,58164.82,32240.84,9070.47,33.8,4.48,49.5
+FD0136,2025-02-18,February,Tuesday,Chandigarh,Healthy,App,Hot,108,470.34,57077.63,18194.31,4351.33,28.6,4.7,43.9
+FD0137,2025-11-19,November,Wednesday,Delhi,South Indian,App,Clear,192,387.89,73010.86,38691.64,10738.11,24.0,4.57,43.9
+FD0138,2025-09-03,September,Wednesday,Bengaluru,South Indian,App,Cloudy,203,376.77,80340.13,36246.43,8398.08,32.8,4.55,46.0
+FD0139,2025-11-22,November,Saturday,Delhi,Fast Food,Partner Platform,Rainy,226,278.19,69540.39,37578.53,9530.75,42.3,3.92,30.2
+FD0140,2025-06-07,June,Saturday,Delhi,South Indian,App,Cloudy,210,296.49,56981.65,34670.27,8488.5,36.4,4.47,42.1
+FD0141,2025-01-05,January,Sunday,Pune,Chinese,App,Cloudy,134,388.2,60652.4,18154.07,4609.35,27.7,4.8,52.7
+FD0142,2025-03-27,March,Thursday,Jaipur,North Indian,App,Rainy,102,454.15,48030.03,32436.51,6374.68,42.5,4.17,39.7
+FD0143,2025-11-06,November,Thursday,Jaipur,Healthy,Partner Platform,Rainy,114,538.33,62692.81,34075.12,6998.92,43.2,4.17,31.3
+FD0144,2025-01-02,January,Thursday,Mumbai,Biryani,Website,Rainy,153,417.1,60737.12,23547.3,3265.59,39.1,4.14,36.8
+FD0145,2025-11-06,November,Thursday,Jaipur,North Indian,App,Cloudy,141,426.12,57889.52,39831.32,9839.93,30.7,4.68,51.3
+FD0146,2025-08-13,August,Wednesday,Hyderabad,Biryani,App,Rainy,161,420.45,71813.98,24936.49,5696.48,33.4,4.71,47.3
+FD0147,2025-03-22,March,Saturday,Delhi,Healthy,App,Clear,186,489.96,101209.53,27875.95,12504.73,27.3,4.67,48.0
+FD0148,2025-12-04,December,Thursday,Mumbai,Healthy,App,Cloudy,176,522.05,87824.42,32383.33,4936.48,30.5,4.35,41.0
+FD0149,2025-01-26,January,Sunday,Jaipur,Fast Food,App,Rainy,117,318.1,38756.12,18513.65,2178.57,38.8,4.2,39.2
+FD0150,2025-11-25,November,Tuesday,Hyderabad,North Indian,App,Clear,142,451.2,62827.92,38871.25,8708.66,30.2,4.57,45.6
+FD0151,2025-10-18,October,Saturday,Mumbai,Fast Food,App,Clear,217,351.27,73842.22,25461.43,4144.09,27.9,4.61,46.4
+FD0152,2025-09-08,September,Monday,Chandigarh,Healthy,Website,Rainy,121,473.99,54074.51,40969.9,9055.54,38.4,4.16,36.4
+FD0153,2025-03-24,March,Monday,Chandigarh,Healthy,App,Rainy,108,475.12,48086.71,28916.68,5871.29,38.2,4.24,40.7
+FD0154,2025-05-17,May,Saturday,Hyderabad,Chinese,App,Rainy,159,426.49,61634.81,25225.53,5221.89,38.3,4.15,35.2
+FD0155,2025-06-23,June,Monday,Bengaluru,Healthy,App,Clear,203,508.86,105484.1,33888.12,13134.11,25.8,4.58,43.0
+FD0156,2025-03-21,March,Friday,Hyderabad,Fast Food,Partner Platform,Cloudy,118,328.01,37715.55,30962.2,6891.64,39.5,4.06,29.1
+FD0157,2025-01-19,January,Sunday,Bengaluru,Fast Food,App,Rainy,182,354.0,56862.46,15469.49,3069.32,39.1,4.29,40.4
+FD0158,2025-10-18,October,Saturday,Mumbai,Chinese,App,Clear,223,389.16,89724.47,24606.49,6239.4,26.5,4.55,42.9
+FD0159,2025-11-14,November,Friday,Jaipur,South Indian,App,Hot,139,395.2,54685.45,41589.15,10356.6,26.8,4.76,49.5
+FD0160,2025-03-09,March,Sunday,Kochi,Biryani,App,Hot,142,454.49,60377.57,31816.51,8565.97,32.9,4.68,45.1
+FD0161,2025-08-18,August,Monday,Pune,Chinese,Partner Platform,Clear,142,410.72,52528.81,22731.9,3249.54,31.2,4.53,40.4
+FD0162,2025-02-01,February,Saturday,Bengaluru,North Indian,App,Rainy,179,438.95,79229.17,23721.81,4230.65,34.7,4.3,46.9
+FD0163,2025-07-28,July,Monday,Hyderabad,Chinese,App,Cloudy,147,392.33,60376.39,27176.04,4132.59,31.3,4.66,47.5
+FD0164,2025-12-27,December,Saturday,Kochi,Chinese,Partner Platform,Rainy,152,409.68,59158.27,26336.12,4793.74,37.2,4.38,39.5
+FD0165,2025-11-08,November,Saturday,Hyderabad,South Indian,App,Clear,168,346.21,63137.82,35380.07,7195.65,37.4,4.21,40.8
+FD0166,2025-10-20,October,Monday,Kochi,Chinese,App,Hot,129,385.89,58449.67,29608.7,5231.85,28.6,4.68,45.7
+FD0167,2025-08-20,August,Wednesday,Mumbai,North Indian,Partner Platform,Hot,152,374.25,56149.84,25644.91,3562.49,35.3,4.52,44.6
+FD0168,2025-10-03,October,Friday,Chandigarh,Chinese,App,Clear,148,356.41,57407.88,24710.28,5427.19,27.2,4.66,47.3
+FD0169,2025-12-26,December,Friday,Chandigarh,Fast Food,Partner Platform,Clear,129,278.77,32593.17,27753.39,2883.64,31.5,4.58,44.3
+FD0170,2025-11-18,November,Tuesday,Kochi,Biryani,Partner Platform,Clear,97,466.39,45062.04,38537.49,8931.76,25.6,4.84,46.1
+FD0171,2025-03-20,March,Thursday,Mumbai,Healthy,App,Hot,158,461.2,70085.12,28216.81,8906.0,27.4,4.7,47.2
+FD0172,2025-06-11,June,Wednesday,Chandigarh,North Indian,App,Hot,95,443.82,41723.56,32041.91,6626.27,32.5,4.34,39.8
+FD0173,2025-02-21,February,Friday,Delhi,Healthy,App,Clear,141,463.21,65027.82,18772.06,4357.92,30.9,4.54,47.7
+FD0174,2025-02-12,February,Wednesday,Mumbai,Fast Food,Partner Platform,Clear,145,307.13,42008.2,16486.34,2270.6,29.7,4.66,41.2
+FD0175,2025-06-27,June,Friday,Pune,North Indian,App,Cloudy,122,464.93,71303.77,36913.64,9866.83,28.2,4.74,43.5
+FD0176,2025-05-13,May,Tuesday,Mumbai,South Indian,Partner Platform,Clear,133,348.93,44793.8,24292.5,2462.19,31.6,4.46,39.7
+FD0177,2025-01-16,January,Thursday,Hyderabad,South Indian,App,Hot,136,310.91,39605.23,16911.29,2275.48,27.2,4.7,51.7
+FD0178,2025-10-24,October,Friday,Pune,Biryani,App,Rainy,140,463.94,57837.92,25431.19,5361.99,39.5,4.08,36.0
+FD0179,2025-03-15,March,Saturday,Bengaluru,Chinese,App,Clear,217,386.67,86148.5,31831.88,11801.08,28.7,4.41,41.2
+FD0180,2025-04-11,April,Friday,Jaipur,Fast Food,App,Clear,105,327.1,37215.09,21852.05,3539.3,32.7,4.34,42.7
+FD0181,2025-04-03,April,Thursday,Bengaluru,Chinese,App,Rainy,130,444.77,48967.28,12370.53,2855.65,34.3,4.37,41.0
+FD0182,2025-02-26,February,Wednesday,Delhi,Healthy,Website,Clear,130,494.35,61024.64,19572.82,3755.56,38.2,4.1,33.2
+FD0183,2025-06-22,June,Sunday,Mumbai,South Indian,Website,Clear,156,357.62,56498.07,31755.67,7817.67,34.2,4.39,42.8
+FD0184,2025-12-08,December,Monday,Hyderabad,Healthy,App,Clear,160,519.49,80537.36,31278.55,7741.97,24.3,4.68,41.6
+FD0185,2025-08-19,August,Tuesday,Bengaluru,Chinese,App,Clear,183,374.89,72791.66,20329.25,4207.45,24.5,4.79,52.3
+FD0186,2025-12-09,December,Tuesday,Bengaluru,Biryani,App,Clear,235,461.36,108994.9,25370.11,9659.46,35.1,4.34,45.2
+FD0187,2025-07-02,July,Wednesday,Pune,North Indian,Website,Clear,111,446.14,49551.54,24884.79,2428.98,30.9,4.47,37.9
+FD0188,2025-04-23,April,Wednesday,Jaipur,Chinese,App,Cloudy,125,383.06,45315.67,19777.96,3009.85,29.7,4.77,47.3
+FD0189,2025-05-21,May,Wednesday,Bengaluru,Healthy,Website,Clear,151,489.84,79951.18,19974.58,6790.35,31.9,4.54,44.1
+FD0190,2025-04-27,April,Sunday,Mumbai,South Indian,Partner Platform,Hot,169,347.52,53421.39,21182.66,5040.25,40.3,4.25,35.3
+FD0191,2025-10-21,October,Tuesday,Bengaluru,South Indian,App,Rainy,209,345.55,66369.73,25173.92,4254.04,34.6,4.19,38.3
+FD0192,2025-12-01,December,Monday,Kochi,Healthy,App,Cloudy,132,553.41,66471.97,27853.8,6155.12,29.1,4.41,43.6
+FD0193,2025-03-24,March,Monday,Pune,North Indian,Partner Platform,Clear,121,405.36,46088.32,32943.25,7141.38,30.1,4.5,35.1
+FD0194,2025-08-06,August,Wednesday,Pune,North Indian,Website,Hot,142,418.67,53533.89,21446.13,3852.36,36.5,4.23,42.1
+FD0195,2025-04-09,April,Wednesday,Bengaluru,South Indian,Partner Platform,Rainy,146,347.9,46609.67,19136.1,2261.21,43.4,4.13,35.7
+FD0196,2025-03-21,March,Friday,Mumbai,Healthy,App,Clear,139,502.41,67836.95,31360.62,8791.88,32.9,4.32,43.6
+FD0197,2025-08-06,August,Wednesday,Kochi,Biryani,App,Clear,116,469.82,52925.78,26576.15,3242.45,27.8,4.39,40.8
+FD0198,2025-06-18,June,Wednesday,Bengaluru,Chinese,App,Clear,159,430.24,68055.14,36074.81,8268.35,27.1,4.66,46.8
+FD0199,2025-08-18,August,Monday,Mumbai,Fast Food,App,Rainy,163,336.22,53462.19,18500.97,3182.48,40.6,4.14,37.5
+FD0200,2025-04-23,April,Wednesday,Delhi,South Indian,Website,Rainy,156,343.85,58754.57,24604.8,2764.65,40.4,4.17,36.6
+FD0201,2025-04-15,April,Tuesday,Mumbai,Biryani,App,Clear,164,415.67,68237.01,20838.61,4973.34,34.9,4.19,37.7
+FD0202,2025-08-11,August,Monday,Delhi,Biryani,Website,Cloudy,163,460.04,76978.57,22487.34,4354.24,30.8,4.37,41.3
+FD0203,2025-07-06,July,Sunday,Mumbai,Healthy,App,Clear,169,477.59,76637.29,29898.67,5882.93,34.4,4.31,43.1
+FD0204,2025-07-16,July,Wednesday,Hyderabad,North Indian,Website,Clear,129,425.29,49077.58,25115.46,3478.61,29.0,4.5,37.3
+FD0205,2025-07-05,July,Saturday,Delhi,Chinese,Partner Platform,Cloudy,179,411.26,78711.71,22755.76,5363.25,34.3,4.45,37.4
+FD0206,2025-08-05,August,Tuesday,Pune,Healthy,Website,Cloudy,133,544.14,73027.75,22379.64,5472.97,35.9,4.21,36.9
+FD0207,2025-02-15,February,Saturday,Pune,Fast Food,Website,Rainy,158,333.29,53729.79,18917.9,2592.43,42.2,4.13,37.7
+FD0208,2025-08-12,August,Tuesday,Pune,Chinese,Website,Rainy,124,381.02,41924.98,21815.09,3308.57,39.8,4.27,36.5
+FD0209,2025-06-21,June,Saturday,Delhi,Chinese,App,Rainy,219,427.48,97099.56,30104.91,10715.11,44.9,4.15,36.4
+FD0210,2025-12-05,December,Friday,Hyderabad,Healthy,App,Hot,176,535.78,93757.31,26863.89,4409.01,29.3,4.49,45.5
+FD0211,2025-03-07,March,Friday,Delhi,Biryani,Partner Platform,Rainy,125,453.79,59213.81,34600.05,8816.29,42.5,4.12,31.7
+FD0212,2025-12-01,December,Monday,Pune,Fast Food,Website,Cloudy,141,366.72,55951.54,25906.26,3255.72,33.0,4.55,39.8
+FD0213,2025-07-09,July,Wednesday,Mumbai,Chinese,Partner Platform,Rainy,161,427.45,69220.86,23523.46,4351.95,42.0,4.18,33.4
+FD0214,2025-07-07,July,Monday,Jaipur,South Indian,Partner Platform,Cloudy,74,334.89,21402.26,20522.56,1673.16,30.9,4.46,44.5
+FD0215,2025-05-11,May,Sunday,Kochi,North Indian,App,Cloudy,158,395.03,61475.03,23295.95,5568.8,30.0,4.45,44.5
+FD0216,2025-04-25,April,Friday,Mumbai,Chinese,Website,Rainy,118,328.41,45007.3,19232.32,3311.45,50.1,3.81,24.8
+FD0217,2025-03-18,March,Tuesday,Chandigarh,Fast Food,App,Rainy,121,351.79,47316.96,30766.29,6439.68,34.7,4.42,36.0
+FD0218,2025-03-27,March,Thursday,Jaipur,Biryani,Website,Cloudy,62,458.9,32483.57,32821.7,6641.0,29.6,4.51,41.1
+FD0219,2025-04-06,April,Sunday,Bengaluru,South Indian,Partner Platform,Clear,165,367.11,59467.98,19289.85,4489.95,28.2,4.66,43.2
+FD0220,2025-03-02,March,Sunday,Jaipur,Chinese,Partner Platform,Clear,105,423.69,44275.11,30732.97,5874.56,37.4,4.3,38.7
+FD0221,2025-07-24,July,Thursday,Delhi,Biryani,Partner Platform,Clear,162,499.41,80870.44,27702.81,4746.6,36.6,4.26,38.1
+FD0222,2025-12-25,December,Thursday,Hyderabad,Biryani,App,Cloudy,154,484.07,72176.24,26522.83,5678.36,26.2,4.56,51.0
+FD0223,2025-09-16,September,Tuesday,Mumbai,South Indian,Website,Hot,163,347.48,59762.82,36645.41,7499.51,32.6,4.52,40.2
+FD0224,2025-03-11,March,Tuesday,Bengaluru,Healthy,App,Clear,179,494.62,80365.01,26463.53,9965.12,34.6,4.29,44.8
+FD0225,2025-10-22,October,Wednesday,Jaipur,South Indian,App,Clear,114,357.97,38194.09,23905.0,2967.03,24.3,4.7,45.0
+FD0226,2025-01-12,January,Sunday,Chandigarh,North Indian,App,Clear,126,413.23,52967.32,16170.31,3472.06,24.7,4.86,47.3
+FD0227,2025-06-24,June,Tuesday,Bengaluru,Biryani,App,Cloudy,165,434.92,71715.53,35197.12,8441.66,37.0,4.19,33.8
+FD0228,2025-08-07,August,Thursday,Hyderabad,Chinese,App,Clear,144,363.62,57354.71,31821.32,5138.85,23.3,4.91,51.2
+FD0229,2025-07-17,July,Thursday,Jaipur,Healthy,Website,Clear,131,522.31,63983.56,23452.12,4107.79,25.3,4.61,47.4
+FD0230,2025-01-19,January,Sunday,Bengaluru,South Indian,App,Rainy,184,373.87,70127.62,19094.35,5911.93,39.6,4.26,36.9
+FD0231,2025-04-26,April,Saturday,Bengaluru,Biryani,App,Cloudy,188,466.82,87320.79,23017.01,4674.65,29.3,4.74,47.9
+FD0232,2025-02-14,February,Friday,Pune,Healthy,Website,Cloudy,109,533.52,50361.68,19497.91,3537.97,32.1,4.62,47.6
+FD0233,2025-06-03,June,Tuesday,Chandigarh,Healthy,Website,Clear,89,468.13,38611.43,37952.03,6922.91,30.6,4.71,44.8
+FD0234,2025-02-14,February,Friday,Mumbai,North Indian,App,Rainy,141,379.78,57015.71,19761.84,3988.86,30.8,4.58,50.3
+FD0235,2025-04-20,April,Sunday,Hyderabad,Healthy,App,Hot,134,475.69,64441.33,21295.22,4824.82,29.7,4.66,48.2
+FD0236,2025-05-05,May,Monday,Delhi,Biryani,App,Rainy,172,474.03,79690.65,20398.39,6247.77,37.6,4.32,37.8
+FD0237,2025-05-28,May,Wednesday,Delhi,Biryani,Website,Rainy,158,441.22,69315.17,25378.96,6841.76,44.5,3.99,31.3
+FD0238,2025-07-15,July,Tuesday,Hyderabad,Chinese,Website,Clear,130,358.01,48478.79,19807.46,4479.91,37.0,4.35,37.4
+FD0239,2025-03-08,March,Saturday,Pune,South Indian,App,Clear,160,331.54,51511.89,28524.19,6086.95,25.6,4.92,54.0
+FD0240,2025-09-21,September,Sunday,Mumbai,Chinese,Partner Platform,Rainy,176,426.04,70764.54,38169.94,8663.93,36.1,4.35,36.2
+FD0241,2025-12-25,December,Thursday,Delhi,Biryani,App,Cloudy,201,483.09,93682.94,26868.08,6774.5,25.6,4.85,52.0
+FD0242,2025-02-24,February,Monday,Hyderabad,Biryani,Partner Platform,Rainy,123,481.48,61284.76,17750.01,3758.34,41.0,4.06,34.0
+FD0243,2025-09-09,September,Tuesday,Bengaluru,Biryani,App,Cloudy,198,484.58,95116.0,33369.7,8744.21,32.2,4.49,47.6
+FD0244,2025-10-07,October,Tuesday,Pune,Healthy,App,Rainy,161,487.48,79826.92,25511.65,4398.58,32.3,4.5,44.6
+FD0245,2025-06-08,June,Sunday,Mumbai,South Indian,Partner Platform,Clear,172,323.49,56207.4,37757.05,8421.24,37.2,4.35,38.3
+FD0246,2025-02-08,February,Saturday,Hyderabad,Fast Food,App,Cloudy,155,340.36,56160.91,24346.13,4193.35,25.9,4.66,44.1
+FD0247,2025-07-11,July,Friday,Pune,South Indian,App,Clear,121,322.61,37725.7,21888.71,3567.99,29.2,4.18,41.0
+FD0248,2025-11-04,November,Tuesday,Hyderabad,Chinese,Website,Clear,158,345.7,55519.84,36241.12,7752.89,35.2,4.37,39.4
+FD0249,2025-02-23,February,Sunday,Hyderabad,Fast Food,Partner Platform,Clear,130,245.86,31928.18,23594.81,3070.83,27.0,4.62,43.4
+FD0250,2025-12-07,December,Sunday,Pune,Fast Food,App,Rainy,190,317.39,60661.27,26570.11,3401.69,41.6,4.04,33.2
+FD0251,2025-08-22,August,Friday,Mumbai,Biryani,App,Clear,161,482.7,80767.84,22739.93,5396.54,29.7,4.75,41.5
+FD0252,2025-10-16,October,Thursday,Bengaluru,Chinese,Website,Cloudy,175,401.48,68521.35,25555.1,4799.45,37.0,4.47,40.5
+FD0253,2025-02-28,February,Friday,Hyderabad,North Indian,App,Cloudy,91,416.75,40354.79,19317.3,3958.04,30.4,4.54,46.7
+FD0254,2025-12-18,December,Thursday,Hyderabad,Biryani,App,Clear,160,461.07,72920.88,29126.56,5491.42,28.2,4.53,40.7
+FD0255,2025-01-03,January,Friday,Delhi,Biryani,Website,Clear,142,439.59,70923.09,16235.11,4103.07,36.7,4.32,32.0
+FD0256,2025-05-12,May,Monday,Pune,Chinese,App,Rainy,147,405.15,58378.81,23390.56,4984.52,34.6,4.21,40.0
+FD0257,2025-06-13,June,Friday,Mumbai,North Indian,App,Clear,148,437.27,64597.58,36973.27,10317.31,27.6,4.58,44.1
+FD0258,2025-12-09,December,Tuesday,Kochi,Biryani,Partner Platform,Clear,119,427.59,58040.5,27471.31,3894.45,35.7,4.34,35.7
+FD0259,2025-03-23,March,Sunday,Hyderabad,Biryani,App,Rainy,166,504.4,74544.47,35409.28,10203.07,46.5,4.08,39.7
+FD0260,2025-06-06,June,Friday,Jaipur,South Indian,App,Clear,119,336.65,44405.21,35771.74,7742.77,31.9,4.51,43.4
+FD0261,2025-07-06,July,Sunday,Kochi,Fast Food,App,Cloudy,137,306.25,47588.5,18222.43,4354.2,31.9,4.43,41.3
+FD0262,2025-09-23,September,Tuesday,Hyderabad,North Indian,App,Cloudy,142,447.94,59740.64,37277.13,9027.8,31.8,4.47,45.1
+FD0263,2025-01-05,January,Sunday,Kochi,North Indian,Website,Cloudy,117,419.96,48166.96,17316.98,4452.69,31.6,4.57,42.1
+FD0264,2025-12-10,December,Wednesday,Mumbai,North Indian,Website,Cloudy,173,408.84,77319.31,25185.21,7161.54,35.2,4.37,40.6
+FD0265,2025-06-07,June,Saturday,Hyderabad,Fast Food,App,Clear,165,320.2,57755.52,34801.89,8324.16,24.4,4.94,48.1
+FD0266,2025-09-09,September,Tuesday,Delhi,Biryani,App,Cloudy,196,384.52,65114.05,39437.29,7980.12,24.1,4.61,50.3
+FD0267,2025-01-08,January,Wednesday,Jaipur,North Indian,App,Rainy,101,408.7,44453.22,16155.91,4376.23,30.3,4.54,42.4
+FD0268,2025-02-05,February,Wednesday,Hyderabad,Fast Food,Website,Clear,105,298.01,34512.53,21040.8,1610.69,31.4,4.45,38.7
+FD0269,2025-06-28,June,Saturday,Chandigarh,South Indian,Website,Cloudy,143,372.23,55644.43,34706.02,7837.07,38.1,4.19,35.1
+FD0270,2025-11-21,November,Friday,Bengaluru,North Indian,App,Cloudy,205,433.95,95344.24,39913.71,10059.8,32.9,4.49,42.8
+FD0271,2025-10-22,October,Wednesday,Hyderabad,Fast Food,App,Hot,176,279.47,53685.89,23459.48,3460.63,35.4,4.51,42.2
+FD0272,2025-12-24,December,Wednesday,Kochi,Healthy,Website,Cloudy,123,483.81,59583.55,27974.2,5024.15,31.1,4.32,37.8
+FD0273,2025-12-28,December,Sunday,Jaipur,North Indian,App,Hot,172,452.62,84021.49,31289.45,4662.43,37.8,4.23,41.3
+FD0274,2025-11-08,November,Saturday,Bengaluru,Healthy,Partner Platform,Cloudy,233,520.21,121381.98,42224.23,15000.0,33.7,4.41,41.1
+FD0275,2025-01-03,January,Friday,Kochi,Chinese,App,Hot,116,380.72,39270.56,18855.32,3746.66,30.5,4.55,44.7
+FD0276,2025-10-04,October,Saturday,Pune,Biryani,Partner Platform,Clear,162,430.52,72581.15,29764.2,4153.46,35.1,4.5,41.5
+FD0277,2025-08-25,August,Monday,Hyderabad,Biryani,Website,Cloudy,158,426.28,74760.01,20112.23,4080.7,32.4,4.53,43.2
+FD0278,2025-04-27,April,Sunday,Mumbai,North Indian,Website,Clear,185,435.4,80907.08,27317.43,4236.04,33.3,4.31,35.0
+FD0279,2025-10-09,October,Thursday,Jaipur,Chinese,App,Hot,131,429.24,45724.03,25763.85,2891.35,31.8,4.54,42.1
+FD0280,2025-06-21,June,Saturday,Delhi,North Indian,Partner Platform,Hot,173,414.36,70835.02,35357.76,10914.34,31.3,4.47,43.6
+FD0281,2025-02-01,February,Saturday,Jaipur,Healthy,App,Rainy,151,506.01,70195.85,15374.33,3739.28,35.8,4.24,36.5
+FD0282,2025-08-17,August,Sunday,Delhi,Fast Food,App,Hot,215,371.43,78495.27,22089.8,5029.73,34.8,4.33,40.1
+FD0283,2025-03-25,March,Tuesday,Chandigarh,South Indian,Website,Hot,98,358.08,36922.83,29917.14,5703.33,33.5,4.4,33.3
+FD0284,2025-08-16,August,Saturday,Kochi,Biryani,Partner Platform,Clear,127,489.71,64057.3,19506.33,3991.39,33.7,4.51,42.5
+FD0285,2025-04-03,April,Thursday,Kochi,Fast Food,Website,Cloudy,94,264.95,22756.63,20885.2,1706.38,31.7,4.46,40.1
+FD0286,2025-03-23,March,Sunday,Kochi,Healthy,App,Cloudy,137,504.81,64936.32,32754.25,6896.81,34.0,4.39,43.5
+FD0287,2025-09-27,September,Saturday,Chandigarh,North Indian,App,Hot,164,436.31,74760.22,37406.35,8212.42,32.6,4.49,42.3
+FD0288,2025-04-03,April,Thursday,Mumbai,North Indian,App,Cloudy,151,369.41,51942.25,24019.07,4092.63,35.8,4.38,42.6
+FD0289,2025-12-17,December,Wednesday,Jaipur,Healthy,Website,Rainy,120,554.97,71943.92,26838.87,3548.65,42.5,4.0,30.4
+FD0290,2025-06-09,June,Monday,Pune,Fast Food,Website,Clear,142,330.15,39249.88,32496.45,6950.76,36.6,4.2,38.0
+FD0291,2025-12-26,December,Friday,Bengaluru,North Indian,App,Clear,201,440.5,90336.67,26394.24,8580.73,27.8,4.56,46.3
+FD0292,2025-08-05,August,Tuesday,Hyderabad,South Indian,App,Clear,175,328.64,54559.15,22907.36,3649.06,24.7,4.78,53.3
+FD0293,2025-10-08,October,Wednesday,Delhi,Healthy,App,Cloudy,180,520.68,88498.03,25152.91,5710.88,29.1,4.64,44.1
+FD0294,2025-10-20,October,Monday,Pune,Healthy,App,Rainy,158,511.82,79271.34,22804.08,5899.24,33.5,4.33,41.9
+FD0295,2025-09-10,September,Wednesday,Kochi,Chinese,Partner Platform,Rainy,116,391.7,47881.8,37269.32,8403.45,46.5,3.97,31.4
+FD0296,2025-07-15,July,Tuesday,Kochi,Fast Food,App,Rainy,115,304.86,35479.18,23744.58,2422.31,33.2,4.49,40.9
+FD0297,2025-04-19,April,Saturday,Hyderabad,Fast Food,Partner Platform,Rainy,140,339.33,50608.01,23819.9,3795.61,43.6,4.12,27.9
+FD0298,2025-10-26,October,Sunday,Chandigarh,Chinese,App,Cloudy,162,368.9,65469.28,23801.77,5696.38,33.5,4.65,46.2
+FD0299,2025-10-25,October,Saturday,Chandigarh,Fast Food,App,Rainy,163,316.28,45951.06,23280.7,3337.71,36.2,4.32,41.2
+FD0300,2025-06-04,June,Wednesday,Pune,Chinese,App,Cloudy,109,359.95,35398.05,36087.67,5985.08,25.8,4.71,49.8
+FD0301,2025-04-28,April,Monday,Jaipur,Healthy,App,Clear,117,508.2,64897.55,20265.29,5115.45,28.8,4.65,47.2
+FD0302,2025-06-14,June,Saturday,Kochi,Healthy,Website,Clear,142,511.85,69920.27,33877.83,9485.83,37.2,4.15,32.0
+FD0303,2025-02-10,February,Monday,Delhi,North Indian,Partner Platform,Rainy,135,379.06,57463.0,18499.96,3480.24,39.6,4.16,34.7
+FD0304,2025-08-04,August,Monday,Chandigarh,Chinese,Partner Platform,Clear,115,357.85,39148.92,28646.04,3889.38,25.8,4.82,46.8
+FD0305,2025-07-18,July,Friday,Jaipur,Fast Food,App,Clear,117,331.9,43121.13,22834.27,3561.16,31.7,4.52,44.0
+FD0306,2025-10-03,October,Friday,Jaipur,South Indian,App,Hot,132,373.53,48537.66,25818.91,4012.29,29.3,4.44,43.2
+FD0307,2025-07-09,July,Wednesday,Bengaluru,Healthy,App,Clear,194,511.7,96378.21,21972.49,6841.07,30.6,4.53,47.3
+FD0308,2025-04-16,April,Wednesday,Mumbai,Fast Food,App,Cloudy,151,333.96,49283.42,20560.7,3802.27,32.6,4.53,44.0
+FD0309,2025-08-18,August,Monday,Jaipur,Biryani,App,Clear,107,479.11,54775.96,30141.12,3251.22,25.1,4.78,48.1
+FD0310,2025-09-25,September,Thursday,Delhi,Fast Food,App,Clear,215,363.84,74766.02,36978.23,9886.73,32.2,4.65,47.0
+FD0311,2025-11-07,November,Friday,Kochi,Biryani,Partner Platform,Cloudy,83,461.52,33480.46,38921.78,6238.94,26.4,4.6,42.3
+FD0312,2025-08-15,August,Friday,Bengaluru,Chinese,Website,Rainy,154,364.67,57616.06,21545.62,4400.91,43.5,4.13,31.1
+FD0313,2025-05-20,May,Tuesday,Pune,Chinese,App,Clear,101,383.11,39354.94,25328.8,3890.57,23.1,4.76,48.6
+FD0314,2025-07-09,July,Wednesday,Kochi,North Indian,Partner Platform,Cloudy,100,483.39,47939.35,19535.33,3454.41,24.9,4.79,49.6
+FD0315,2025-12-11,December,Thursday,Jaipur,North Indian,Partner Platform,Rainy,104,452.78,44610.93,30090.71,2358.85,42.5,4.24,33.9
+FD0316,2025-06-21,June,Saturday,Delhi,South Indian,App,Clear,190,307.74,53353.74,31470.31,8085.46,31.4,4.44,43.3
+FD0317,2025-12-19,December,Friday,Chandigarh,Biryani,Website,Clear,111,486.74,57572.57,28092.28,2856.45,31.9,4.56,40.7
+FD0318,2025-04-15,April,Tuesday,Pune,South Indian,App,Clear,118,309.39,33352.13,21441.6,3010.65,32.1,4.56,43.9
+FD0319,2025-10-01,October,Wednesday,Delhi,Chinese,Website,Rainy,169,411.59,63085.44,26601.23,4150.27,40.8,4.05,32.4
+FD0320,2025-06-05,June,Thursday,Pune,North Indian,App,Clear,146,498.54,75693.77,40014.18,8421.16,22.9,4.61,44.5
+FD0321,2025-03-03,March,Monday,Bengaluru,Biryani,App,Hot,147,480.7,66368.23,34736.16,9889.76,26.9,4.64,44.2
+FD0322,2025-10-18,October,Saturday,Chandigarh,Healthy,Website,Clear,140,468.87,65475.52,27769.43,5550.61,31.2,4.46,39.4
+FD0323,2025-01-09,January,Thursday,Mumbai,Healthy,Partner Platform,Rainy,128,508.69,64023.92,13946.14,4336.41,38.6,4.3,36.8
+FD0324,2025-03-23,March,Sunday,Chandigarh,South Indian,Website,Rainy,124,368.9,45951.6,31546.28,7147.15,45.0,4.02,32.2
+FD0325,2025-07-07,July,Monday,Bengaluru,North Indian,App,Clear,176,464.99,86215.8,24204.3,6786.37,26.7,4.62,44.3
+FD0326,2025-06-04,June,Wednesday,Pune,North Indian,App,Clear,132,449.47,62636.66,35507.15,7487.99,30.7,4.64,46.7
+FD0327,2025-03-17,March,Monday,Chandigarh,Healthy,Website,Cloudy,98,525.05,50967.85,32398.56,8446.33,27.5,4.5,40.7
+FD0328,2025-12-01,December,Monday,Pune,Chinese,Website,Rainy,141,386.98,53675.78,26087.88,2641.95,47.1,3.96,29.9
+FD0329,2025-08-05,August,Tuesday,Hyderabad,South Indian,Partner Platform,Rainy,99,318.32,34953.93,24650.99,1606.7,38.0,4.17,32.7
+FD0330,2025-01-14,January,Tuesday,Jaipur,Chinese,Partner Platform,Clear,58,391.44,20902.93,19661.57,1551.44,31.7,4.32,41.0
+FD0331,2025-11-10,November,Monday,Kochi,South Indian,Partner Platform,Clear,114,321.36,33810.66,35970.03,7479.03,29.7,4.57,43.8
+FD0332,2025-03-20,March,Thursday,Bengaluru,Biryani,Website,Rainy,144,446.75,64244.43,28947.25,8036.81,44.2,4.14,31.9
+FD0333,2025-09-25,September,Thursday,Jaipur,Chinese,App,Clear,124,416.74,55575.07,43449.83,8552.85,26.9,4.68,52.3
+FD0334,2025-08-22,August,Friday,Jaipur,Healthy,App,Rainy,123,478.32,50661.8,21534.68,4998.74,37.2,4.07,35.9
+FD0335,2025-05-03,May,Saturday,Hyderabad,Fast Food,App,Hot,206,310.78,63145.5,22564.18,3607.81,35.4,4.4,40.8
+FD0336,2025-05-06,May,Tuesday,Bengaluru,South Indian,App,Hot,176,406.82,70546.15,20193.65,5856.98,28.1,4.45,40.4
+FD0337,2025-06-11,June,Wednesday,Kochi,Chinese,App,Clear,123,403.26,52254.15,32014.83,7551.77,28.5,4.69,50.4
+FD0338,2025-03-08,March,Saturday,Kochi,Biryani,App,Cloudy,140,486.05,74814.84,26136.52,10076.75,37.5,4.25,38.3
+FD0339,2025-11-05,November,Wednesday,Delhi,North Indian,App,Clear,188,449.07,93019.9,39905.44,11717.54,28.4,4.67,46.5
+FD0340,2025-06-10,June,Tuesday,Hyderabad,Healthy,App,Clear,177,510.41,94094.34,34895.3,12373.43,29.1,4.67,51.2
+FD0341,2025-05-09,May,Friday,Chandigarh,Biryani,App,Cloudy,124,420.75,53923.36,19553.36,2657.48,30.5,4.5,40.6
+FD0342,2025-08-10,August,Sunday,Delhi,Fast Food,App,Hot,214,252.29,52107.19,21204.88,3201.92,38.3,4.32,42.6
+FD0343,2025-07-02,July,Wednesday,Hyderabad,North Indian,Website,Hot,160,426.2,59851.26,20604.5,3239.22,36.8,4.16,32.4
+FD0344,2025-12-25,December,Thursday,Delhi,Healthy,App,Rainy,203,514.67,104436.89,28051.47,5990.7,40.2,4.24,37.9
+FD0345,2025-08-16,August,Saturday,Kochi,Fast Food,App,Clear,175,338.5,55922.7,25134.1,4734.26,30.7,4.49,43.5
+FD0346,2025-03-28,March,Friday,Jaipur,North Indian,Website,Clear,102,483.98,46166.64,30029.19,5717.94,28.5,4.7,45.0
+FD0347,2025-07-10,July,Thursday,Delhi,North Indian,App,Clear,175,416.01,70724.63,23390.08,4624.43,35.1,4.33,42.4
+FD0348,2025-02-23,February,Sunday,Hyderabad,Fast Food,App,Cloudy,155,251.66,32198.81,19389.95,3182.41,27.1,4.7,44.0
+FD0349,2025-08-25,August,Monday,Kochi,Fast Food,App,Rainy,120,321.91,38314.9,21981.2,2718.7,35.8,4.3,40.6
+FD0350,2025-11-15,November,Saturday,Mumbai,Healthy,Website,Clear,200,510.41,107284.59,37019.01,12761.08,32.6,4.19,35.6
+FD0351,2025-11-13,November,Thursday,Kochi,Fast Food,App,Cloudy,125,308.73,38168.28,36584.98,7016.77,38.1,4.31,37.4
+FD0352,2025-06-26,June,Thursday,Hyderabad,North Indian,Website,Cloudy,129,379.56,48679.72,35860.47,6786.66,30.8,4.54,37.6
+FD0353,2025-07-13,July,Sunday,Kochi,Healthy,App,Clear,162,481.31,74723.54,23589.63,4938.55,31.3,4.5,44.3
+FD0354,2025-06-28,June,Saturday,Bengaluru,North Indian,App,Hot,212,399.13,82558.93,34329.75,9414.1,28.9,4.62,47.5
+FD0355,2025-12-18,December,Thursday,Bengaluru,North Indian,App,Cloudy,210,418.94,90918.33,27613.48,5581.23,31.4,4.58,42.6
+FD0356,2025-05-17,May,Saturday,Hyderabad,South Indian,Website,Hot,173,345.7,54617.02,23218.25,3545.94,34.0,4.38,32.7
+FD0357,2025-09-19,September,Friday,Jaipur,Chinese,App,Clear,84,368.12,43172.89,36244.79,7910.39,27.6,4.39,42.6
+FD0358,2025-04-18,April,Friday,Bengaluru,Biryani,Partner Platform,Rainy,148,431.35,67272.24,18853.98,6147.45,41.1,4.09,30.2
+FD0359,2025-11-21,November,Friday,Mumbai,Healthy,App,Clear,179,483.13,88272.94,38950.88,13430.03,30.5,4.64,49.0
+FD0360,2025-04-26,April,Saturday,Bengaluru,Healthy,Partner Platform,Cloudy,169,470.32,69884.67,24779.76,6697.65,35.9,4.3,35.8
