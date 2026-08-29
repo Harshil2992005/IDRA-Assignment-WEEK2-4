@@ -19,7 +19,7 @@ IDRA-Assignment-WEEK2-4/
 ├── day-14/          # Day 14: Food Delivery Data Visualization Portfolio
 ├── day-15/          # Day 15: Executive Hotel Booking EDA Report
 ├── day-16/          # Day 16: Student Wellbeing Statistical Analysis & Probability
-├── day-18/          # Day 18 & 19: Student Performance Prediction — ML (Regression + Classification)
+├── day-18 & 19/     # Day 18 & 19: Student Performance Prediction — ML (Regression + Classification)
 ├── LICENSE         # MIT License
 └── README.md       # This file
 ```
@@ -75,7 +75,7 @@ jupyter notebook "IDRA DAY 15.ipynb"
 cd day-16
 jupyter notebook "IDRA DAY 16.ipynb"
 # or
-cd day-18
+cd "day-18 & 19"
 jupyter notebook "IDRA DAY 18 & 19.ipynb"
 ```
 
