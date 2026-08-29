@@ -2,7 +2,7 @@
 
 **Student:** Patel Harshilkumar Rajubhai  
 **Track:** Data Analytics & E-Commerce Business Intelligence  
-**Duration:** Week 2-4 (Days 8-15)
+**Duration:** Week 2-4 (Days 8-19)
 
 ---
 
@@ -18,6 +18,8 @@ IDRA-Assignment-WEEK2-4/
 ├── day-13/          # Day 13: Restaurant Branch Performance EDA
 ├── day-14/          # Day 14: Food Delivery Data Visualization Portfolio
 ├── day-15/          # Day 15: Executive Hotel Booking EDA Report
+├── day-16/          # Day 16: Student Wellbeing Statistical Analysis & Probability
+├── day-18/          # Day 18 & 19: Student Performance Prediction — ML (Regression + Classification)
 ├── LICENSE         # MIT License
 └── README.md       # This file
 ```
@@ -36,6 +38,8 @@ IDRA-Assignment-WEEK2-4/
 | **Day 13** | Restaurant Branch Performance EDA | `Day13_Restaurant_Branch_Performance_Dataset.csv` (350 records) | Complete EDA: summary stats, distribution & correlation analysis, group comparisons, 8 observations |
 | **Day 14** | Food Delivery Data Visualization | `Day14_Food_Delivery_Visualization_Dataset.csv` (360 order batches) | 14 Matplotlib/Seaborn charts (line, bar, histogram, scatter, box, violin, heatmap) with interpretations |
 | **Day 15** | Executive Hotel Booking EDA Report | `Day15_Executive_Hotel_Booking_EDA_Dataset.csv` (25,180 bookings × 35 columns) | Full-scale EDA: cleaning (22K missing values, duplicates, outliers), datetime fixes, feature engineering, visualizations, 5 insights & 7 recommendations |
+| **Day 16** | Student Wellbeing Statistical Analysis & Probability | `Day16_Student_Wellbeing_Survey.csv` (600 students × 20 columns) | Descriptive stats, dispersion, IQR outlier detection (20 in spending), single/joint/conditional probability, mutual exclusivity & independence checks, Bayes' theorem verification, Z-scores & empirical rule |
+| **Day 18 & 19** | Student Performance Prediction — ML (Regression + Classification) | `Day18_19_student_habits_performance.csv` (1000 students × 16 columns) | Full ML pipeline: EDA, Linear Regression (R2 0.897), Logistic Regression Pass/Fail (96% accuracy), overfitting checks, 5 evidence-based insights |
 
 ---
 
@@ -67,6 +71,12 @@ jupyter notebook "IDRA DAY 14.ipynb"
 # or
 cd day-15
 jupyter notebook "IDRA DAY 15.ipynb"
+# or
+cd day-16
+jupyter notebook "IDRA DAY 16.ipynb"
+# or
+cd day-18
+jupyter notebook "IDRA DAY 18 & 19.ipynb"
 ```
 
 **Requirements:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `jupyter`
@@ -127,10 +137,24 @@ jupyter notebook "IDRA DAY 15.ipynb"
 - **Feature engineering:** `Arrival_Month` via `dt.month`, `Lead_Time_Bin` buckets (0–30 / 31–90 / 91–180 / 180+ days) via `pd.cut()`
 - **Biggest insight:** Cancellation rate is very high (**72.18%**) — rises from 44.63% (0–30 day lead) to 85.79% (180+ days); Online TA drives ~43% of bookings; Non-refund deposits show ~93% cancellations
 
+## 🧮 Day 16 Highlights
+- **Dataset:** 600 student survey records × 20 columns (academics, lifestyle, finances, wellbeing) — fully clean, 0 missing values
+- **Descriptive stats:** Central tendency & dispersion for 5 core variables — Academic Readiness varies most (SD 9.69), Sleep most stable (SD 0.84, mean=median=mode=7.0)
+- **Outliers (IQR):** 8–20 extreme values across 4 variables; removing the 20 spending outliers drops the mean by ₹370 but the median by only ₹95 → **median is the robust measure**
+- **Probability:** Only 7.5% high-stress students; part-time job & stress are **DEPENDENT** (0.0517 ≠ 0.0190); Year 1 & Year 4 mutually exclusive; **Bayes' theorem verified exactly** (P(A|B) = 0.6889)
+- **Normal distribution:** Top student Z = +2.71, lowest Z = −3.08; actual coverage 69.5% / 95.17% / 99.83% matches the 68-95-99.7 empirical rule
+
+## 🤖 Day 18 & 19 Highlights
+- **Dataset:** 1000 student records × 16 columns (study habits, screen time, lifestyle, demographics, exam score) — 91 missing `parental_education_level` values filled with mode
+- **Regression (Linear):** MAE 4.19, RMSE 5.15, test **R2 = 0.897**; train-test gap 0.006 → **no overfitting**
+- **Strongest driver:** Study Hours Per Day r = **+0.825**; screen time is the only negative factor (Netflix −0.172, Social Media −0.167)
+- **Classification (Logistic):** Pass (≥50) / Fail → **96% accuracy, F1 0.977**, only 4 test students missed; train 0.955 vs test 0.960 → no overfitting
+- **Insight:** Habits beat demographics — gender, internet quality and part-time job all within ~2 marks of each other
+
 ---
 
 ## 👤 Author
 
 **Patel Harshilkumar Rajubhai**  
-Information Technology & Data Analytics  
+ 
 [GitHub](https://github.com/Harshil2992005)

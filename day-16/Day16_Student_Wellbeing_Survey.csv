@@ -1,0 +1,601 @@
+Student_ID,Age,Faculty,Year_of_Study,City,Accommodation,Scholarship,Part_Time_Job,Internet_Quality,Preferred_Study_Space,Weekly_Study_Hours,Average_Sleep_Hours,Daily_Screen_Time_Hours,Exercise_Days_Per_Week,Commute_Time_Minutes,Stress_Score,Academic_Readiness_Score,Overall_Satisfaction,Monthly_Discretionary_Spending,Social_Activity_Hours_Per_Week
+STU0001,21,Data Science,3,Bengaluru,Hostel,No,Yes,Good,Café,15.2,5.7,3.2,3,11.8,5.4,63.1,3.2,5131.0,7.8
+STU0002,21,Data Science,4,Pune,Hostel,Yes,No,Poor,Library,17.6,7.7,3.5,4,20.3,2.1,74.2,3.8,3508.0,9.2
+STU0003,22,Life Sciences,2,Chandigarh,Home,Yes,No,Poor,Home,18.9,6.4,2.8,1,15.0,5.2,77.3,4.0,4584.0,7.7
+STU0004,18,Business,4,Bengaluru,Hostel,Yes,Yes,Average,Café,19.5,6.7,3.0,5,12.1,4.7,67.0,4.0,5456.0,5.3
+STU0005,20,Business,3,Jammu,Shared Apartment,Yes,No,Good,Home,18.4,7.3,3.0,1,30.2,5.4,65.6,3.2,11732.0,15.9
+STU0006,19,Data Science,3,Mumbai,Shared Apartment,No,Yes,Excellent,Library,17.1,8.3,1.9,4,8.2,4.4,85.1,3.9,8297.0,4.4
+STU0007,22,Arts & Humanities,4,Mumbai,Home,No,No,Excellent,Home,14.6,6.6,2.6,2,30.2,5.1,75.5,4.5,2293.0,4.2
+STU0008,22,Arts & Humanities,2,Hyderabad,Shared Apartment,No,No,Good,Home,10.4,6.4,3.6,4,6.6,2.9,63.1,4.1,9709.0,6.8
+STU0009,22,Data Science,1,Delhi,Home,No,No,Average,Department Lab,13.8,7.2,5.1,1,31.5,4.3,67.2,4.0,1785.0,7.3
+STU0010,20,Data Science,2,Hyderabad,PG,No,No,Poor,Department Lab,12.0,6.5,2.1,3,25.4,2.9,56.1,3.4,5595.0,8.8
+STU0011,21,Engineering,1,Chandigarh,Home,Yes,Yes,Excellent,Department Lab,13.5,7.0,2.9,1,10.5,6.1,74.2,5.0,4317.0,12.6
+STU0012,22,Business,2,Mumbai,Home,Yes,Yes,Average,Home,12.5,8.5,4.7,5,32.2,4.7,76.0,4.3,4207.0,4.4
+STU0013,22,Life Sciences,2,Chandigarh,Hostel,Yes,No,Average,Home,17.2,4.5,3.9,3,8.3,4.7,64.3,3.1,5313.0,12.3
+STU0014,22,Arts & Humanities,4,Hyderabad,PG,No,No,Good,Home,14.2,7.1,2.4,4,18.5,3.9,68.6,4.2,7158.0,3.5
+STU0015,20,Arts & Humanities,3,Jammu,Shared Apartment,No,No,Good,Department Lab,13.1,7.8,4.4,3,30.0,5.0,62.8,4.0,6712.0,9.6
+STU0016,22,Arts & Humanities,4,Srinagar,Home,No,No,Good,Home,17.4,5.8,4.4,0,15.0,5.4,69.3,4.2,4027.0,8.6
+STU0017,20,Arts & Humanities,2,Chandigarh,Home,No,Yes,Good,Home,16.7,7.2,3.6,2,3.0,2.4,65.0,4.6,3337.0,11.7
+STU0018,20,Business,1,Chandigarh,Hostel,No,No,Excellent,Library,13.8,6.4,9.8,7,13.9,4.4,79.7,4.5,28000.0,9.2
+STU0019,19,Life Sciences,1,Pune,PG,No,No,Good,Home,20.0,6.4,7.5,7,65.2,4.5,72.1,4.7,16791.0,10.4
+STU0020,24,Arts & Humanities,2,Bengaluru,Shared Apartment,No,No,Average,Library,17.8,7.3,6.6,0,10.3,6.1,79.6,4.4,4194.0,9.2
+STU0021,20,Life Sciences,1,Hyderabad,Hostel,No,No,Good,Home,13.4,6.7,2.9,2,6.0,4.3,70.6,3.8,4124.0,10.5
+STU0022,20,Engineering,3,Delhi,Hostel,No,No,Good,Department Lab,18.5,6.7,3.1,6,6.1,3.9,75.0,3.3,5825.0,4.1
+STU0023,18,Business,2,Srinagar,Hostel,No,Yes,Average,Café,11.9,6.2,5.5,3,3.0,5.0,71.1,4.3,7295.0,9.6
+STU0024,21,Business,3,Chandigarh,Home,No,No,Good,Home,24.0,4.5,4.8,2,8.6,6.3,70.9,2.9,8944.0,8.1
+STU0025,21,Data Science,2,Delhi,Home,No,Yes,Excellent,Home,14.2,8.1,3.0,6,28.4,5.5,64.6,5.0,5548.0,4.8
+STU0026,20,Engineering,4,Pune,Hostel,No,Yes,Good,Home,18.0,6.9,3.5,3,3.0,7.7,63.7,3.6,6094.0,3.5
+STU0027,20,Life Sciences,2,Bengaluru,Shared Apartment,Yes,No,Good,Home,18.2,5.6,2.0,4,14.0,2.9,71.4,4.5,5018.0,9.5
+STU0028,20,Engineering,4,Mumbai,Home,Yes,No,Average,Library,7.4,6.5,7.0,3,25.3,4.6,65.0,4.1,4661.0,5.0
+STU0029,21,Data Science,1,Chandigarh,Home,No,No,Excellent,Home,13.1,7.1,4.0,5,19.8,2.5,81.6,4.8,2518.0,16.1
+STU0030,21,Business,2,Bengaluru,Hostel,Yes,No,Good,Home,8.9,8.2,4.2,2,8.6,4.1,64.8,4.5,7050.0,10.8
+STU0031,19,Data Science,1,Pune,Home,No,Yes,Good,Department Lab,6.3,7.3,3.9,0,22.4,6.4,43.9,4.3,4814.0,7.1
+STU0032,24,Engineering,4,Srinagar,Hostel,Yes,No,Excellent,Department Lab,15.9,6.8,6.9,5,15.6,5.4,65.7,4.4,5861.0,7.5
+STU0033,22,Data Science,3,Srinagar,Hostel,Yes,No,Good,Café,13.2,7.8,3.5,4,15.8,1.0,77.4,4.9,7899.0,3.9
+STU0034,20,Data Science,2,Chandigarh,Hostel,No,Yes,Average,Home,14.1,8.2,3.9,7,4.9,1.5,87.7,4.7,6857.0,5.5
+STU0035,21,Data Science,3,Srinagar,Home,No,Yes,Good,Home,11.5,6.4,5.4,0,18.1,5.9,57.3,3.6,3885.0,11.3
+STU0036,23,Engineering,3,Delhi,Home,No,Yes,Good,Home,9.9,7.0,3.0,3,21.0,4.7,59.9,4.5,5992.0,3.7
+STU0037,20,Business,2,Mumbai,Home,No,No,Excellent,Home,13.0,5.3,3.3,1,10.5,6.5,60.5,3.9,3540.0,9.4
+STU0038,21,Arts & Humanities,3,Chandigarh,Shared Apartment,No,No,Good,Library,19.5,7.0,7.1,6,35.9,3.4,69.7,4.6,13164.0,10.5
+STU0039,22,Arts & Humanities,4,Bengaluru,Home,Yes,No,Good,Home,7.4,5.8,2.7,2,20.3,2.9,77.1,3.8,11350.0,10.5
+STU0040,23,Data Science,3,Hyderabad,Hostel,No,No,Poor,Home,16.7,7.2,5.0,1,13.1,4.5,64.5,3.4,2942.0,5.2
+STU0041,19,Life Sciences,4,Srinagar,Home,No,No,Good,Department Lab,23.4,6.8,4.0,0,31.0,4.6,84.2,3.6,6427.0,6.1
+STU0042,21,Data Science,4,Delhi,Hostel,No,No,Excellent,Department Lab,13.5,5.9,4.8,6,11.7,3.6,67.9,4.4,4699.0,5.9
+STU0043,25,Life Sciences,4,Delhi,PG,Yes,No,Good,Home,22.6,8.7,4.6,1,48.0,4.4,65.9,4.0,5626.0,3.2
+STU0044,20,Business,1,Srinagar,Hostel,No,No,Excellent,Library,14.2,7.1,3.2,4,13.1,2.1,76.9,5.0,3349.0,3.9
+STU0045,23,Engineering,1,Delhi,Home,No,No,Average,Library,9.7,5.6,3.3,3,35.4,3.6,61.3,3.5,2670.0,6.7
+STU0046,25,Engineering,1,Delhi,Hostel,No,No,Excellent,Home,8.9,8.5,4.5,0,14.3,4.8,82.6,4.4,6376.0,8.9
+STU0047,20,Business,3,Pune,Home,No,No,Good,Department Lab,11.2,6.5,4.5,6,3.0,1.1,52.4,5.0,5396.0,12.4
+STU0048,18,Data Science,1,Jammu,Home,No,No,Excellent,Café,10.1,8.2,3.4,4,16.7,2.6,59.2,4.6,4625.0,11.0
+STU0049,20,Life Sciences,3,Chandigarh,Shared Apartment,No,No,Average,Home,20.9,8.2,4.4,3,40.0,2.1,78.3,4.2,5283.0,5.1
+STU0050,22,Business,1,Jammu,Shared Apartment,No,Yes,Good,Library,15.4,5.6,4.6,2,45.2,8.0,52.5,3.5,7197.0,11.6
+STU0051,22,Life Sciences,2,Bengaluru,PG,Yes,No,Good,Home,21.1,6.8,3.1,4,53.7,4.9,75.3,4.6,4509.0,3.7
+STU0052,19,Data Science,1,Delhi,Hostel,No,No,Good,Home,14.2,6.4,3.4,2,28.5,4.9,65.1,4.0,13945.0,15.7
+STU0053,20,Life Sciences,2,Chandigarh,Home,Yes,Yes,Excellent,Department Lab,14.6,5.3,3.7,4,27.6,4.6,60.6,4.4,2744.0,12.3
+STU0054,23,Arts & Humanities,2,Chandigarh,Home,Yes,No,Good,Café,18.4,8.5,4.2,3,26.2,2.5,75.6,4.9,4114.0,4.2
+STU0055,20,Data Science,3,Pune,Shared Apartment,Yes,Yes,Average,Library,11.2,6.0,2.9,2,36.1,5.7,50.6,3.5,6196.0,7.6
+STU0056,17,Life Sciences,4,Srinagar,Home,No,No,Good,Café,9.9,6.3,3.5,3,15.7,3.5,56.2,4.6,3745.0,8.4
+STU0057,19,Business,1,Srinagar,PG,Yes,No,Good,Home,22.2,8.4,8.0,6,22.9,1.7,80.7,5.0,6145.0,7.1
+STU0058,22,Business,2,Pune,Hostel,Yes,No,Good,Department Lab,13.0,7.0,4.4,1,12.3,4.3,72.4,4.0,5506.0,9.7
+STU0059,17,Arts & Humanities,1,Delhi,Shared Apartment,Yes,Yes,Excellent,Home,12.3,8.2,6.5,3,20.5,5.8,75.9,3.5,14064.0,5.6
+STU0060,20,Arts & Humanities,3,Mumbai,Home,No,No,Average,Home,12.0,6.3,1.9,1,9.8,4.6,70.6,4.0,4954.0,4.6
+STU0061,22,Life Sciences,4,Jammu,PG,Yes,No,Poor,Department Lab,20.6,6.5,4.3,4,34.7,2.2,76.3,4.2,11904.0,10.5
+STU0062,19,Life Sciences,3,Jammu,PG,Yes,No,Good,Department Lab,14.5,6.2,3.3,2,45.6,3.6,63.6,4.0,12194.0,8.6
+STU0063,21,Engineering,1,Srinagar,Home,No,No,Good,Library,10.6,6.3,4.2,7,21.9,3.0,66.5,4.3,3753.0,8.4
+STU0064,20,Data Science,1,Jammu,Home,Yes,No,Good,Home,18.9,5.7,5.4,2,20.3,3.3,83.7,4.6,4955.0,9.6
+STU0065,21,Data Science,2,Pune,Shared Apartment,No,Yes,Good,Department Lab,16.8,8.2,5.0,2,38.8,6.1,68.4,4.1,8013.0,10.5
+STU0066,23,Arts & Humanities,3,Jammu,PG,Yes,No,Excellent,Home,13.7,7.9,3.0,2,44.5,4.1,75.4,4.2,3519.0,13.4
+STU0067,19,Life Sciences,1,Chandigarh,PG,No,No,Average,Department Lab,11.9,7.5,2.3,6,22.2,1.0,82.8,4.0,5822.0,9.3
+STU0068,22,Engineering,2,Mumbai,Home,Yes,No,Good,Library,15.3,6.7,3.0,3,17.4,6.0,66.8,3.7,9465.0,7.1
+STU0069,19,Business,1,Hyderabad,Shared Apartment,No,No,Average,Library,19.3,7.7,7.3,0,23.9,5.6,70.2,4.2,5777.0,13.3
+STU0070,22,Arts & Humanities,4,Jammu,Home,No,No,Good,Home,16.5,7.2,4.5,2,39.0,4.5,76.4,3.8,6625.0,5.3
+STU0071,22,Arts & Humanities,4,Mumbai,PG,No,No,Good,Café,12.5,8.8,7.9,7,20.5,1.1,53.6,5.0,5508.0,13.6
+STU0072,24,Engineering,3,Delhi,Home,No,Yes,Good,Café,13.6,7.4,3.2,5,35.9,3.1,79.6,4.3,5516.0,10.5
+STU0073,19,Business,2,Pune,PG,No,Yes,Excellent,Library,14.8,6.9,2.7,3,33.6,6.9,59.3,4.7,9965.0,6.6
+STU0074,23,Business,2,Pune,Hostel,No,No,Good,Library,6.0,7.4,4.2,3,11.8,3.5,56.9,4.2,4212.0,6.0
+STU0075,18,Engineering,2,Hyderabad,Home,Yes,No,Average,Department Lab,19.0,7.4,5.4,0,9.7,5.8,89.0,3.6,2675.0,11.1
+STU0076,20,Arts & Humanities,3,Srinagar,Hostel,No,No,Average,Home,19.2,8.1,6.9,0,13.5,4.1,72.9,3.2,5592.0,12.8
+STU0077,24,Business,3,Delhi,Shared Apartment,No,No,Average,Café,11.9,5.1,7.1,2,36.4,6.1,50.7,3.8,7160.0,12.2
+STU0078,22,Data Science,4,Pune,Home,No,No,Average,Library,15.9,6.4,7.0,4,29.2,6.1,52.7,4.3,3722.0,9.5
+STU0079,21,Engineering,4,Srinagar,Hostel,Yes,No,Good,Home,20.0,7.3,3.3,1,11.7,5.7,71.8,4.3,6904.0,6.8
+STU0080,17,Engineering,4,Bengaluru,Home,No,No,Poor,Library,16.9,6.9,2.9,1,23.7,5.7,65.0,3.7,5518.0,4.3
+STU0081,19,Arts & Humanities,4,Jammu,Shared Apartment,Yes,No,Average,Department Lab,17.0,7.2,6.5,3,30.6,4.9,81.1,4.6,6950.0,7.1
+STU0082,22,Engineering,3,Delhi,Hostel,No,No,Good,Home,13.4,7.3,7.9,3,9.5,4.9,71.3,4.4,10073.0,7.6
+STU0083,21,Arts & Humanities,3,Pune,PG,Yes,Yes,Good,Department Lab,12.8,6.0,1.7,7,21.2,3.8,64.8,4.0,4371.0,9.7
+STU0084,22,Engineering,2,Hyderabad,Hostel,No,No,Good,Home,15.3,7.3,2.7,3,9.3,2.9,67.3,4.1,31500.0,5.9
+STU0085,22,Arts & Humanities,1,Chandigarh,PG,Yes,No,Excellent,Library,15.4,8.5,5.7,2,19.5,4.7,66.3,3.8,6617.0,5.1
+STU0086,18,Arts & Humanities,1,Delhi,Home,Yes,No,Good,Home,20.8,5.9,10.1,3,23.6,6.2,65.6,3.9,3399.0,2.7
+STU0087,21,Engineering,3,Hyderabad,PG,Yes,Yes,Good,Home,22.9,6.0,6.2,0,14.7,6.7,83.8,4.2,5351.0,8.7
+STU0088,21,Business,2,Chandigarh,Shared Apartment,No,No,Good,Home,21.0,7.4,3.9,3,5.5,3.1,87.2,4.5,2695.0,7.7
+STU0089,21,Life Sciences,3,Mumbai,Shared Apartment,Yes,No,Average,Home,16.6,8.4,5.0,4,27.6,3.6,83.6,3.4,4420.0,9.2
+STU0090,18,Engineering,1,Jammu,Hostel,No,Yes,Average,Library,11.2,9.1,5.2,4,7.3,4.4,60.9,4.8,6760.0,6.7
+STU0091,22,Life Sciences,3,Bengaluru,Home,No,No,Good,Library,14.6,6.2,2.6,3,6.3,2.3,73.0,4.7,4674.0,4.9
+STU0092,19,Business,2,Delhi,Home,No,No,Poor,Library,15.9,7.6,3.4,3,39.4,2.5,73.8,3.7,5265.0,11.8
+STU0093,21,Data Science,3,Bengaluru,Home,No,No,Good,Library,11.5,8.1,5.8,1,20.0,3.9,85.6,4.0,5415.0,17.6
+STU0094,22,Engineering,2,Pune,Hostel,No,No,Average,Home,11.4,6.5,7.0,2,17.2,5.6,72.3,3.2,19559.0,6.6
+STU0095,20,Data Science,4,Hyderabad,Hostel,No,Yes,Good,Home,16.6,8.3,5.5,0,15.6,5.4,84.3,4.3,11258.0,6.1
+STU0096,21,Arts & Humanities,1,Mumbai,PG,No,Yes,Good,Home,16.4,7.5,2.7,2,13.2,4.5,73.9,4.6,2586.0,1.0
+STU0097,21,Business,1,Chandigarh,Home,Yes,No,Poor,Library,16.4,5.4,6.3,5,17.2,2.7,63.7,3.5,4658.0,9.6
+STU0098,21,Life Sciences,3,Hyderabad,Home,No,Yes,Average,Library,17.9,6.9,6.7,3,30.5,7.1,61.8,4.0,3874.0,9.9
+STU0099,20,Data Science,1,Delhi,Hostel,No,No,Poor,Café,14.4,7.6,4.8,3,15.9,3.2,58.3,3.5,3276.0,11.2
+STU0100,22,Data Science,3,Srinagar,PG,No,No,Good,Library,17.3,7.9,2.2,1,26.9,3.9,66.9,4.1,6452.0,6.3
+STU0101,21,Engineering,1,Bengaluru,Hostel,No,No,Average,Home,13.0,6.2,3.1,3,14.7,3.2,82.1,4.0,4139.0,8.2
+STU0102,23,Data Science,1,Srinagar,Shared Apartment,No,Yes,Average,Department Lab,17.9,7.2,2.7,3,47.3,9.4,48.0,3.5,13334.0,7.2
+STU0103,22,Life Sciences,4,Delhi,Shared Apartment,Yes,No,Good,Home,23.2,7.2,2.7,0,30.6,5.9,85.3,4.3,8692.0,5.5
+STU0104,20,Data Science,1,Bengaluru,Shared Apartment,No,No,Good,Home,14.7,6.5,7.0,6,20.6,5.1,78.0,3.8,5945.0,8.9
+STU0105,22,Data Science,1,Hyderabad,Home,No,No,Good,Home,17.8,6.0,6.4,5,22.4,6.7,57.2,4.1,10086.0,9.2
+STU0106,19,Engineering,4,Chandigarh,Home,Yes,No,Good,Department Lab,16.8,6.8,4.6,3,29.7,3.1,89.4,3.9,4384.0,3.5
+STU0107,22,Business,3,Delhi,Hostel,Yes,No,Average,Home,17.2,7.2,5.5,5,15.0,2.9,65.9,3.8,3538.0,12.6
+STU0108,20,Arts & Humanities,4,Bengaluru,Shared Apartment,No,Yes,Excellent,Home,10.2,8.3,3.6,2,9.9,4.0,74.4,4.2,7417.0,5.6
+STU0109,20,Business,2,Srinagar,Hostel,No,No,Good,Library,16.8,7.1,5.2,5,19.4,3.0,72.5,5.0,5642.0,8.3
+STU0110,19,Engineering,3,Bengaluru,PG,No,No,Average,Library,18.5,6.5,5.9,1,3.9,7.5,68.8,3.1,3684.0,10.7
+STU0111,20,Data Science,2,Pune,Shared Apartment,Yes,No,Good,Home,20.7,7.2,4.7,1,16.4,4.1,85.3,4.3,9042.0,9.2
+STU0112,18,Life Sciences,1,Srinagar,PG,Yes,No,Excellent,Home,14.9,7.8,8.7,2,46.5,7.9,72.0,3.5,7963.0,7.7
+STU0113,23,Engineering,2,Mumbai,Home,No,No,Excellent,Home,12.1,8.7,2.5,4,42.5,3.5,71.7,4.6,6977.0,2.3
+STU0114,21,Arts & Humanities,1,Srinagar,Home,No,No,Good,Department Lab,13.7,7.4,4.7,3,18.9,5.5,61.8,3.6,1964.0,6.9
+STU0115,20,Arts & Humanities,1,Mumbai,PG,No,Yes,Good,Library,15.8,6.4,2.3,5,33.2,5.1,54.3,4.1,6844.0,2.4
+STU0116,22,Life Sciences,4,Delhi,PG,Yes,Yes,Excellent,Library,12.5,8.5,3.9,4,31.0,5.0,75.8,4.7,10457.0,7.4
+STU0117,21,Life Sciences,1,Jammu,PG,No,Yes,Good,Home,16.4,6.0,4.4,5,52.7,6.9,68.9,4.1,8536.0,10.5
+STU0118,23,Engineering,1,Hyderabad,Hostel,No,No,Good,Department Lab,23.1,5.7,6.6,1,8.8,7.8,91.1,3.6,9131.0,6.4
+STU0119,24,Data Science,3,Chandigarh,Hostel,No,No,Average,Department Lab,10.2,6.4,3.1,0,32.5,4.3,61.5,4.2,9333.0,9.5
+STU0120,22,Engineering,1,Jammu,Hostel,Yes,No,Excellent,Library,10.7,7.0,4.8,3,3.0,5.6,74.4,4.5,6289.0,6.7
+STU0121,21,Life Sciences,3,Chandigarh,Home,No,No,Good,Home,22.4,7.6,3.8,2,24.5,4.3,86.8,4.3,5106.0,12.6
+STU0122,21,Arts & Humanities,1,Srinagar,Home,No,No,Good,Café,18.3,6.4,1.7,3,20.0,4.7,73.1,5.0,4443.0,6.0
+STU0123,21,Arts & Humanities,1,Delhi,Home,No,No,Average,Home,16.6,6.2,4.6,7,12.1,1.6,72.2,3.9,5916.0,12.7
+STU0124,20,Engineering,1,Pune,Home,No,Yes,Excellent,Library,15.9,7.3,6.4,6,13.9,2.2,84.7,4.5,2912.0,5.5
+STU0125,18,Business,3,Jammu,Home,No,Yes,Average,Home,12.8,8.9,7.4,1,18.0,6.5,74.3,3.7,3898.0,10.4
+STU0126,23,Data Science,2,Chandigarh,Home,No,No,Good,Library,12.8,7.0,2.0,7,22.1,2.2,68.2,4.7,4301.0,12.4
+STU0127,21,Data Science,1,Jammu,Home,Yes,No,Average,Home,13.0,7.7,3.3,0,32.4,5.5,77.9,4.8,4321.0,9.4
+STU0128,22,Engineering,1,Pune,Hostel,Yes,No,Average,Home,17.7,7.1,3.5,2,11.1,3.3,68.1,3.4,3369.0,5.6
+STU0129,20,Life Sciences,4,Mumbai,PG,No,Yes,Good,Home,17.0,6.4,5.1,5,34.7,5.6,73.5,4.3,7001.0,6.8
+STU0130,20,Engineering,1,Jammu,Home,No,No,Average,Home,13.5,7.6,1.6,6,11.3,1.4,66.2,4.7,6238.0,8.3
+STU0131,21,Business,4,Delhi,Home,No,No,Good,Department Lab,27.8,6.7,4.1,0,28.0,6.0,98.0,4.1,2320.0,7.2
+STU0132,17,Arts & Humanities,1,Bengaluru,Home,No,Yes,Excellent,Department Lab,7.9,7.5,6.4,0,15.7,6.8,60.5,4.1,4512.0,1.6
+STU0133,18,Arts & Humanities,2,Mumbai,Hostel,No,No,Good,Home,14.0,7.5,3.4,1,11.2,7.1,74.4,4.0,8107.0,12.1
+STU0134,21,Data Science,2,Delhi,Home,Yes,No,Good,Home,14.0,7.8,8.5,2,39.7,4.7,71.1,3.7,5674.0,8.3
+STU0135,21,Arts & Humanities,2,Hyderabad,Hostel,No,No,Good,Library,16.9,6.7,3.5,2,25.1,3.6,82.9,4.6,3783.0,4.7
+STU0136,20,Business,3,Bengaluru,PG,No,No,Good,Department Lab,5.7,7.4,4.3,3,34.1,3.1,70.2,4.1,7816.0,1.1
+STU0137,18,Data Science,2,Jammu,Hostel,Yes,No,Good,Home,13.2,6.5,4.2,1,12.7,4.6,68.2,4.2,4922.0,9.5
+STU0138,18,Engineering,1,Jammu,Hostel,No,No,Good,Library,23.2,6.5,4.5,4,15.2,5.9,81.1,3.6,4852.0,11.5
+STU0139,22,Arts & Humanities,3,Delhi,Shared Apartment,No,No,Average,Library,11.8,6.4,3.3,3,11.1,3.7,71.3,4.6,9289.0,6.2
+STU0140,21,Engineering,3,Delhi,Home,Yes,Yes,Good,Department Lab,19.8,6.5,2.4,1,33.7,5.7,88.5,4.4,7859.0,13.5
+STU0141,20,Data Science,1,Delhi,Home,Yes,No,Excellent,Home,16.7,7.0,5.8,0,11.1,5.3,78.6,3.9,3503.0,10.0
+STU0142,23,Data Science,1,Delhi,PG,Yes,No,Good,Home,14.3,8.1,11.8,1,28.8,5.1,52.3,3.5,6165.0,8.3
+STU0143,19,Arts & Humanities,2,Jammu,Home,No,No,Average,Home,13.8,7.1,4.3,3,33.3,1.6,73.4,4.0,2763.0,5.4
+STU0144,18,Life Sciences,4,Srinagar,Hostel,No,No,Average,Library,13.1,7.3,2.6,2,9.9,5.3,58.8,3.6,5264.0,6.8
+STU0145,20,Engineering,3,Hyderabad,Hostel,No,No,Excellent,Department Lab,15.4,8.0,4.1,4,8.7,2.0,85.3,5.0,3322.0,7.4
+STU0146,18,Business,1,Bengaluru,PG,No,No,Excellent,Library,20.0,6.4,4.6,5,27.2,2.6,70.9,4.8,11450.0,11.3
+STU0147,22,Business,3,Chandigarh,PG,No,No,Good,Home,15.8,8.0,7.7,4,19.5,4.6,84.2,4.1,5655.0,10.6
+STU0148,20,Data Science,1,Pune,Home,No,No,Good,Department Lab,14.9,6.0,3.1,2,35.1,4.1,62.5,4.7,1602.0,7.4
+STU0149,20,Arts & Humanities,3,Jammu,PG,No,No,Good,Home,13.4,7.2,2.8,0,40.5,7.6,57.8,3.5,2812.0,7.3
+STU0150,19,Data Science,1,Srinagar,Home,No,No,Good,Home,17.0,7.4,3.2,0,28.0,4.5,78.5,3.6,4211.0,10.0
+STU0151,19,Data Science,2,Bengaluru,Home,No,No,Average,Home,16.3,6.0,2.7,4,45.8,4.9,71.4,3.5,5257.0,7.6
+STU0152,24,Business,1,Mumbai,Hostel,No,No,Poor,Home,12.9,6.8,5.4,3,24.7,4.4,53.8,4.6,5393.0,11.1
+STU0153,23,Data Science,3,Chandigarh,Hostel,No,Yes,Poor,Home,10.9,6.5,6.8,0,12.5,5.9,64.2,2.9,10255.0,10.4
+STU0154,21,Life Sciences,1,Srinagar,Hostel,No,No,Good,Department Lab,16.8,6.8,3.7,1,16.6,5.1,72.4,4.5,5396.0,10.1
+STU0155,23,Life Sciences,3,Jammu,Home,No,No,Poor,Department Lab,12.6,5.7,3.1,4,21.6,5.0,64.1,3.0,6025.0,11.8
+STU0156,23,Life Sciences,3,Mumbai,Home,No,No,Average,Department Lab,18.5,7.8,6.0,5,17.1,2.1,90.0,4.8,3975.0,5.5
+STU0157,23,Life Sciences,2,Hyderabad,Hostel,No,No,Good,Home,15.0,8.0,3.7,4,16.5,4.1,65.6,5.0,8059.0,9.0
+STU0158,18,Business,2,Hyderabad,Shared Apartment,No,Yes,Average,Home,6.5,6.3,3.1,3,32.8,6.3,56.7,3.5,14667.0,9.6
+STU0159,20,Arts & Humanities,2,Jammu,Shared Apartment,No,Yes,Good,Home,9.6,9.2,4.3,3,36.8,4.3,53.7,4.5,8852.0,11.0
+STU0160,24,Arts & Humanities,3,Mumbai,Hostel,Yes,No,Good,Home,26.6,6.0,7.3,0,7.2,6.7,75.2,3.9,7560.0,6.6
+STU0161,22,Data Science,2,Bengaluru,Shared Apartment,No,Yes,Average,Home,11.6,5.7,5.1,5,26.3,4.0,69.8,3.2,10926.0,16.2
+STU0162,20,Business,2,Pune,Hostel,Yes,No,Good,Home,17.7,6.2,3.7,5,16.4,3.8,86.0,4.0,5697.0,9.3
+STU0163,22,Arts & Humanities,3,Srinagar,Shared Apartment,No,No,Good,Library,24.9,6.9,6.2,3,32.4,4.2,84.1,3.9,6267.0,8.4
+STU0164,21,Arts & Humanities,4,Chandigarh,PG,No,No,Average,Home,21.5,6.9,3.2,2,23.2,3.6,86.1,4.5,7806.0,10.4
+STU0165,22,Engineering,2,Delhi,Home,No,Yes,Excellent,Library,14.8,6.8,2.8,3,35.2,7.0,53.2,4.6,3601.0,7.6
+STU0166,19,Business,4,Mumbai,Home,No,No,Average,Library,18.2,9.5,1.8,6,26.3,1.0,86.3,4.7,5326.0,11.0
+STU0167,23,Arts & Humanities,3,Bengaluru,Home,No,Yes,Excellent,Home,15.8,6.8,5.9,2,19.8,6.8,81.3,4.1,4560.0,11.7
+STU0168,19,Data Science,2,Mumbai,Home,No,No,Good,Home,16.2,6.5,7.0,3,15.4,3.3,73.2,3.6,6343.0,9.7
+STU0169,22,Business,4,Pune,Home,No,No,Excellent,Café,14.3,7.0,3.9,3,13.3,4.1,64.5,5.0,6195.0,3.8
+STU0170,22,Data Science,1,Jammu,Shared Apartment,Yes,No,Excellent,Home,17.1,6.0,4.1,1,35.6,6.2,70.8,4.3,8484.0,11.1
+STU0171,21,Data Science,2,Bengaluru,Shared Apartment,No,Yes,Average,Home,7.9,7.0,4.5,3,20.4,4.8,53.9,4.6,7134.0,5.7
+STU0172,21,Business,1,Chandigarh,Hostel,No,No,Average,Home,19.4,6.2,5.1,6,7.2,4.2,63.8,3.7,4661.0,7.6
+STU0173,21,Data Science,1,Srinagar,Home,Yes,No,Good,Department Lab,15.0,7.7,10.4,2,17.5,5.7,76.6,4.2,4248.0,5.6
+STU0174,23,Business,2,Jammu,Home,No,No,Good,Library,14.9,6.8,3.2,5,14.3,3.7,78.0,4.6,7887.0,10.6
+STU0175,21,Business,4,Bengaluru,Home,No,No,Excellent,Home,19.2,7.8,2.1,2,45.6,5.8,79.8,3.8,2503.0,6.5
+STU0176,19,Arts & Humanities,4,Delhi,Hostel,Yes,No,Good,Department Lab,14.1,6.2,3.3,3,3.0,3.8,77.5,4.8,5844.0,8.7
+STU0177,22,Business,1,Srinagar,Home,No,No,Good,Home,13.7,8.6,3.7,7,30.6,1.0,74.8,5.0,4330.0,12.2
+STU0178,22,Arts & Humanities,2,Mumbai,Hostel,No,No,Average,Café,20.2,6.4,4.8,4,14.2,1.8,76.4,4.4,3978.0,9.3
+STU0179,19,Arts & Humanities,1,Bengaluru,PG,No,No,Excellent,Café,12.7,7.7,4.2,4,42.3,3.2,65.8,3.9,2495.0,11.1
+STU0180,19,Life Sciences,1,Chandigarh,Hostel,Yes,Yes,Excellent,Department Lab,11.1,8.6,3.8,4,27.1,4.9,77.8,4.0,5600.0,5.7
+STU0181,18,Business,3,Srinagar,Home,Yes,No,Excellent,Café,19.1,6.8,5.0,3,38.7,4.8,93.9,4.7,2152.0,6.5
+STU0182,20,Business,3,Delhi,PG,No,No,Excellent,Home,17.2,7.0,7.2,5,22.8,5.2,83.3,4.2,7915.0,9.7
+STU0183,18,Business,1,Jammu,Home,No,Yes,Excellent,Department Lab,9.6,7.1,6.3,6,4.4,3.3,52.5,5.0,3893.0,9.0
+STU0184,21,Business,3,Pune,Home,No,Yes,Average,Home,9.9,7.9,7.7,4,30.2,6.2,80.6,4.0,1929.0,6.9
+STU0185,19,Data Science,1,Jammu,Hostel,No,Yes,Average,Home,11.2,7.3,2.4,6,9.1,5.0,62.2,4.2,9690.0,14.6
+STU0186,21,Life Sciences,4,Chandigarh,Shared Apartment,No,No,Good,Home,19.2,7.9,3.9,5,23.5,1.5,87.9,4.6,8029.0,7.4
+STU0187,19,Arts & Humanities,3,Bengaluru,Home,No,Yes,Excellent,Home,17.1,8.9,4.2,5,11.6,2.0,81.8,4.7,5937.0,6.9
+STU0188,21,Business,3,Jammu,PG,No,No,Excellent,Library,10.1,6.3,3.4,2,20.0,2.0,59.1,4.4,5785.0,6.9
+STU0189,21,Life Sciences,2,Jammu,Shared Apartment,Yes,No,Average,Department Lab,11.8,5.8,3.6,3,7.6,2.2,74.2,3.2,2832.0,7.5
+STU0190,18,Business,1,Bengaluru,Hostel,No,No,Average,Library,10.5,7.0,5.5,6,11.0,3.0,70.4,3.9,7772.0,7.3
+STU0191,21,Business,2,Jammu,Home,Yes,Yes,Average,Café,12.9,7.2,4.1,2,12.7,7.0,71.4,3.6,3472.0,9.5
+STU0192,18,Life Sciences,1,Hyderabad,Home,No,Yes,Good,Home,10.4,8.0,5.2,3,18.8,6.1,77.0,4.3,9243.0,10.2
+STU0193,20,Life Sciences,4,Jammu,Home,Yes,No,Good,Department Lab,18.3,5.9,6.7,3,22.3,5.0,93.0,3.9,4388.0,8.1
+STU0194,21,Life Sciences,1,Hyderabad,Home,No,No,Excellent,Home,14.8,6.3,2.7,1,31.8,3.4,72.2,3.5,4138.0,5.0
+STU0195,21,Engineering,2,Pune,Home,Yes,No,Excellent,Home,14.0,6.9,5.0,0,36.8,5.1,74.2,4.4,4196.0,1.0
+STU0196,20,Engineering,3,Pune,Hostel,Yes,No,Average,Home,13.0,7.5,5.1,5,10.5,1.9,67.6,3.2,3423.0,5.5
+STU0197,20,Life Sciences,1,Srinagar,Home,Yes,No,Excellent,Library,24.6,6.5,2.3,2,29.3,5.4,88.9,4.8,6426.0,8.8
+STU0198,23,Engineering,2,Hyderabad,Home,No,No,Good,Café,18.2,7.6,6.7,1,27.1,5.3,69.4,3.5,2504.0,9.7
+STU0199,18,Life Sciences,1,Hyderabad,Hostel,No,Yes,Good,Library,14.9,7.2,5.2,2,13.6,5.8,79.8,3.7,2780.0,5.2
+STU0200,20,Business,3,Delhi,Shared Apartment,No,No,Average,Home,15.3,6.6,7.4,6,39.2,4.9,64.2,3.9,4944.0,10.5
+STU0201,20,Life Sciences,1,Pune,Shared Apartment,Yes,Yes,Average,Library,21.3,7.5,2.1,1,3.6,7.0,81.9,3.6,5723.0,13.2
+STU0202,18,Engineering,1,Bengaluru,Hostel,No,No,Good,Home,11.0,8.0,6.9,4,14.9,2.0,73.5,4.6,7181.0,10.2
+STU0203,22,Data Science,2,Delhi,Home,No,No,Excellent,Café,16.9,6.9,3.4,3,29.2,5.4,77.4,4.4,4483.0,5.4
+STU0204,18,Engineering,3,Mumbai,Home,No,No,Average,Department Lab,16.6,7.3,2.0,5,12.5,4.3,74.2,3.9,3880.0,10.8
+STU0205,22,Life Sciences,2,Pune,Hostel,Yes,No,Good,Home,15.1,5.3,3.8,1,11.7,6.1,68.0,4.0,9870.0,6.1
+STU0206,20,Engineering,4,Bengaluru,Shared Apartment,Yes,No,Good,Department Lab,13.8,7.0,2.5,4,28.5,2.6,68.6,3.7,9896.0,6.6
+STU0207,19,Life Sciences,1,Chandigarh,Home,Yes,No,Good,Department Lab,17.9,5.5,2.6,1,23.6,3.0,57.0,3.4,5080.0,9.5
+STU0208,23,Engineering,1,Mumbai,Shared Apartment,No,No,Excellent,Home,14.7,7.2,2.4,3,19.1,3.9,78.2,4.7,14859.0,5.4
+STU0209,22,Engineering,1,Bengaluru,Hostel,No,No,Good,Library,23.0,5.8,7.1,7,10.1,2.3,90.1,4.1,7330.0,4.1
+STU0210,22,Data Science,2,Jammu,Shared Apartment,No,No,Good,Home,13.8,6.2,4.3,0,30.9,4.7,77.3,3.9,7089.0,2.9
+STU0211,23,Life Sciences,4,Jammu,Home,No,No,Good,Library,22.7,8.6,5.6,1,28.0,5.6,74.1,4.2,3765.0,8.2
+STU0212,20,Data Science,3,Chandigarh,Home,No,No,Excellent,Home,16.6,7.1,3.9,3,43.2,4.2,71.5,5.0,5534.0,10.8
+STU0213,21,Data Science,3,Hyderabad,Hostel,No,Yes,Good,Library,11.4,6.0,4.0,4,10.2,6.3,67.7,3.8,12557.0,7.3
+STU0214,20,Business,1,Hyderabad,Hostel,No,No,Good,Home,14.9,6.4,8.5,1,15.3,6.6,71.1,3.2,4394.0,11.6
+STU0215,20,Data Science,3,Mumbai,Shared Apartment,No,Yes,Excellent,Department Lab,11.8,7.6,5.2,6,46.5,5.9,61.2,4.3,8279.0,7.7
+STU0216,18,Arts & Humanities,1,Jammu,Hostel,No,Yes,Average,Home,23.6,5.8,1.2,0,15.6,6.1,72.9,3.6,5964.0,8.8
+STU0217,23,Engineering,2,Bengaluru,PG,No,No,Average,Library,20.3,6.7,3.4,1,62.3,5.7,92.4,3.3,7878.0,11.4
+STU0218,20,Life Sciences,2,Bengaluru,Hostel,No,No,Average,Home,20.4,6.7,4.2,3,15.0,5.1,64.0,4.4,6039.0,11.7
+STU0219,21,Business,3,Bengaluru,Home,No,Yes,Average,Café,18.8,6.1,2.6,1,44.0,6.2,66.5,4.0,7434.0,3.3
+STU0220,23,Arts & Humanities,2,Mumbai,Home,No,No,Excellent,Library,16.4,7.1,2.7,5,39.1,5.8,78.0,4.1,8780.0,5.7
+STU0221,22,Business,4,Hyderabad,Home,Yes,No,Good,Home,17.5,7.8,4.2,3,26.5,3.6,70.8,3.9,4685.0,12.7
+STU0222,22,Engineering,4,Srinagar,Shared Apartment,No,No,Excellent,Department Lab,24.0,8.5,4.1,4,14.7,3.4,84.7,4.4,9316.0,7.0
+STU0223,20,Data Science,1,Srinagar,Shared Apartment,No,No,Good,Home,19.3,5.3,3.3,1,18.1,4.7,92.9,4.5,6328.0,12.3
+STU0224,20,Business,2,Bengaluru,Shared Apartment,Yes,Yes,Average,Home,6.8,7.4,5.1,1,29.1,5.0,65.5,4.0,8667.0,8.8
+STU0225,20,Engineering,2,Delhi,PG,No,No,Good,Library,20.5,7.8,6.5,2,36.9,4.5,78.0,3.8,6576.0,6.6
+STU0226,20,Arts & Humanities,1,Pune,Hostel,Yes,No,Poor,Home,14.9,6.8,3.5,6,15.6,2.3,64.2,4.4,9938.0,8.9
+STU0227,17,Arts & Humanities,3,Jammu,Home,No,Yes,Average,Library,10.0,8.6,4.4,4,8.5,4.7,67.1,4.2,3532.0,12.0
+STU0228,19,Business,2,Hyderabad,Home,No,Yes,Good,Home,13.9,7.1,6.6,0,33.8,8.3,78.5,3.8,4306.0,8.1
+STU0229,20,Arts & Humanities,1,Delhi,Hostel,No,No,Average,Café,14.6,7.6,4.4,1,23.7,5.3,72.5,4.1,6088.0,7.8
+STU0230,19,Engineering,4,Bengaluru,Home,No,Yes,Good,Home,16.1,6.9,4.9,0,13.0,6.0,66.8,4.7,5453.0,4.2
+STU0231,22,Business,3,Hyderabad,Home,No,No,Good,Home,21.1,6.9,7.5,0,28.8,4.9,82.1,3.5,2217.0,7.2
+STU0232,21,Life Sciences,3,Srinagar,Shared Apartment,No,No,Excellent,Home,21.4,6.2,3.8,5,19.3,3.9,78.0,4.6,11680.0,6.1
+STU0233,18,Data Science,3,Srinagar,Home,Yes,No,Average,Department Lab,10.6,6.4,3.5,2,18.2,2.3,63.1,4.7,13875.0,8.9
+STU0234,21,Engineering,1,Mumbai,Hostel,No,No,Excellent,Library,20.2,7.1,4.0,3,4.6,1.4,77.9,4.8,1874.0,12.0
+STU0235,19,Business,1,Srinagar,Hostel,No,No,Good,Home,15.3,7.7,5.4,2,4.5,4.0,50.2,4.6,3732.0,16.5
+STU0236,18,Arts & Humanities,1,Bengaluru,Hostel,Yes,No,Good,Home,20.7,6.7,2.4,6,13.0,3.7,91.2,4.5,6280.0,7.8
+STU0237,22,Life Sciences,1,Srinagar,PG,Yes,Yes,Good,Home,8.0,7.0,4.1,4,41.6,4.8,70.6,4.5,4154.0,9.8
+STU0238,19,Engineering,1,Hyderabad,Home,No,No,Good,Café,16.3,6.8,3.6,2,37.2,6.7,50.5,3.3,3859.0,8.0
+STU0239,20,Data Science,4,Srinagar,Hostel,Yes,No,Good,Library,17.6,7.1,3.3,2,11.8,3.7,79.5,4.2,6298.0,9.7
+STU0240,21,Life Sciences,2,Mumbai,Shared Apartment,No,No,Good,Library,20.8,6.4,3.0,7,28.2,1.1,88.7,5.0,7997.0,6.4
+STU0241,23,Engineering,4,Delhi,Hostel,Yes,No,Excellent,Home,18.5,6.9,3.4,3,9.9,6.7,81.2,3.9,8909.0,12.3
+STU0242,17,Data Science,1,Chandigarh,Hostel,No,No,Excellent,Café,19.2,5.9,3.0,6,10.9,3.9,80.9,4.6,5444.0,8.2
+STU0243,21,Arts & Humanities,1,Bengaluru,Shared Apartment,No,No,Good,Home,10.2,7.7,6.0,3,25.8,5.2,61.0,4.8,10086.0,11.2
+STU0244,22,Data Science,3,Chandigarh,PG,Yes,Yes,Good,Café,7.3,6.6,2.9,3,21.6,3.9,67.1,3.6,7538.0,11.3
+STU0245,23,Business,2,Delhi,Hostel,No,No,Good,Library,7.6,6.8,5.1,3,16.9,4.2,65.4,4.3,4401.0,9.4
+STU0246,19,Life Sciences,2,Delhi,PG,No,No,Good,Department Lab,13.7,6.0,1.8,4,22.0,1.9,73.3,4.2,5207.0,3.3
+STU0247,23,Business,1,Hyderabad,Hostel,Yes,No,Excellent,Home,21.6,6.9,4.9,5,16.5,2.5,82.6,4.7,3812.0,7.4
+STU0248,21,Arts & Humanities,3,Delhi,Shared Apartment,No,Yes,Good,Department Lab,11.5,7.2,5.6,1,24.3,6.9,68.6,4.1,2885.0,9.6
+STU0249,18,Arts & Humanities,3,Jammu,Home,No,No,Average,Department Lab,13.9,7.0,3.9,2,34.8,6.1,63.1,3.6,2857.0,9.7
+STU0250,20,Engineering,1,Hyderabad,Hostel,No,No,Good,Home,18.3,6.8,5.0,6,11.1,1.8,68.9,4.4,4957.0,9.9
+STU0251,23,Life Sciences,2,Chandigarh,Hostel,No,No,Good,Department Lab,13.2,6.8,4.3,3,15.3,6.2,65.2,4.0,4526.0,6.3
+STU0252,19,Arts & Humanities,3,Srinagar,Hostel,Yes,Yes,Good,Library,15.1,6.6,6.1,2,7.6,7.6,75.6,3.0,7723.0,6.6
+STU0253,22,Arts & Humanities,1,Bengaluru,Home,No,No,Good,Home,12.2,7.5,3.4,2,3.0,2.0,68.5,4.1,3140.0,3.9
+STU0254,22,Arts & Humanities,2,Bengaluru,Hostel,No,No,Average,Café,16.4,7.7,3.9,4,15.6,2.2,57.7,4.4,4338.0,5.7
+STU0255,17,Life Sciences,4,Delhi,Home,No,No,Average,Home,22.4,7.4,5.0,6,35.1,2.9,83.5,5.0,4030.0,12.3
+STU0256,22,Engineering,4,Jammu,Hostel,No,No,Good,Home,14.3,7.2,5.3,1,3.0,2.9,84.2,4.0,9264.0,4.3
+STU0257,19,Business,4,Pune,Home,No,Yes,Good,Home,12.1,7.9,3.0,5,17.9,3.4,76.8,4.5,4024.0,4.1
+STU0258,21,Arts & Humanities,4,Bengaluru,Hostel,No,No,Good,Library,16.2,7.0,3.2,1,12.0,3.6,77.3,4.7,8862.0,11.4
+STU0259,19,Data Science,2,Bengaluru,Shared Apartment,Yes,No,Good,Home,17.1,6.2,2.0,2,32.6,6.1,78.6,4.1,6289.0,11.1
+STU0260,22,Arts & Humanities,3,Mumbai,Shared Apartment,No,Yes,Good,Department Lab,5.1,8.5,5.0,7,31.4,3.7,71.1,4.3,7070.0,8.6
+STU0261,22,Arts & Humanities,1,Chandigarh,Hostel,Yes,No,Average,Department Lab,10.5,8.1,4.8,5,19.1,1.2,67.0,5.0,4887.0,8.3
+STU0262,20,Business,4,Srinagar,Hostel,Yes,No,Good,Home,18.9,5.8,6.1,2,8.9,7.2,77.7,4.1,8865.0,12.1
+STU0263,20,Life Sciences,3,Jammu,Hostel,No,No,Good,Department Lab,18.9,6.9,5.3,1,16.2,5.8,64.8,3.8,8067.0,5.3
+STU0264,23,Arts & Humanities,3,Bengaluru,Home,No,No,Poor,Department Lab,8.0,6.8,6.4,1,16.4,5.6,57.0,4.0,4224.0,12.6
+STU0265,21,Engineering,1,Hyderabad,PG,No,Yes,Excellent,Home,19.1,6.7,5.4,3,17.5,7.2,72.0,4.5,5202.0,13.3
+STU0266,19,Engineering,1,Pune,Home,Yes,No,Excellent,Department Lab,15.3,5.8,2.1,4,39.8,2.8,70.8,4.3,6022.0,10.0
+STU0267,19,Engineering,2,Bengaluru,PG,No,No,Good,Department Lab,14.1,8.5,12.4,3,3.0,1.5,75.4,5.0,5955.0,3.8
+STU0268,21,Arts & Humanities,1,Chandigarh,Shared Apartment,No,Yes,Average,Home,16.6,5.6,5.2,4,37.9,5.5,62.4,3.6,6463.0,5.5
+STU0269,20,Data Science,2,Srinagar,Home,Yes,No,Good,Department Lab,16.0,7.1,6.7,2,32.6,6.8,70.7,4.1,3579.0,9.1
+STU0270,23,Engineering,4,Jammu,Hostel,No,No,Good,Home,22.5,7.4,5.2,3,7.5,6.0,75.5,3.9,4603.0,8.9
+STU0271,22,Life Sciences,2,Jammu,Hostel,No,Yes,Good,Home,16.2,7.1,3.3,4,8.8,6.2,71.9,3.4,9076.0,10.7
+STU0272,20,Engineering,3,Mumbai,Hostel,No,No,Excellent,Library,19.4,7.5,8.1,1,18.7,5.5,67.8,3.5,8230.0,13.1
+STU0273,21,Life Sciences,3,Delhi,Home,No,No,Good,Home,10.2,8.2,2.3,1,17.2,3.5,76.5,4.0,6369.0,9.3
+STU0274,23,Life Sciences,3,Pune,Home,No,Yes,Excellent,Library,12.8,6.8,5.1,1,17.4,7.6,68.2,4.0,6125.0,3.8
+STU0275,23,Arts & Humanities,4,Srinagar,Home,No,Yes,Good,Home,13.8,6.9,4.0,7,14.7,5.8,72.2,4.4,3538.0,9.9
+STU0276,22,Life Sciences,2,Pune,Home,No,No,Average,Library,7.9,8.6,2.7,3,34.1,3.0,48.4,3.1,4899.0,2.8
+STU0277,19,Life Sciences,4,Delhi,Shared Apartment,No,No,Good,Home,26.6,7.7,3.0,4,10.5,4.0,78.3,4.1,3674.0,5.2
+STU0278,22,Data Science,1,Delhi,Home,No,No,Excellent,Home,16.2,6.8,7.1,3,21.2,2.7,73.6,4.8,1876.0,5.5
+STU0279,23,Life Sciences,2,Delhi,Hostel,No,No,Average,Library,10.1,5.9,5.1,3,13.9,2.8,70.2,3.7,3632.0,7.3
+STU0280,20,Data Science,3,Srinagar,PG,Yes,No,Good,Home,15.3,7.9,2.5,4,48.5,4.7,70.9,5.0,6863.0,9.3
+STU0281,20,Arts & Humanities,4,Chandigarh,Shared Apartment,No,No,Average,Home,15.7,7.2,7.3,1,46.8,5.4,63.4,3.7,7658.0,6.1
+STU0282,20,Engineering,1,Hyderabad,Hostel,No,No,Good,Home,15.7,7.3,3.1,3,17.1,2.6,64.1,4.9,3532.0,6.2
+STU0283,21,Data Science,3,Mumbai,Home,No,No,Good,Café,17.8,5.4,3.6,3,23.9,3.6,76.1,4.3,3949.0,14.8
+STU0284,20,Data Science,2,Bengaluru,Hostel,No,Yes,Excellent,Library,16.4,6.6,6.3,5,3.0,4.7,75.4,4.8,6416.0,12.6
+STU0285,19,Business,2,Chandigarh,Home,Yes,No,Excellent,Home,25.5,6.2,3.7,2,40.3,3.6,98.0,4.7,1680.0,13.0
+STU0286,20,Data Science,2,Hyderabad,Home,No,Yes,Average,Library,14.0,7.3,6.1,5,19.6,5.8,63.1,4.0,1942.0,9.0
+STU0287,24,Data Science,4,Chandigarh,Hostel,No,No,Excellent,Department Lab,14.4,6.6,3.8,7,7.2,1.1,74.8,5.0,3683.0,7.2
+STU0288,22,Business,4,Mumbai,Shared Apartment,No,Yes,Good,Café,20.0,7.1,3.4,6,19.7,5.9,74.9,5.0,10412.0,9.6
+STU0289,22,Arts & Humanities,4,Chandigarh,Shared Apartment,No,No,Excellent,Home,13.9,7.1,3.5,2,19.8,3.8,68.9,5.0,3342.0,7.6
+STU0290,19,Arts & Humanities,3,Bengaluru,Shared Apartment,No,No,Average,Department Lab,13.8,6.6,4.0,1,15.1,3.8,74.8,3.5,6704.0,11.6
+STU0291,25,Life Sciences,3,Mumbai,Shared Apartment,No,No,Average,Home,16.0,7.2,5.5,1,39.7,6.4,77.0,3.7,7245.0,9.3
+STU0292,21,Life Sciences,4,Delhi,PG,No,No,Good,Department Lab,13.4,7.7,4.8,2,33.9,5.8,69.4,3.1,5215.0,9.8
+STU0293,20,Life Sciences,1,Chandigarh,Hostel,Yes,No,Good,Home,10.9,6.5,2.4,0,7.8,5.9,64.5,4.0,5813.0,5.7
+STU0294,20,Life Sciences,3,Hyderabad,Home,Yes,No,Good,Library,15.3,8.1,4.4,3,39.8,4.7,83.7,3.8,5925.0,8.0
+STU0295,22,Data Science,1,Mumbai,Home,Yes,No,Good,Café,13.9,7.1,3.9,5,32.4,3.0,77.7,3.9,6996.0,11.0
+STU0296,19,Arts & Humanities,1,Pune,Hostel,Yes,No,Average,Department Lab,18.2,6.9,3.9,1,14.5,4.9,69.9,3.7,4554.0,1.9
+STU0297,19,Arts & Humanities,3,Delhi,PG,No,No,Average,Home,9.9,7.3,3.7,4,17.4,2.2,62.9,4.7,6958.0,7.6
+STU0298,22,Arts & Humanities,3,Mumbai,Home,Yes,No,Good,Library,7.5,7.2,3.3,2,32.4,5.8,62.4,4.4,9910.0,9.9
+STU0299,23,Arts & Humanities,2,Bengaluru,Hostel,No,Yes,Good,Department Lab,13.5,6.9,3.3,4,8.0,5.5,65.5,3.6,6594.0,7.5
+STU0300,22,Life Sciences,4,Chandigarh,Shared Apartment,No,Yes,Average,Department Lab,14.6,6.6,2.8,5,24.2,5.7,82.8,4.1,6055.0,7.8
+STU0301,19,Arts & Humanities,3,Jammu,Hostel,No,No,Good,Home,15.0,8.1,2.8,3,4.3,2.8,71.6,4.2,4627.0,6.9
+STU0302,21,Arts & Humanities,1,Chandigarh,Hostel,Yes,No,Excellent,Home,22.6,7.6,4.6,2,10.7,2.4,84.8,4.7,10448.0,2.2
+STU0303,21,Life Sciences,2,Pune,PG,No,Yes,Average,Home,17.4,6.5,4.4,4,39.5,7.4,76.7,3.8,4039.0,7.5
+STU0304,20,Data Science,2,Jammu,Home,No,Yes,Good,Home,9.3,6.2,12.0,4,26.8,8.3,46.6,3.4,6073.0,8.1
+STU0305,19,Engineering,4,Jammu,PG,No,No,Good,Department Lab,12.0,7.0,10.6,3,35.3,6.7,61.4,3.0,5723.0,8.9
+STU0306,18,Data Science,2,Jammu,PG,No,No,Average,Home,15.0,7.1,5.0,3,26.3,5.1,74.0,3.5,10695.0,2.3
+STU0307,20,Life Sciences,1,Srinagar,Hostel,No,No,Good,Home,21.6,7.2,6.7,1,24.6,4.5,79.8,4.3,6047.0,6.2
+STU0308,17,Engineering,1,Delhi,PG,No,No,Average,Home,18.6,6.9,3.2,3,4.8,3.1,66.8,3.7,7092.0,8.0
+STU0309,19,Engineering,1,Delhi,Home,Yes,No,Good,Home,22.7,6.0,3.5,5,30.6,1.2,64.8,5.0,9960.0,9.9
+STU0310,19,Data Science,3,Hyderabad,Shared Apartment,No,No,Average,Home,19.6,6.2,4.9,7,47.1,5.7,70.5,4.2,4955.0,4.7
+STU0311,20,Engineering,3,Delhi,Home,No,No,Poor,Home,13.4,7.8,4.2,3,34.6,3.8,60.3,3.5,3528.0,9.9
+STU0312,22,Business,4,Srinagar,Home,No,No,Average,Café,22.2,6.2,6.6,7,27.4,2.2,80.8,4.9,12691.0,11.0
+STU0313,23,Life Sciences,4,Delhi,PG,No,No,Average,Library,17.4,8.2,2.4,4,25.3,2.4,84.2,4.6,7694.0,9.3
+STU0314,22,Arts & Humanities,1,Srinagar,Shared Apartment,Yes,No,Good,Home,11.6,7.6,5.8,6,39.9,4.9,69.0,4.3,12573.0,4.4
+STU0315,23,Engineering,2,Mumbai,Shared Apartment,No,No,Average,Department Lab,6.5,7.6,4.6,1,22.4,4.9,63.9,4.4,11670.0,12.9
+STU0316,22,Life Sciences,3,Mumbai,PG,No,No,Good,Library,14.5,5.0,3.3,6,17.5,4.0,62.8,3.6,5297.0,9.8
+STU0317,19,Business,3,Mumbai,Hostel,No,Yes,Average,Café,12.4,6.1,2.7,6,21.9,5.6,70.6,3.5,6158.0,11.3
+STU0318,20,Data Science,4,Mumbai,PG,No,No,Good,Department Lab,18.2,6.4,3.6,7,36.3,3.2,74.4,4.7,10649.0,9.2
+STU0319,20,Arts & Humanities,1,Hyderabad,PG,No,No,Good,Department Lab,16.8,7.1,2.9,6,38.6,1.5,80.0,4.6,3879.0,3.4
+STU0320,21,Engineering,2,Mumbai,Hostel,No,No,Good,Home,7.8,7.1,4.5,3,8.2,5.8,73.0,3.5,6534.0,10.1
+STU0321,20,Life Sciences,3,Chandigarh,PG,No,No,Average,Home,11.6,6.8,4.4,4,40.1,3.6,56.7,3.9,14594.0,1.0
+STU0322,19,Engineering,2,Srinagar,Home,Yes,No,Average,Home,20.2,5.6,4.3,3,24.9,3.9,66.0,4.4,12296.0,13.0
+STU0323,19,Arts & Humanities,3,Pune,Shared Apartment,Yes,Yes,Good,Home,13.8,7.8,4.1,1,28.9,5.6,68.5,4.2,7278.0,8.7
+STU0324,22,Arts & Humanities,4,Bengaluru,Hostel,No,No,Good,Home,12.7,6.8,4.0,7,19.9,3.6,81.3,3.5,4788.0,10.5
+STU0325,20,Business,1,Jammu,Home,No,No,Good,Home,26.4,6.9,3.9,6,26.6,3.7,80.2,5.0,2820.0,8.5
+STU0326,19,Arts & Humanities,2,Chandigarh,Shared Apartment,Yes,No,Good,Home,23.1,7.7,2.4,3,3.0,3.3,83.4,4.1,5483.0,10.3
+STU0327,21,Life Sciences,1,Chandigarh,Home,Yes,Yes,Average,Department Lab,14.1,6.9,2.7,3,43.3,4.0,70.3,3.7,3583.0,10.1
+STU0328,20,Business,2,Delhi,Home,Yes,No,Good,Library,21.2,7.6,2.9,4,24.9,2.6,71.1,4.6,4381.0,10.7
+STU0329,21,Engineering,3,Pune,PG,Yes,No,Good,Home,15.1,7.8,3.3,4,20.6,1.7,70.7,4.9,8641.0,4.7
+STU0330,22,Data Science,4,Bengaluru,Hostel,No,No,Excellent,Library,17.1,7.5,2.2,1,13.4,3.4,63.2,4.4,6071.0,6.1
+STU0331,22,Business,3,Chandigarh,Hostel,Yes,No,Good,Department Lab,25.1,5.9,2.8,6,8.1,3.9,74.2,4.2,6077.0,9.2
+STU0332,21,Business,4,Delhi,Hostel,No,No,Good,Library,16.9,7.7,3.8,4,8.5,4.9,85.5,3.9,8026.0,2.5
+STU0333,21,Life Sciences,1,Bengaluru,Home,Yes,No,Poor,Café,12.9,6.9,11.3,0,38.2,9.0,69.6,3.0,2350.0,7.3
+STU0334,20,Life Sciences,4,Srinagar,Shared Apartment,No,No,Average,Home,22.5,8.2,3.4,4,31.3,2.3,81.2,4.1,6340.0,7.9
+STU0335,21,Engineering,4,Delhi,Shared Apartment,Yes,Yes,Good,Department Lab,13.4,7.0,3.1,3,12.9,5.2,68.7,3.7,6707.0,8.5
+STU0336,18,Business,2,Hyderabad,Shared Apartment,No,No,Average,Home,14.8,6.6,2.8,5,32.3,5.7,56.9,4.4,5404.0,6.9
+STU0337,20,Engineering,2,Jammu,Shared Apartment,No,No,Good,Home,12.7,7.5,6.1,5,12.5,3.8,58.7,4.8,7409.0,9.0
+STU0338,20,Business,2,Hyderabad,Hostel,No,Yes,Good,Home,14.6,7.2,2.2,5,15.0,3.3,78.8,4.8,18038.0,11.9
+STU0339,23,Business,3,Pune,Hostel,No,No,Good,Library,17.1,6.6,3.7,5,11.9,2.6,76.7,4.7,10991.0,15.0
+STU0340,23,Engineering,4,Bengaluru,Home,Yes,Yes,Good,Home,21.9,6.7,4.9,1,5.8,6.8,82.6,3.5,4155.0,9.9
+STU0341,21,Life Sciences,2,Bengaluru,Shared Apartment,Yes,No,Good,Home,20.6,6.8,2.5,0,44.7,5.1,75.3,3.8,8181.0,5.0
+STU0342,22,Data Science,2,Delhi,Shared Apartment,Yes,No,Good,Home,15.0,6.9,8.0,0,39.8,6.3,79.0,2.9,12089.0,8.9
+STU0343,20,Engineering,2,Pune,Shared Apartment,Yes,Yes,Average,Library,14.7,6.8,7.0,1,31.6,8.8,62.5,3.6,9138.0,10.5
+STU0344,18,Engineering,2,Bengaluru,PG,No,No,Average,Department Lab,20.1,6.6,3.6,4,35.0,4.6,78.3,4.5,5816.0,9.7
+STU0345,21,Engineering,4,Bengaluru,Home,No,Yes,Average,Café,7.4,7.2,5.2,2,43.3,7.2,69.3,3.8,1906.0,1.0
+STU0346,20,Engineering,2,Srinagar,Home,Yes,No,Average,Home,14.8,7.8,3.2,5,26.0,1.2,86.0,4.1,4435.0,12.0
+STU0347,20,Arts & Humanities,3,Delhi,Home,Yes,No,Poor,Library,13.1,6.7,3.2,4,29.6,5.4,69.0,3.9,5083.0,7.4
+STU0348,20,Engineering,2,Mumbai,Hostel,Yes,No,Excellent,Library,19.1,7.8,3.7,2,12.8,4.6,70.4,3.9,8970.0,4.0
+STU0349,24,Arts & Humanities,3,Mumbai,Hostel,No,No,Excellent,Home,23.6,6.8,3.8,2,3.0,4.3,76.4,4.5,10700.0,7.1
+STU0350,23,Business,3,Chandigarh,Home,No,No,Good,Home,18.2,6.6,7.0,2,6.4,4.4,65.3,3.3,5013.0,7.5
+STU0351,20,Life Sciences,2,Mumbai,Hostel,No,Yes,Good,Café,18.8,7.7,3.5,2,20.1,4.1,92.1,4.7,4991.0,9.5
+STU0352,21,Business,1,Chandigarh,PG,No,No,Excellent,Department Lab,18.0,7.3,3.4,2,34.6,3.5,84.9,4.3,7803.0,8.5
+STU0353,24,Arts & Humanities,4,Pune,Shared Apartment,Yes,Yes,Good,Home,11.3,6.9,5.1,4,12.5,2.6,61.8,3.8,4110.0,3.8
+STU0354,21,Engineering,2,Mumbai,Shared Apartment,No,No,Excellent,Home,10.8,6.3,4.7,5,19.8,4.9,94.8,4.4,13134.0,8.3
+STU0355,22,Engineering,1,Hyderabad,Hostel,No,No,Excellent,Department Lab,12.0,4.9,4.4,2,5.8,1.8,55.3,4.8,2683.0,2.9
+STU0356,17,Data Science,2,Hyderabad,Hostel,No,No,Excellent,Home,13.1,7.4,5.6,2,20.2,4.4,69.4,4.1,4703.0,4.3
+STU0357,20,Business,1,Jammu,Home,No,Yes,Good,Home,18.0,8.3,3.9,4,41.4,4.9,68.7,3.9,3429.0,10.8
+STU0358,20,Life Sciences,3,Bengaluru,Home,Yes,Yes,Good,Home,11.6,7.6,5.2,4,26.7,5.5,63.6,3.7,8941.0,6.4
+STU0359,19,Data Science,2,Srinagar,Shared Apartment,No,No,Good,Home,16.5,7.4,2.1,3,5.9,2.5,79.7,4.7,6374.0,7.7
+STU0360,25,Business,3,Jammu,Home,Yes,Yes,Good,Home,17.9,7.4,3.8,4,21.1,2.9,84.1,4.3,3819.0,4.9
+STU0361,21,Life Sciences,2,Jammu,PG,No,Yes,Good,Home,13.3,7.5,3.0,3,43.6,5.6,63.8,4.1,12019.0,2.8
+STU0362,22,Arts & Humanities,3,Jammu,Shared Apartment,Yes,Yes,Good,Department Lab,21.1,6.5,7.4,1,34.1,8.2,73.3,4.1,6025.0,9.5
+STU0363,21,Engineering,4,Jammu,PG,Yes,Yes,Good,Department Lab,15.1,7.0,3.3,3,32.7,7.3,73.7,4.4,7986.0,7.4
+STU0364,21,Data Science,3,Srinagar,Hostel,No,Yes,Good,Home,14.4,7.6,3.0,1,9.3,4.2,67.2,4.5,2449.0,9.3
+STU0365,19,Data Science,1,Bengaluru,Home,No,No,Good,Home,8.0,7.4,4.5,5,32.5,3.0,68.2,4.1,3365.0,11.3
+STU0366,21,Life Sciences,3,Pune,Hostel,No,No,Good,Home,14.1,7.3,3.5,4,10.7,2.2,82.9,4.4,6573.0,13.6
+STU0367,18,Engineering,2,Mumbai,PG,No,No,Excellent,Home,21.3,5.0,5.1,7,35.7,3.6,67.6,4.6,4620.0,8.6
+STU0368,22,Arts & Humanities,4,Delhi,Shared Apartment,No,Yes,Good,Home,8.8,7.4,3.8,5,31.9,2.7,51.9,4.3,4451.0,11.2
+STU0369,24,Business,4,Mumbai,PG,Yes,No,Good,Department Lab,20.3,6.3,2.6,4,13.9,3.6,63.3,4.0,11126.0,7.7
+STU0370,22,Data Science,3,Hyderabad,Hostel,No,No,Good,Home,6.1,7.4,6.5,7,20.1,3.3,61.3,4.9,2608.0,13.7
+STU0371,25,Engineering,2,Jammu,Shared Apartment,No,No,Poor,Home,6.3,7.0,2.5,4,20.7,5.1,49.0,3.5,13946.0,7.3
+STU0372,22,Life Sciences,1,Mumbai,Home,Yes,No,Good,Library,19.7,6.7,4.0,0,41.3,7.5,71.3,3.4,8969.0,9.6
+STU0373,24,Life Sciences,3,Jammu,Hostel,Yes,Yes,Good,Home,11.7,6.4,3.1,1,6.1,6.0,69.9,4.4,5825.0,11.5
+STU0374,22,Business,4,Chandigarh,Home,Yes,Yes,Good,Home,8.7,6.5,4.1,5,37.9,6.1,65.9,3.3,5377.0,4.8
+STU0375,24,Data Science,2,Srinagar,Shared Apartment,No,Yes,Average,Library,13.7,6.2,5.1,4,72.5,6.6,71.2,3.9,11784.0,12.4
+STU0376,19,Engineering,4,Delhi,Home,No,No,Average,Home,21.8,7.2,5.1,4,41.6,4.3,88.1,3.6,3102.0,9.3
+STU0377,21,Arts & Humanities,2,Chandigarh,PG,No,No,Good,Home,16.1,7.2,2.3,7,33.2,3.9,62.4,5.0,6885.0,14.4
+STU0378,23,Engineering,1,Hyderabad,Hostel,Yes,No,Good,Department Lab,19.4,7.6,9.1,4,10.0,6.1,85.1,3.8,3535.0,7.4
+STU0379,22,Data Science,2,Mumbai,Hostel,Yes,Yes,Poor,Home,14.4,5.7,4.3,2,13.5,7.8,53.0,3.4,5861.0,2.5
+STU0380,22,Life Sciences,2,Bengaluru,Hostel,Yes,No,Good,Home,11.2,7.4,3.2,4,14.9,3.5,80.4,4.2,6930.0,17.7
+STU0381,21,Data Science,2,Chandigarh,Home,Yes,Yes,Good,Home,15.3,7.0,3.6,3,18.8,3.8,69.6,3.6,2973.0,13.3
+STU0382,22,Engineering,2,Delhi,Hostel,No,No,Good,Home,4.0,5.8,2.1,1,4.0,3.3,64.2,3.2,5704.0,4.1
+STU0383,18,Engineering,1,Delhi,Home,No,No,Poor,Home,17.7,7.0,6.3,6,31.9,4.4,72.9,4.0,3029.0,8.4
+STU0384,23,Business,4,Hyderabad,Hostel,No,No,Average,Department Lab,16.1,6.7,5.9,4,17.8,5.1,71.8,4.1,5009.0,8.7
+STU0385,24,Engineering,3,Hyderabad,PG,Yes,No,Good,Home,9.9,9.3,6.4,5,50.8,4.2,67.4,4.2,7970.0,5.1
+STU0386,20,Data Science,3,Hyderabad,Shared Apartment,No,No,Poor,Home,11.2,8.0,6.3,2,31.0,3.7,68.9,3.9,4771.0,6.8
+STU0387,17,Arts & Humanities,2,Bengaluru,Home,No,No,Good,Department Lab,7.9,7.0,4.1,5,29.1,5.6,48.0,4.3,3151.0,11.4
+STU0388,24,Data Science,1,Srinagar,Home,No,No,Average,Home,24.0,6.8,2.2,2,24.2,4.3,86.1,3.9,5371.0,10.4
+STU0389,21,Data Science,2,Hyderabad,Hostel,Yes,No,Excellent,Home,18.8,6.8,3.5,2,16.4,5.7,70.9,4.4,5796.0,6.4
+STU0390,22,Data Science,3,Delhi,PG,No,No,Good,Library,18.6,9.0,3.7,3,39.0,2.8,82.3,4.0,5357.0,7.2
+STU0391,20,Arts & Humanities,2,Delhi,PG,Yes,No,Good,Café,17.8,7.5,12.0,4,48.8,5.5,78.3,3.1,8115.0,7.7
+STU0392,24,Business,4,Delhi,Shared Apartment,No,No,Good,Home,19.7,7.9,5.0,3,46.5,5.5,80.0,4.2,10561.0,8.2
+STU0393,20,Life Sciences,1,Chandigarh,Home,Yes,No,Average,Department Lab,18.4,6.9,1.9,5,14.1,1.5,67.9,4.0,1831.0,8.9
+STU0394,19,Life Sciences,1,Delhi,Shared Apartment,Yes,No,Good,Home,13.1,6.6,8.3,3,44.3,9.0,55.6,4.1,14718.0,6.2
+STU0395,20,Life Sciences,4,Chandigarh,Shared Apartment,No,No,Good,Home,21.6,8.5,3.5,1,17.6,4.4,86.4,4.4,9522.0,12.2
+STU0396,21,Engineering,4,Chandigarh,Home,No,No,Excellent,Home,16.6,7.8,5.0,1,9.2,3.6,73.6,3.6,5627.0,9.5
+STU0397,23,Data Science,2,Jammu,Hostel,Yes,No,Average,Home,12.3,7.3,3.1,5,6.4,2.8,66.4,4.1,4032.0,7.2
+STU0398,22,Arts & Humanities,3,Bengaluru,Hostel,Yes,Yes,Average,Home,11.6,7.6,4.7,1,118.0,7.0,52.9,4.6,3630.0,6.5
+STU0399,22,Arts & Humanities,3,Delhi,Hostel,No,Yes,Excellent,Home,11.1,7.4,4.8,2,7.7,5.3,65.7,3.8,2959.0,3.2
+STU0400,23,Engineering,2,Pune,Shared Apartment,No,No,Good,Home,21.5,7.0,4.7,3,24.2,1.3,81.8,4.2,8263.0,1.5
+STU0401,24,Arts & Humanities,3,Jammu,Home,No,Yes,Good,Library,14.8,6.5,2.8,6,23.0,4.7,68.8,4.4,5509.0,9.1
+STU0402,22,Arts & Humanities,2,Pune,PG,No,No,Average,Home,15.5,8.1,5.6,4,36.1,3.1,74.4,3.2,3871.0,6.6
+STU0403,19,Data Science,1,Delhi,Home,Yes,No,Excellent,Department Lab,17.2,6.5,6.7,0,23.2,4.6,74.0,4.4,9890.0,6.3
+STU0404,18,Data Science,3,Pune,Hostel,Yes,Yes,Average,Café,12.9,6.8,5.2,1,4.4,7.6,71.4,4.0,4361.0,9.8
+STU0405,20,Data Science,4,Delhi,Home,Yes,No,Average,Home,18.0,7.0,2.9,3,21.5,5.0,72.1,3.9,6327.0,3.2
+STU0406,20,Data Science,1,Delhi,Hostel,No,No,Average,Café,16.0,7.8,5.0,2,14.0,4.0,88.0,4.2,8664.0,11.3
+STU0407,23,Data Science,2,Hyderabad,PG,No,No,Good,Library,24.1,6.8,4.8,4,39.2,5.7,83.2,2.8,9722.0,11.8
+STU0408,22,Engineering,4,Pune,Home,No,No,Good,Library,16.5,5.6,10.4,4,22.9,6.0,64.0,3.7,3734.0,13.3
+STU0409,21,Arts & Humanities,1,Pune,Home,No,No,Poor,Home,15.1,5.9,5.3,0,17.9,4.0,70.7,3.7,5143.0,11.7
+STU0410,17,Life Sciences,3,Bengaluru,Hostel,No,No,Good,Library,17.5,5.1,2.7,3,12.9,3.3,78.8,4.0,9582.0,7.3
+STU0411,21,Data Science,1,Srinagar,Home,No,No,Excellent,Home,15.2,7.5,4.4,4,17.2,2.6,79.3,4.1,1992.0,5.3
+STU0412,21,Business,4,Chandigarh,Home,Yes,No,Average,Home,12.5,7.1,4.8,0,32.0,5.6,67.0,2.8,4576.0,8.2
+STU0413,20,Engineering,3,Delhi,PG,No,No,Good,Department Lab,18.5,8.3,4.3,1,18.1,1.0,88.6,4.7,11006.0,3.3
+STU0414,22,Business,3,Chandigarh,PG,No,No,Average,Library,15.2,7.5,1.9,5,25.5,4.1,73.4,3.6,10726.0,8.2
+STU0415,21,Engineering,1,Delhi,Shared Apartment,No,No,Average,Home,21.9,8.5,4.8,2,26.6,3.6,66.5,4.3,5713.0,8.8
+STU0416,21,Arts & Humanities,4,Delhi,Home,No,No,Good,Café,10.0,7.5,2.6,1,31.8,5.9,62.1,4.4,3438.0,8.1
+STU0417,18,Data Science,1,Chandigarh,Hostel,No,Yes,Good,Home,7.0,5.3,4.3,4,15.5,2.9,72.1,4.4,4105.0,6.8
+STU0418,22,Life Sciences,4,Bengaluru,Hostel,No,No,Good,Library,16.9,5.6,4.0,5,18.8,3.0,82.1,3.7,5091.0,6.6
+STU0419,22,Engineering,2,Delhi,Home,No,Yes,Good,Home,14.7,7.8,4.8,0,15.6,6.8,68.3,3.3,3814.0,5.4
+STU0420,21,Life Sciences,3,Delhi,Hostel,No,No,Average,Department Lab,17.9,7.5,5.2,4,8.7,4.1,69.3,4.1,11113.0,12.5
+STU0421,20,Business,1,Pune,Home,No,Yes,Good,Library,16.7,8.3,2.1,6,34.7,2.5,71.4,4.7,5259.0,11.6
+STU0422,22,Business,1,Srinagar,PG,Yes,No,Excellent,Home,13.6,6.6,7.2,2,11.1,3.8,77.9,3.9,7174.0,8.1
+STU0423,19,Life Sciences,2,Jammu,Hostel,No,No,Good,Home,14.8,7.8,3.4,3,7.3,4.9,78.0,3.9,10802.0,7.8
+STU0424,20,Business,3,Chandigarh,Home,No,No,Average,Library,12.5,7.5,2.6,4,8.3,1.4,77.0,4.7,5267.0,16.5
+STU0425,20,Engineering,2,Chandigarh,Hostel,Yes,No,Good,Department Lab,13.6,6.7,6.2,5,3.0,3.7,75.6,4.6,9015.0,8.6
+STU0426,21,Engineering,3,Srinagar,Hostel,Yes,No,Average,Home,15.4,7.1,5.7,5,3.0,2.8,78.9,4.4,7849.0,10.7
+STU0427,22,Data Science,4,Chandigarh,Shared Apartment,Yes,No,Good,Department Lab,17.4,6.7,9.2,1,9.5,5.1,74.5,3.5,12386.0,11.6
+STU0428,17,Engineering,3,Chandigarh,PG,No,No,Excellent,Home,12.5,5.1,5.4,0,47.2,6.9,62.2,4.2,4502.0,8.4
+STU0429,19,Data Science,1,Delhi,Home,No,Yes,Good,Home,16.4,5.5,5.0,4,30.8,6.1,69.1,4.0,3644.0,7.5
+STU0430,20,Life Sciences,1,Pune,Shared Apartment,No,No,Average,Café,10.4,7.6,7.7,7,3.0,2.9,66.7,5.0,7065.0,10.0
+STU0431,19,Engineering,1,Delhi,PG,Yes,No,Average,Home,12.0,6.4,3.7,3,30.3,5.7,50.0,3.4,3590.0,7.8
+STU0432,21,Engineering,4,Mumbai,Shared Apartment,Yes,Yes,Good,Department Lab,26.4,7.7,4.7,2,29.0,6.6,86.9,3.2,14698.0,11.0
+STU0433,23,Business,2,Srinagar,Hostel,Yes,No,Good,Home,23.2,8.1,6.2,3,7.0,1.5,98.0,4.3,5890.0,3.9
+STU0434,23,Data Science,3,Hyderabad,Shared Apartment,No,Yes,Good,Home,14.0,6.9,5.3,3,47.0,7.5,71.1,3.2,7308.0,2.4
+STU0435,22,Engineering,3,Jammu,Hostel,No,No,Good,Home,14.6,5.5,11.0,2,10.0,8.3,71.3,4.3,5019.0,13.2
+STU0436,21,Engineering,4,Mumbai,Home,No,Yes,Good,Home,17.5,6.7,4.5,5,37.4,4.3,76.8,4.3,5370.0,6.2
+STU0437,20,Life Sciences,2,Srinagar,Home,Yes,No,Excellent,Home,17.1,6.1,4.1,1,33.0,5.7,76.8,3.7,4473.0,7.8
+STU0438,20,Arts & Humanities,2,Bengaluru,Home,No,No,Average,Library,11.7,6.9,5.0,3,37.3,5.9,67.4,3.9,5962.0,9.3
+STU0439,20,Engineering,3,Hyderabad,Shared Apartment,No,No,Average,Department Lab,17.2,5.5,3.6,5,25.2,3.0,75.3,4.6,6909.0,6.5
+STU0440,23,Business,2,Chandigarh,Home,No,No,Good,Library,17.2,6.6,6.2,3,19.4,4.8,81.6,3.9,6577.0,9.2
+STU0441,20,Business,4,Chandigarh,Home,No,No,Excellent,Home,26.0,6.9,5.4,2,15.8,2.6,77.6,4.0,5834.0,8.8
+STU0442,22,Business,1,Pune,Shared Apartment,No,No,Average,Home,13.5,8.0,6.4,3,27.9,1.8,72.3,4.5,4711.0,5.4
+STU0443,22,Life Sciences,2,Hyderabad,Hostel,Yes,No,Average,Home,19.8,7.3,2.9,3,16.5,2.9,68.3,4.8,2806.0,8.0
+STU0444,18,Data Science,1,Bengaluru,Home,No,Yes,Good,Home,15.9,7.3,5.8,3,30.7,7.1,65.2,4.3,3263.0,10.1
+STU0445,23,Data Science,4,Pune,PG,No,No,Average,Home,15.9,5.6,4.3,2,40.6,5.2,72.3,3.2,9743.0,11.7
+STU0446,23,Engineering,1,Bengaluru,Home,Yes,No,Good,Department Lab,14.5,6.3,4.2,6,13.7,3.8,75.3,3.9,2079.0,8.0
+STU0447,22,Business,3,Mumbai,Home,No,No,Good,Home,17.8,7.3,6.6,1,17.0,5.1,63.2,3.9,7117.0,9.6
+STU0448,22,Life Sciences,2,Bengaluru,Home,No,No,Average,Home,9.2,8.4,3.1,3,26.8,2.8,59.2,4.3,2560.0,5.4
+STU0449,21,Engineering,2,Srinagar,Hostel,No,No,Good,Café,19.5,7.4,6.7,2,23.7,4.2,81.9,3.6,3600.0,4.8
+STU0450,20,Business,3,Chandigarh,PG,Yes,Yes,Average,Home,14.4,7.5,3.0,4,12.4,3.7,84.6,3.8,4455.0,10.5
+STU0451,18,Data Science,1,Jammu,Home,No,No,Average,Library,13.3,6.7,2.7,5,23.3,2.1,70.5,3.7,3312.0,6.9
+STU0452,23,Arts & Humanities,4,Delhi,Home,Yes,Yes,Average,Home,13.5,6.8,2.5,0,38.5,7.2,77.5,3.5,6626.0,1.6
+STU0453,21,Life Sciences,2,Srinagar,Home,No,Yes,Excellent,Café,14.2,5.1,3.3,1,18.1,7.3,50.3,4.1,5248.0,12.3
+STU0454,20,Data Science,4,Hyderabad,Home,Yes,Yes,Average,Department Lab,19.4,6.2,4.2,5,17.1,4.2,77.2,4.4,4873.0,8.2
+STU0455,23,Engineering,3,Mumbai,Hostel,No,No,Good,Home,15.0,8.1,6.3,2,7.4,2.9,81.9,4.1,5441.0,11.3
+STU0456,21,Business,4,Jammu,PG,No,No,Average,Library,13.6,6.0,3.0,1,3.0,5.1,64.9,3.7,13697.0,7.0
+STU0457,22,Arts & Humanities,3,Bengaluru,Home,No,Yes,Good,Library,6.7,7.0,2.9,4,20.4,7.2,44.6,3.7,3340.0,9.7
+STU0458,18,Engineering,1,Delhi,Hostel,Yes,No,Good,Home,14.7,7.1,4.4,2,6.6,3.7,66.6,3.8,5944.0,1.0
+STU0459,19,Business,1,Mumbai,Home,Yes,No,Good,Library,15.3,6.7,4.8,2,21.8,4.5,62.4,3.5,4515.0,7.7
+STU0460,21,Life Sciences,2,Pune,PG,No,No,Excellent,Department Lab,17.8,6.8,7.7,1,17.4,6.5,62.6,3.8,4154.0,7.2
+STU0461,23,Business,2,Chandigarh,Home,No,No,Average,Home,27.2,6.5,6.6,3,28.0,5.4,83.1,4.2,2767.0,11.2
+STU0462,19,Data Science,1,Pune,Shared Apartment,Yes,No,Average,Home,20.1,6.6,5.8,4,28.4,3.9,63.3,3.4,3903.0,7.2
+STU0463,18,Data Science,4,Jammu,Home,Yes,No,Poor,Library,19.5,8.0,2.1,2,17.7,3.0,82.3,4.0,8872.0,9.5
+STU0464,20,Data Science,3,Srinagar,Hostel,No,Yes,Good,Library,20.7,6.9,2.2,6,9.0,5.7,70.4,4.3,4734.0,14.2
+STU0465,22,Business,1,Pune,Hostel,No,No,Good,Library,21.5,6.1,2.6,1,12.9,3.8,85.6,4.4,5773.0,13.1
+STU0466,24,Business,4,Hyderabad,Hostel,No,No,Good,Home,19.2,7.0,3.2,3,14.5,2.6,69.9,3.9,3585.0,13.5
+STU0467,21,Life Sciences,3,Mumbai,PG,No,No,Good,Home,16.3,6.7,2.3,2,50.5,5.9,60.1,4.4,5564.0,4.8
+STU0468,21,Data Science,2,Mumbai,Hostel,No,Yes,Excellent,Library,14.6,7.0,4.4,4,13.6,4.9,60.3,4.3,4612.0,7.3
+STU0469,25,Arts & Humanities,4,Chandigarh,Home,No,No,Good,Home,16.6,8.3,6.2,3,14.6,2.8,85.6,4.6,6173.0,9.2
+STU0470,20,Arts & Humanities,2,Bengaluru,Home,No,No,Good,Home,15.4,7.9,4.0,3,18.5,3.0,69.0,5.0,9491.0,11.7
+STU0471,23,Data Science,3,Jammu,Home,No,Yes,Good,Department Lab,10.5,6.6,4.1,6,15.2,6.9,77.5,4.4,5589.0,8.4
+STU0472,21,Arts & Humanities,1,Delhi,Home,Yes,No,Average,Home,11.7,5.1,2.3,3,42.5,1.6,75.9,4.1,5522.0,8.4
+STU0473,21,Arts & Humanities,1,Delhi,Home,No,Yes,Excellent,Library,12.8,7.1,8.7,4,21.4,7.4,74.0,4.2,5343.0,9.0
+STU0474,22,Data Science,2,Delhi,Hostel,Yes,No,Good,Home,18.0,7.0,2.4,4,18.7,1.7,71.4,4.3,4022.0,15.0
+STU0475,24,Data Science,1,Mumbai,Shared Apartment,No,No,Good,Home,23.4,7.5,7.2,6,24.8,1.9,52.8,5.0,9359.0,8.3
+STU0476,22,Business,1,Hyderabad,Hostel,Yes,No,Average,Home,23.7,7.6,3.2,2,10.2,3.4,86.8,4.6,3554.0,3.5
+STU0477,20,Arts & Humanities,2,Chandigarh,Shared Apartment,No,No,Good,Library,19.8,7.7,3.6,1,19.7,4.8,72.9,4.7,6471.0,10.6
+STU0478,20,Business,1,Delhi,Shared Apartment,Yes,Yes,Poor,Library,9.5,7.2,2.9,2,34.6,5.0,59.5,4.0,5552.0,5.8
+STU0479,21,Arts & Humanities,4,Srinagar,Home,No,No,Excellent,Library,19.8,7.9,3.4,1,41.8,4.9,77.6,3.9,3001.0,15.8
+STU0480,22,Life Sciences,4,Jammu,Home,Yes,No,Average,Department Lab,25.6,5.8,4.6,5,21.2,4.7,84.4,3.8,7032.0,15.6
+STU0481,22,Business,4,Mumbai,Hostel,No,Yes,Average,Library,18.1,6.2,2.2,4,5.5,5.7,60.6,3.9,4956.0,7.0
+STU0482,18,Business,1,Chandigarh,PG,No,No,Excellent,Café,15.2,8.4,4.2,6,36.4,2.1,95.2,4.9,7240.0,9.1
+STU0483,20,Arts & Humanities,3,Bengaluru,Home,No,No,Good,Department Lab,17.9,6.9,2.4,3,18.1,5.3,63.8,3.2,6671.0,3.8
+STU0484,21,Data Science,3,Hyderabad,Hostel,No,No,Excellent,Library,14.1,7.9,4.2,2,18.2,2.1,78.1,4.7,4535.0,10.0
+STU0485,19,Arts & Humanities,2,Jammu,Home,No,Yes,Average,Department Lab,17.1,6.9,4.8,1,22.5,6.1,72.0,3.9,6321.0,13.2
+STU0486,22,Life Sciences,1,Hyderabad,Hostel,No,No,Average,Library,20.8,5.4,7.6,3,18.3,4.0,64.2,3.9,3457.0,14.3
+STU0487,21,Arts & Humanities,1,Pune,Hostel,Yes,Yes,Average,Department Lab,6.1,7.0,5.8,2,14.0,5.8,65.4,3.3,2585.0,6.1
+STU0488,20,Engineering,1,Hyderabad,Home,No,No,Excellent,Home,20.7,6.4,5.8,5,34.2,2.9,64.1,5.0,8157.0,5.7
+STU0489,19,Data Science,1,Mumbai,Home,No,No,Excellent,Library,15.1,8.4,3.7,3,34.1,2.2,64.6,4.6,5209.0,12.7
+STU0490,19,Business,2,Srinagar,PG,No,No,Average,Library,21.1,7.9,4.2,5,44.1,3.7,64.6,4.0,10014.0,8.1
+STU0491,19,Data Science,1,Hyderabad,Hostel,Yes,Yes,Good,Department Lab,9.8,5.0,4.2,3,21.4,4.3,64.1,3.6,7732.0,4.8
+STU0492,19,Data Science,3,Chandigarh,Home,No,Yes,Good,Home,13.4,6.9,5.8,1,27.1,6.5,69.4,3.6,5647.0,8.3
+STU0493,21,Data Science,4,Delhi,PG,Yes,No,Average,Home,15.9,8.2,5.1,6,21.5,2.2,78.5,5.0,8211.0,4.0
+STU0494,19,Arts & Humanities,1,Jammu,PG,No,No,Excellent,Library,21.1,7.8,4.4,7,18.9,2.4,73.1,5.0,7783.0,12.2
+STU0495,21,Business,2,Mumbai,Shared Apartment,No,No,Excellent,Home,13.7,7.8,4.1,4,22.4,2.6,85.3,4.8,7280.0,7.1
+STU0496,20,Engineering,1,Hyderabad,Home,No,No,Average,Home,18.9,5.8,2.1,2,57.9,7.7,82.0,3.3,5074.0,7.1
+STU0497,22,Business,2,Srinagar,Hostel,No,No,Good,Library,21.5,6.8,3.2,3,12.9,3.1,85.0,4.2,4935.0,10.6
+STU0498,19,Arts & Humanities,1,Hyderabad,Hostel,No,No,Excellent,Library,15.6,7.4,7.5,5,12.8,4.7,71.1,4.2,4028.0,5.7
+STU0499,21,Engineering,1,Mumbai,Home,No,Yes,Average,Library,9.9,6.2,4.4,2,20.2,6.0,76.3,3.1,3931.0,10.5
+STU0500,21,Arts & Humanities,1,Mumbai,Home,No,No,Good,Home,15.3,7.4,3.1,3,14.2,5.0,74.5,4.3,6501.0,10.9
+STU0501,19,Engineering,2,Jammu,PG,No,No,Excellent,Café,15.7,6.1,3.3,0,10.5,5.9,72.1,4.5,12284.0,4.9
+STU0502,19,Engineering,2,Pune,Home,No,Yes,Poor,Library,15.6,8.0,6.2,7,26.9,5.3,72.3,3.6,4172.0,9.1
+STU0503,21,Life Sciences,1,Pune,Shared Apartment,Yes,No,Excellent,Library,13.6,5.5,3.5,2,16.9,6.0,81.1,3.7,7702.0,13.8
+STU0504,21,Data Science,1,Hyderabad,Shared Apartment,No,No,Good,Home,20.9,6.9,4.5,3,26.2,4.9,74.0,4.2,5301.0,11.7
+STU0505,22,Data Science,2,Delhi,Home,No,No,Average,Café,14.3,7.2,1.9,5,14.3,2.3,75.4,4.6,4878.0,7.6
+STU0506,23,Arts & Humanities,3,Hyderabad,Home,Yes,No,Good,Home,18.7,7.2,3.5,3,40.0,4.7,81.2,4.7,3654.0,9.6
+STU0507,21,Engineering,4,Hyderabad,Shared Apartment,No,Yes,Average,Home,17.6,8.8,4.5,1,48.1,5.9,69.9,3.3,8535.0,8.0
+STU0508,19,Business,4,Delhi,PG,No,No,Poor,Café,21.5,5.5,6.6,7,48.6,6.3,76.5,4.2,5764.0,9.1
+STU0509,21,Engineering,2,Pune,Hostel,No,No,Average,Home,15.9,7.0,5.7,7,13.0,3.4,71.5,4.0,3405.0,9.8
+STU0510,23,Data Science,4,Pune,PG,No,No,Good,Department Lab,19.2,6.3,4.3,2,46.9,4.4,83.8,4.0,7037.0,7.1
+STU0511,20,Arts & Humanities,3,Bengaluru,Home,No,No,Average,Home,17.0,8.5,2.8,3,38.5,2.7,70.4,4.0,2809.0,7.9
+STU0512,20,Engineering,2,Chandigarh,PG,Yes,No,Good,Library,22.1,8.1,4.3,0,16.1,5.8,79.0,4.3,11423.0,14.9
+STU0513,21,Engineering,4,Srinagar,Hostel,Yes,Yes,Good,Department Lab,34.0,6.2,3.4,6,10.5,4.1,87.8,4.5,3088.0,5.2
+STU0514,20,Engineering,3,Hyderabad,Hostel,Yes,Yes,Average,Library,13.1,7.7,7.1,2,12.4,7.1,57.5,3.5,3410.0,7.0
+STU0515,21,Business,3,Srinagar,Home,No,Yes,Good,Department Lab,17.0,8.1,3.2,0,31.5,4.6,80.8,3.4,6021.0,12.9
+STU0516,20,Arts & Humanities,3,Chandigarh,Home,No,No,Average,Department Lab,10.1,6.7,3.7,0,25.7,5.7,72.3,3.0,5521.0,9.4
+STU0517,18,Data Science,2,Hyderabad,Shared Apartment,No,No,Average,Library,21.4,7.2,11.1,1,11.5,7.6,78.8,3.4,14097.0,5.3
+STU0518,21,Engineering,2,Pune,Shared Apartment,No,No,Good,Department Lab,13.3,6.5,4.8,3,51.4,5.4,67.8,3.9,8078.0,6.3
+STU0519,18,Life Sciences,3,Mumbai,Hostel,Yes,No,Good,Home,15.0,8.0,5.5,1,15.2,4.1,75.1,4.6,3551.0,8.2
+STU0520,20,Arts & Humanities,2,Bengaluru,Home,Yes,No,Average,Library,22.9,7.6,4.5,1,19.5,4.2,89.8,3.4,9974.0,9.2
+STU0521,19,Engineering,1,Mumbai,Hostel,No,No,Excellent,Home,19.2,5.6,6.1,2,18.7,3.4,77.0,4.8,23782.0,12.4
+STU0522,19,Data Science,3,Mumbai,Home,No,No,Good,Home,16.0,6.2,4.0,7,13.8,1.9,73.6,4.0,2200.0,10.5
+STU0523,23,Engineering,4,Pune,Shared Apartment,No,No,Good,Café,20.0,6.2,5.3,5,21.3,3.7,74.5,4.8,2816.0,10.0
+STU0524,19,Arts & Humanities,2,Srinagar,Hostel,No,Yes,Good,Library,10.7,6.8,3.4,1,18.1,7.9,52.2,4.1,7983.0,8.8
+STU0525,17,Business,3,Mumbai,Shared Apartment,No,No,Excellent,Home,19.5,7.0,5.1,7,38.2,2.0,90.1,4.9,8372.0,10.5
+STU0526,20,Arts & Humanities,1,Hyderabad,Hostel,Yes,No,Excellent,Home,13.1,6.7,1.9,1,10.5,3.8,70.3,3.8,3292.0,7.2
+STU0527,23,Engineering,4,Mumbai,Home,No,Yes,Good,Library,11.3,5.8,4.1,5,23.8,4.2,70.3,4.2,3191.0,6.6
+STU0528,21,Data Science,4,Mumbai,Hostel,No,No,Good,Café,20.4,6.5,2.3,6,16.9,4.7,67.3,4.1,2727.0,5.5
+STU0529,21,Life Sciences,2,Delhi,Home,No,No,Excellent,Department Lab,15.1,7.7,7.3,3,26.8,3.8,76.4,4.4,3209.0,6.1
+STU0530,24,Business,3,Pune,Home,No,No,Good,Home,15.5,6.7,3.4,4,22.0,2.7,68.9,4.4,3395.0,4.6
+STU0531,20,Data Science,2,Srinagar,Hostel,No,No,Good,Home,14.4,7.7,4.9,2,11.9,2.4,80.7,4.3,5995.0,16.7
+STU0532,23,Engineering,1,Pune,PG,No,No,Poor,Home,17.6,7.6,3.7,0,26.7,3.4,79.8,3.7,11847.0,18.3
+STU0533,22,Engineering,2,Srinagar,Hostel,No,Yes,Excellent,Department Lab,17.2,6.4,9.3,0,14.1,8.4,76.8,3.2,7569.0,6.7
+STU0534,19,Engineering,1,Srinagar,Shared Apartment,No,No,Average,Home,22.6,8.3,2.5,7,8.8,3.8,83.7,4.5,10366.0,3.4
+STU0535,21,Engineering,4,Pune,Home,No,Yes,Excellent,Library,15.6,7.8,4.5,7,26.7,3.2,65.9,4.4,3914.0,16.0
+STU0536,19,Engineering,2,Srinagar,Hostel,Yes,Yes,Average,Home,12.6,6.1,9.0,5,13.1,5.3,56.1,4.4,6850.0,9.7
+STU0537,21,Engineering,2,Mumbai,PG,No,No,Excellent,Department Lab,14.6,8.3,2.5,2,27.0,1.6,76.8,4.2,17349.0,4.9
+STU0538,18,Business,3,Delhi,PG,No,No,Average,Library,11.9,9.1,2.8,4,27.3,3.1,64.1,4.7,5130.0,6.8
+STU0539,17,Engineering,1,Srinagar,Shared Apartment,No,No,Poor,Library,12.8,6.9,2.3,4,35.6,5.4,61.4,3.8,8568.0,14.4
+STU0540,25,Life Sciences,4,Delhi,Home,No,No,Good,Department Lab,12.7,7.3,6.5,1,19.4,4.9,70.6,3.8,5015.0,13.0
+STU0541,21,Arts & Humanities,2,Pune,Home,No,No,Poor,Home,16.8,6.4,4.9,1,38.0,6.0,79.5,3.5,6796.0,11.0
+STU0542,18,Life Sciences,2,Mumbai,Home,Yes,No,Excellent,Home,17.8,7.0,3.8,0,17.1,4.9,62.6,4.3,7186.0,10.1
+STU0543,19,Arts & Humanities,3,Mumbai,Shared Apartment,No,Yes,Excellent,Home,4.3,6.0,3.9,7,22.3,4.0,41.9,4.0,6257.0,11.3
+STU0544,22,Data Science,3,Srinagar,Shared Apartment,No,No,Average,Department Lab,18.8,7.0,6.1,2,26.5,5.1,68.0,3.7,9380.0,11.9
+STU0545,22,Engineering,3,Jammu,PG,No,No,Good,Home,17.0,7.1,4.8,1,34.7,5.9,70.0,3.8,7316.0,7.5
+STU0546,19,Business,2,Bengaluru,Home,No,No,Good,Library,13.6,7.6,4.0,4,22.3,4.1,72.0,4.4,5779.0,9.2
+STU0547,20,Arts & Humanities,4,Srinagar,Home,No,Yes,Good,Department Lab,18.1,6.1,3.5,0,33.1,5.8,76.5,3.5,6185.0,8.1
+STU0548,23,Arts & Humanities,4,Delhi,Home,No,No,Good,Department Lab,16.2,7.0,6.8,3,29.5,4.0,73.6,3.7,6285.0,13.3
+STU0549,19,Data Science,1,Bengaluru,Hostel,No,Yes,Average,Home,13.1,5.9,2.6,1,10.1,5.4,68.3,4.1,4360.0,4.2
+STU0550,22,Engineering,3,Chandigarh,PG,No,No,Good,Home,13.1,6.4,2.9,5,37.3,5.0,57.2,4.0,4949.0,7.8
+STU0551,19,Life Sciences,3,Jammu,Home,No,No,Good,Department Lab,15.4,7.2,3.5,2,18.7,2.8,66.7,4.5,6619.0,7.4
+STU0552,20,Engineering,2,Pune,Home,Yes,No,Poor,Department Lab,23.5,7.1,4.7,4,40.3,3.5,79.7,2.9,3874.0,10.6
+STU0553,21,Engineering,2,Srinagar,Home,No,Yes,Average,Home,14.7,6.1,3.0,3,13.0,5.1,76.5,4.5,3584.0,11.8
+STU0554,20,Data Science,4,Srinagar,Home,No,Yes,Poor,Library,13.6,7.9,2.2,0,23.1,4.7,72.1,3.9,4314.0,10.8
+STU0555,18,Business,1,Bengaluru,Home,No,No,Excellent,Home,14.0,7.1,3.7,6,30.3,2.0,75.4,4.7,2462.0,5.4
+STU0556,19,Life Sciences,1,Hyderabad,Hostel,No,No,Poor,Home,8.7,7.1,3.7,2,15.9,3.5,75.2,4.1,6041.0,5.4
+STU0557,23,Business,3,Delhi,Shared Apartment,No,No,Average,Department Lab,18.5,6.2,6.3,2,23.7,5.4,68.9,4.3,10325.0,6.8
+STU0558,22,Life Sciences,4,Srinagar,Home,No,No,Poor,Department Lab,17.1,6.2,3.6,5,23.7,2.6,71.5,3.3,5238.0,4.8
+STU0559,21,Data Science,3,Pune,PG,No,Yes,Average,Home,14.4,7.7,2.1,5,39.7,4.4,61.2,4.8,8145.0,1.7
+STU0560,24,Engineering,3,Srinagar,Hostel,Yes,No,Good,Home,19.5,7.0,12.0,2,18.4,6.4,87.5,3.9,6315.0,12.2
+STU0561,18,Life Sciences,3,Bengaluru,Hostel,No,No,Good,Home,12.0,7.1,3.6,7,15.0,1.0,60.8,5.0,7620.0,8.1
+STU0562,19,Data Science,4,Pune,Home,Yes,Yes,Excellent,Home,25.9,6.2,1.6,0,30.9,6.8,78.0,4.6,5809.0,11.7
+STU0563,24,Engineering,2,Srinagar,Shared Apartment,No,No,Average,Home,16.3,6.0,4.0,4,33.9,3.5,71.4,5.0,7086.0,4.7
+STU0564,20,Business,1,Jammu,Shared Apartment,Yes,No,Good,Department Lab,17.4,7.1,4.2,3,27.2,2.2,63.0,4.4,9491.0,7.6
+STU0565,23,Business,3,Delhi,Hostel,No,No,Good,Home,11.1,6.1,3.3,1,7.8,3.6,67.5,3.5,9126.0,15.4
+STU0566,22,Engineering,3,Bengaluru,Hostel,No,No,Average,Café,21.4,6.5,3.8,0,16.5,4.0,88.9,4.4,9563.0,13.1
+STU0567,24,Data Science,4,Bengaluru,Shared Apartment,No,No,Good,Home,20.5,7.8,5.2,2,36.6,3.4,74.6,4.0,6668.0,5.6
+STU0568,21,Data Science,1,Delhi,Hostel,Yes,Yes,Good,Home,17.4,6.4,6.1,2,7.5,6.2,81.2,3.7,4035.0,6.2
+STU0569,20,Business,4,Bengaluru,Home,No,No,Average,Home,17.5,5.9,6.1,2,27.4,4.3,75.4,2.8,4802.0,5.2
+STU0570,19,Engineering,4,Pune,PG,No,No,Good,Home,16.4,7.5,5.6,4,44.8,4.5,65.0,3.9,2925.0,10.1
+STU0571,21,Arts & Humanities,3,Chandigarh,Home,Yes,No,Poor,Café,5.8,6.2,3.0,2,35.9,4.1,55.0,4.0,1772.0,4.5
+STU0572,19,Arts & Humanities,3,Jammu,Home,Yes,No,Good,Library,15.2,6.2,3.7,3,22.7,3.2,64.5,3.8,5606.0,9.3
+STU0573,20,Data Science,2,Delhi,Shared Apartment,Yes,No,Good,Library,27.2,5.8,3.0,3,19.4,4.8,85.9,4.8,11284.0,6.4
+STU0574,24,Arts & Humanities,3,Pune,Home,No,Yes,Good,Library,9.3,7.6,7.4,5,30.6,7.6,61.7,4.0,7192.0,13.7
+STU0575,20,Arts & Humanities,4,Mumbai,Home,No,Yes,Average,Home,18.2,6.8,2.1,3,27.6,7.0,67.5,3.9,3873.0,4.0
+STU0576,19,Arts & Humanities,3,Jammu,Home,Yes,No,Good,Café,22.7,7.3,3.9,7,30.1,1.7,87.3,5.0,2585.0,4.2
+STU0577,23,Engineering,1,Chandigarh,Hostel,No,No,Excellent,Home,9.4,6.6,6.0,2,20.9,4.5,55.8,3.5,3760.0,10.6
+STU0578,20,Arts & Humanities,4,Srinagar,Shared Apartment,No,Yes,Good,Home,8.5,7.4,3.2,3,21.0,5.6,62.1,3.5,3880.0,12.2
+STU0579,23,Arts & Humanities,2,Mumbai,Shared Apartment,Yes,No,Good,Home,19.7,7.9,5.1,1,7.4,4.5,72.0,3.7,11318.0,10.5
+STU0580,21,Engineering,4,Jammu,Hostel,No,No,Good,Home,22.4,7.1,4.4,2,7.1,5.1,70.7,4.0,6565.0,9.7
+STU0581,21,Engineering,3,Pune,PG,No,No,Poor,Home,5.7,7.3,4.0,1,44.6,5.5,50.9,3.5,14809.0,6.3
+STU0582,22,Data Science,2,Mumbai,Shared Apartment,No,No,Excellent,Home,19.8,7.5,3.5,2,16.5,2.2,87.0,4.5,9521.0,13.1
+STU0583,21,Business,1,Delhi,Shared Apartment,No,No,Good,Home,5.0,7.9,8.6,1,37.3,7.2,73.4,3.6,8650.0,6.5
+STU0584,22,Business,3,Chandigarh,Home,Yes,No,Good,Home,17.2,5.1,5.1,4,36.3,6.1,82.4,3.7,1860.0,9.4
+STU0585,24,Life Sciences,4,Srinagar,PG,No,No,Good,Department Lab,21.6,6.5,2.5,5,23.7,3.9,78.4,4.6,8084.0,7.5
+STU0586,22,Arts & Humanities,2,Jammu,PG,Yes,Yes,Good,Home,16.7,7.4,4.5,5,11.7,6.1,80.7,3.8,6006.0,6.4
+STU0587,19,Arts & Humanities,3,Bengaluru,Hostel,Yes,No,Good,Home,12.3,5.5,3.9,2,17.5,3.7,70.6,4.0,3411.0,4.5
+STU0588,19,Data Science,1,Pune,Hostel,Yes,No,Good,Café,14.6,6.6,4.3,2,14.5,3.2,79.7,3.8,5559.0,10.9
+STU0589,21,Arts & Humanities,2,Delhi,Hostel,No,No,Average,Library,14.8,6.8,4.3,1,4.7,5.5,76.4,3.5,8446.0,9.1
+STU0590,22,Business,3,Mumbai,Home,Yes,No,Good,Home,11.3,6.9,3.5,5,32.5,4.2,59.3,4.1,3707.0,9.2
+STU0591,20,Data Science,4,Srinagar,PG,No,No,Excellent,Café,19.1,9.0,4.7,2,14.7,4.4,73.4,4.5,11847.0,9.2
+STU0592,22,Life Sciences,4,Jammu,Hostel,No,No,Good,Home,12.3,7.0,4.4,3,17.0,4.7,67.2,3.9,5150.0,10.9
+STU0593,22,Data Science,3,Jammu,Hostel,Yes,Yes,Poor,Home,10.8,6.8,7.6,3,13.3,6.1,67.8,4.0,10084.0,10.1
+STU0594,21,Arts & Humanities,2,Hyderabad,Hostel,No,No,Excellent,Library,17.1,5.9,3.1,0,7.9,5.1,72.6,4.0,2927.0,9.1
+STU0595,21,Business,1,Bengaluru,PG,No,No,Good,Library,14.3,6.8,5.8,7,45.8,5.1,60.8,3.9,14522.0,9.8
+STU0596,20,Engineering,3,Hyderabad,PG,Yes,No,Good,Home,11.7,6.7,5.5,1,21.8,4.5,60.6,4.7,8669.0,11.1
+STU0597,21,Life Sciences,2,Pune,Shared Apartment,No,No,Average,Department Lab,9.4,7.2,9.9,2,36.1,7.6,75.7,3.8,5169.0,8.0
+STU0598,18,Data Science,1,Pune,Hostel,No,No,Good,Café,17.3,7.0,4.1,3,11.8,5.0,59.5,4.4,7524.0,14.4
+STU0599,22,Engineering,3,Hyderabad,Home,No,No,Good,Home,7.9,7.8,1.9,3,44.9,1.8,65.0,4.4,2327.0,7.2
+STU0600,21,Engineering,1,Jammu,Home,No,No,Average,Library,21.0,7.7,3.0,3,15.0,4.5,85.2,3.4,3236.0,4.7
