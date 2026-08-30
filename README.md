@@ -10,6 +10,7 @@
 
 ```
 IDRA-Assignment-WEEK2-4/
+├── day-1/          # Day 1: Simple Arithmetic Calculator (Python Basics)
 ├── day-8/          # Day 8: Data Filtering, Sorting & Observations
 ├── day-9/          # Day 9: Data Merging, Concatenation & Feature Engineering
 ├── day-10/          # Day 10: Flight Operations Data Analysis
@@ -30,7 +31,7 @@ IDRA-Assignment-WEEK2-4/
 
 | Day | Topic | Dataset | Key Deliverables |
 |-----|-------|---------|------------------|
-| **Day 8** | Data Filtering, Sorting & Observations | `Day8_Ecommerce_Sales_Dataset.csv` (100 transactions) | EDA, Category/Region/Payment insights, Recommendations |
+| **Day 1** | Python Basics — Simple Arithmetic Calculator | No dataset (interactive user input) | Interactive calculator covering +, -, *, /, //, %, ** with zero-division handling |
 | **Day 9** | Data Merging, Concatenation & Feature Engineering | Orders (120) + Customers (30) + Products (20) | Merged dataset, `Order_Type`, `Total_Price`, Temporal features |
 | **Day 10** | Flight Operations Data Analysis | `Day10_Flight_Operations_Dataset.csv` (180 flights) | Complete Pandas workflow: load, clean, filter, sort, group, aggregate, 8 observations |
 | **Day 11** | Company Employee Data Cleaning | `Day11_Messy_Company_Employee_Dataset.csv` (157 employees) | Cleaned dataset, missing-value resolution, duplicate removal, dtype fixes, 7 findings |
@@ -48,6 +49,9 @@ IDRA-Assignment-WEEK2-4/
 Each day folder is self-contained:
 
 ```bash
+cd day-1
+jupyter notebook "IDRA DAY 1.ipynb"
+# or
 cd day-8
 jupyter notebook "IDRA DAY 8.ipynb"
 # or
@@ -82,6 +86,13 @@ jupyter notebook "IDRA DAY 18 & 19.ipynb"
 **Requirements:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `jupyter`
 
 ---
+
+## 📊 Day 1 Highlights
+- **Interactive input:** Two numbers captured from the user via `input()` and converted with `int()`
+- **All 7 operators:** Addition, Subtraction, Multiplication, Division, Floor Division, Modulus, Exponentiation
+- **Zero-division guard:** `if/else` prevents crash when the second number is zero (division, floor division, modulus safely skipped)
+- **Exponentiation still runs:** e.g. `0 ** 0` evaluates to `1` in Python
+- **Clean output:** Every result printed with a clearly-labelled formatted message
 
 ## 📊 Day 8 Highlights
 - **Top Category:** Sports (₹1.36L revenue)
