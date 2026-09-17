@@ -1,8 +1,8 @@
-# 📚 IDRA Assignment Week 2-4
+# 📚 IDRA Assignment (Week 1-4)
 
 **Student:** Patel Harshilkumar Rajubhai  
 **Track:** Data Analytics & E-Commerce Business Intelligence  
-**Duration:** Week 2-4 (Days 8-19)
+**Duration:** Week 1-4 (Days 1-19)
 
 ---
 
@@ -11,6 +11,11 @@
 ```
 IDRA-Assignment-WEEK2-4/
 ├── day-1/          # Day 1: Simple Arithmetic Calculator (Python Basics)
+├── day-2/          # Day 2: Number Guessing Game (Loops, Conditions, Random)
+├── day-3/          # Day 3: Student Management System (List of Dicts, CRUD)
+├── day-4/          # Day 4: Expense Tracking System (CSV + Exception Handling)
+├── day-5/          # Day 5: Student Grade Management System (OOP Mini-Project)
+├── day-6/          # Day 6: NumPy Practice Notebook (Numerical Analysis)
 ├── day-8/          # Day 8: Data Filtering, Sorting & Observations
 ├── day-9/          # Day 9: Data Merging, Concatenation & Feature Engineering
 ├── day-10/          # Day 10: Flight Operations Data Analysis
@@ -32,6 +37,12 @@ IDRA-Assignment-WEEK2-4/
 | Day | Topic | Dataset | Key Deliverables |
 |-----|-------|---------|------------------|
 | **Day 1** | Python Basics — Simple Arithmetic Calculator | No dataset (interactive user input) | Interactive calculator covering +, -, *, /, //, %, ** with zero-division handling |
+| **Day 2** | Python Loops, Conditions & Random — Number Guessing Game | No dataset (interactive user input) | Random 1–50 guessing game in 10 attempts with Too High / Too Low feedback and win/loss logic |
+| **Day 3** | Python CRUD — Student Management System | No dataset (in-memory list of dictionaries) | Menu-driven Add / View / Search / Update / Delete using functions, loops & conditionals |
+| **Day 4** | Python File Handling — Expense Tracking System | `expenses.csv` (CSV persistence) | Menu-driven expense CRUD, category-wise spending summary, exception & file handling |
+| **Day 5** | Python OOP — Student Grade Management System | `students.csv` (auto-generated CSV) | `Student` class (constructor + methods), grade calculation, top student, CSV load/save |
+| **Day 6** | Python NumPy — Numerical Analysis Notebook | No dataset (array practice) | 1D/2D/3D arrays, indexing/slicing, reshape, zeros/ones/arange/linspace, vectorized ops, masking, broadcasting, aggregates |
+| **Day 8** | E-Commerce Sales Analysis — Data Filtering, Sorting & Observations | `Day8_Ecommerce_Sales_Dataset.csv` (100 transactions) | Revenue drivers, regional spending, discount & payment-channel analysis, 4.32/5 average rating |
 | **Day 9** | Data Merging, Concatenation & Feature Engineering | Orders (120) + Customers (30) + Products (20) | Merged dataset, `Order_Type`, `Total_Price`, Temporal features |
 | **Day 10** | Flight Operations Data Analysis | `Day10_Flight_Operations_Dataset.csv` (180 flights) | Complete Pandas workflow: load, clean, filter, sort, group, aggregate, 8 observations |
 | **Day 11** | Company Employee Data Cleaning | `Day11_Messy_Company_Employee_Dataset.csv` (157 employees) | Cleaned dataset, missing-value resolution, duplicate removal, dtype fixes, 7 findings |
@@ -51,6 +62,21 @@ Each day folder is self-contained:
 ```bash
 cd day-1
 jupyter notebook "IDRA DAY 1.ipynb"
+# or
+cd day-2
+jupyter notebook "IDRA DAY 2.ipynb"
+# or
+cd day-3
+jupyter notebook "IDRA DAY 3.ipynb"
+# or
+cd day-4
+jupyter notebook "IDRA DAY 4.ipynb"
+# or
+cd day-5
+jupyter notebook "IDRA DAY 5.ipynb"
+# or
+cd day-6
+jupyter notebook "IDRA DAY 6.ipynb"
 # or
 cd day-8
 jupyter notebook "IDRA DAY 8.ipynb"
@@ -93,6 +119,41 @@ jupyter notebook "IDRA DAY 18 & 19.ipynb"
 - **Zero-division guard:** `if/else` prevents crash when the second number is zero (division, floor division, modulus safely skipped)
 - **Exponentiation still runs:** e.g. `0 ** 0` evaluates to `1` in Python
 - **Clean output:** Every result printed with a clearly-labelled formatted message
+
+## 🎮 Day 2 Highlights
+- **Secret number:** `random.randint(1, 50)` picks the target at the start of each round
+- **Loop control:** a `for` loop limits the player to exactly 10 attempts
+- **Instant feedback:** `if/elif/else` reports "Too high", "Too low" or "Correct" after every guess
+- **User input:** `input()` + `int()` convert the player's guess before comparison
+- **Win/Loss end-state:** clear "winner" message on success or a friendly message when attempts run out
+
+## 🎓 Day 3 Highlights
+- **Data model:** student records stored as a list of dictionaries (`ID, Name, Age, Course, Marks`)
+- **Full CRUD:** Add, View, Search (by ID or name), Update and Delete are all implemented
+- **Structure:** every operation is a focused function wired through a `while True` menu loop
+- **Search flexibility:** a student can be found by either ID or name
+- **Extendable:** clean design that could grow into file-backed or database storage later
+
+## 💰 Day 4 Highlights
+- **CSV persistence:** every expense is saved to `expenses.csv` (Date, Category, Amount, optional Note)
+- **Category-wise summary:** a dictionary groups spending by category and prints totals
+- **Exception handling:** `ValueError` (bad/negative amount) and `FileNotFoundError` (first run) are caught gracefully
+- **Total spent:** `view()` prints the full table plus the grand total
+- **Menu-driven:** Add / View / Summary / Exit loop with invalid-choice protection
+
+## 🏆 Day 5 Highlights
+- **True OOP:** `Student` class with constructor, `total()` and `grade()` methods (A/B/C by average)
+- **CSV persistence:** records load from and save to `students.csv` without crashing on first run
+- **Data structures:** list of objects, dictionary for subject marks, set for subjects, tuple for top student
+- **Validation:** non-numeric and out-of-range (0–100) marks are rejected politely
+- **Top student:** scans all students and reports the highest scorer
+
+## 🔢 Day 6 Highlights
+- **Array creation:** 1D, 2D and 3D arrays via `np.array()`, plus `zeros()`, `ones()`, `arange()`, `linspace()`
+- **Structure tools:** `.shape`, `.ndim`, `.dtype`, indexing, slicing and `.reshape()`
+- **Vectorized math:** add, subtract, multiply, powers and `np.sqrt()` on whole arrays
+- **Filtering:** boolean masking splits passed vs failed values directly from an array
+- **Aggregates:** `sum()`, `mean()`, `min()`, `max()` and `median()` — works as a complete NumPy cheat-sheet
 
 ## 📊 Day 8 Highlights
 - **Top Category:** Sports (₹1.36L revenue)
